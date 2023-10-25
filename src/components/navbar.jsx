@@ -1,10 +1,37 @@
 import React, { useState, useEffect } from 'react';
+import SearchIcon from '../assets/img/SearchIcon.png'
+import Logo from '../assets/img/VnNortravels-logos.jpeg'
+import styled from 'styled-components';
+
+
+const Textnav = styled.a`
+    font-size: 19px;
+    letter-spacing: 0.3px;
+    font-weight: 500;
+    &:hover{
+        color: #227C70;
+    }
+    cursor: pointer;
+`;
+const DivImg = styled.div`
+
+`;
 const Navbar = () => {
-
-
     return (
         <>
-            <div className=' bg-black text-[red]'>this is navbar demo</div>
+            <div className=' bg-[#d8d6c9] flex items-center justify-center gap-[40px] '>
+                <DivImg>
+                    <img src={Logo} className='w-[100px] h-[110px] rounded-[40px] border-none ' />
+                </DivImg >
+
+                <Textnav>Places to go</Textnav>
+                <Textnav>Things to do</Textnav>
+                <Textnav> Plan your trip</Textnav>
+                <Textnav>Travell offers</Textnav>
+                <DivImg>
+                    <img src={SearchIcon} />
+                </DivImg>
+            </div >
         </>
     );
 };
