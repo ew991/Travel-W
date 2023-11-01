@@ -5,6 +5,7 @@ import styled from 'styled-components';
 
 
 const Textnav = styled.a`
+    color: white;
     font-size: 19px;
     letter-spacing: 0.3px;
     font-weight: 500;
@@ -19,7 +20,7 @@ const DivImg = styled.div`
 const Navbar = () => {
     return (
         <>
-            <div className=' bg-[#d8d6c9] flex items-center justify-center gap-[40px] '>
+            <div className='s  absolute z-[35] w-full flex items-center justify-center gap-[40px] '>
                 <DivImg>
                     <img src={Logo} className='w-[100px] h-[110px] rounded-[40px] border-none ' />
                 </DivImg >

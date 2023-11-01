@@ -19,8 +19,8 @@ export const GlobalClass = css`
 
     button{
         height: 58px;
-        background-color: #FF64AE;
-        border-radius: 50px;
+        background-color: #227C70;
+        border-radius: 17px;
         width: 200px;
         font-weight: 600;
         font-size: 16px;
@@ -30,7 +30,7 @@ export const GlobalClass = css`
         cursor: pointer;
         &:hover{
             background-color: #FFFFFF;
-            color: #FF64AE;
+            color: #227C70;
            
         }
     }

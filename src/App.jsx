@@ -1,13 +1,11 @@
 import React from 'react';
 import { GobalStyle } from './GlobalStyle';
-import Navbar from './components/navbar';
-import Footer from './components/Footer';
+import HomePage from './pages/Home';
 const App = () => {
   return (
     <>
       <GobalStyle></GobalStyle>
-      <Navbar />
-      <Footer />
+      <HomePage />
     </>
   );
 };
