@@ -21,11 +21,13 @@ const Navbar = () => {
     return (
         <>
             <div className='s  absolute z-[35] w-full flex items-center justify-center gap-[40px] '>
-                <DivImg>
-                    <img src={Logo} className='w-[100px] h-[110px] rounded-[40px] border-none ' />
+                <DivImg >
+                    <a href='/'>
+                        <img src={Logo} className='w-[100px] h-[110px] rounded-[40px] border-none ' />
+                    </a>
                 </DivImg >
 
-                <Textnav>Places to go</Textnav>
+                <Textnav href='/PlaceToGo/CatBa'>Places to go</Textnav>
                 <Textnav>Things to do</Textnav>
                 <Textnav> Plan your trip</Textnav>
                 <Textnav>Travell offers</Textnav>
