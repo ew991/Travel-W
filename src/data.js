@@ -128,3 +128,146 @@ import SaPa12 from './assets/img/PlaceImg/Sapa/Sa-Pa-mua-he-2695-1650277614-2418
 import SaPa13 from './assets/img/PlaceImg/Sapa/san-tuyet-Sa-Pa-8336-165027761-1851-5413-1652148659.jpg'
 import SaPa14 from './assets/img/PlaceImg/Sapa/Ta-Van-Sa-Pa-2-4584-1650277616-2850-1652148666.jpg'
 import SaPa15 from './assets/img/PlaceImg/Sapa/Ta-Van-Sa-Pa-8466-1650277615-2110-1652148665.jpg'
+
+export const placesToGo = [
+    {
+        id: 1,
+        name: 'Hanoi',
+        imageSrc: HaNoi12,
+        description: [
+            'Still often referred to by its old name, Saigon, Ho Chi Minh City is a clamorous, chaotic sensory feast. Motorbikes honk in a tidal wave across clogged intersections, locals crouch on street corners slurping steaming hot bowls of Pho (noodle soup); and the sultry air is thick with exhaust fumes and exotic spices.',
+            `Ho Chi Minh City is Vietnam's commercial hub and largest city, and it's a place where old abuts new with striking contrast. Temples huddle amid skyscrapers and designer shops; locals cast bamboo fishing rods into the languorous Saigon River; and in places, the city feels almost European, with its elegant French colonial architecture and wide, tree-lined avenues.`,
+            `Adding to the fascinating cultural jolt is a clutch of intriguing tourist attractions, from the poignant War Remnants Museum and captivating water puppet shows to colorful markets and the time warp of the Reunification Palace.`,
+        ],
+        // move: [
+        //     {
+        //         description: [
+        //             'Still often referred to by its old name, Saigon, Ho Chi Minh City is a clamorous, chaotic sensory feast. Motorbikes honk in a tidal wave across clogged intersections, locals crouch on street corners slurping steaming hot bowls of Pho (noodle soup); and the sultry air is thick with exhaust fumes and exotic spices.',
+        //             `Ho Chi Minh City is Vietnam's commercial hub and largest city, and it's a place where old abuts new with striking contrast. Temples huddle amid skyscrapers and designer shops; locals cast bamboo fishing rods into the languorous Saigon River; and in places, the city feels almost European, with its elegant French colonial architecture and wide, tree-lined avenues.`,
+        //             `Adding to the fascinating cultural jolt is a clutch of intriguing tourist attractions, from the poignant War Remnants Museum and captivating water puppet shows to colorful markets and the time warp of the Reunification Palace.`,
+        //         ]
+        //     }],
+        places: [
+            {
+                id: 1,
+                name: 'Hoang Thanh Thang Long',
+                description: [
+                    `About 60 kilometers from Ho Chi Minh City, the Cu Chi Tunnels are a must-see half-day trip and one of the top tours for visitors to the city. This vast 250-kilometer-plus network of tunnels served as the base for the Viet Cong's military operations during the Vietnam War. `,
+                    `A visit usually includes the chance to crawl through part of the tunnel network, an experience that enhances your appreciation for the stamina and adaptability of the soldiers who lived here.`,
+                    `Even if you're not a fan of modern military history, the tunnels offer powerful insight into the conditions faced by troops during the conflict and the strategies that strengthened the VC's resistance against American forces.`,
+                ],
+                images: [
+                    {
+                        id: 1,
+                        imageSrc: HaNoi5,
+                        imageAlt: 'Hoang Thanh Thang Long',
+                    },
+                ],
+            },
+            {
+                id: 2,
+                name: 'Ho Hoan Kiem',
+                description: [
+                    'The War Remnants Museum is one of the most popular museums in Vietnam, with harrowing exhibits related to the horrors of war in this battle-worn nation. The museum primarily focuses on the Vietnam War, however, some exhibits relate to the first Indochina War with French colonialists.',
+                    'Most of the displays are photographic images, and some of these are confronting – especially the graphic shots of child Agent Orange victims. Artifacts on display include a guillotine and the "tiger cages" used for Viet Cong prisoners.',
+                    `Period military vehicles and weapons are displayed in the museum's courtyard. After touring the countryside and the Cu Chi Tunnels, you'll find these exhibits even more moving, but note that some of the exhibits are not suitable for small children.`,
+                ],
+                images: [
+                    {
+                        id: 1,
+                        imageSrc: HaNoi14,
+                        imageAlt: 'Ho Hoan Kiem',
+                    },
+                ],
+            },
+            {
+                id: 3,
+                name: 'Cau Long Bien',
+                description: [
+                    'Cruising through the lush labyrinth of palm-fringed channels, rivers, and islands of the Mekong Delta is a popular day trip that seems a world away from hectic Ho Chi Minh City. It offers a fascinating glimpse into the way of life of the people who depend on this fragile waterway for their survival.',
+                    `Encompassing about 40,000 square kilometers, the delta produces more than half of the country's grain and 90 percent of its exports, and it's well-known for its floating markets, which usually take place during the early morning.`,
+                    `From Ho Chi Minh City, tours to the delta, usually involve a 70-kilometer drive to My Tho, a market town on the banks of the Mekong River; a cruise along the delta; and visits to local villages, farms, and factories. The Mekong Delta Discovery Small Group Adventure Tour offers these activities, as well as the chance to sample traditional dishes and tropical fruit from the region.`,
+                ],
+                images: [
+                    {
+                        id: 1,
+                        imageSrc: HaNoi13,
+                        imageAlt: 'Cau Long Bien',
+                    },
+                ],
+            },
+            {
+                id: 4,
+                name: 'Chua Tran Quoc',
+                description: [
+                    'The Golden Dragon Water Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
+                    `The captivating 50-minute show provides a window into the country's culture. It's presented in Vietnamese, but the strength of the puppet characters, both people and animals, transcends the language barrier.`,
+                    `Live music enhances the experience; the talented musicians play traditional instruments such as bamboo flutes and two-stringed violins. The theater is air-conditioned, and if you're sitting in the front row, be prepared for some gentle splashes.`,
+                ],
+                images: [
+                    { id: 1, imageSrc: HaNoi12, imageAlt: 'water puppet show' },
+                ],
+            },
+            {
+                id: 5,
+                name: 'Van Mieu',
+                description: [
+                    'The Golden Dragon Water Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
+                    `The captivating 50-minute show provides a window into the country's culture. It's presented in Vietnamese, but the strength of the puppet characters, both people and animals, transcends the language barrier.`,
+                    `Live music enhances the experience; the talented musicians play traditional instruments such as bamboo flutes and two-stringed violins. The theater is air-conditioned, and if you're sitting in the front row, be prepared for some gentle splashes.`,
+                ],
+                images: [
+                    { id: 1, imageSrc: HaNoi11, imageAlt: 'water puppet show' },
+                ],
+            },
+            {
+                id: 6,
+                name: 'Lang Bac ',
+                description: [
+                    'The Golden Dragon Water Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
+                    `The captivating 50-minute show provides a window into the country's culture. It's presented in Vietnamese, but the strength of the puppet characters, both people and animals, transcends the language barrier.`,
+                    `Live music enhances the experience; the talented musicians play traditional instruments such as bamboo flutes and two-stringed violins. The theater is air-conditioned, and if you're sitting in the front row, be prepared for some gentle splashes.`,
+                ],
+                images: [
+                    { id: 1, imageSrc: HaNoi10, imageAlt: 'water puppet show' },
+                ],
+            },
+            {
+                id: 7,
+                name: 'Chua Mot cot',
+                description: [
+                    'The Golden Dragon Water Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
+                    `The captivating 50-minute show provides a window into the country's culture. It's presented in Vietnamese, but the strength of the puppet characters, both people and animals, transcends the language barrier.`,
+                    `Live music enhances the experience; the talented musicians play traditional instruments such as bamboo flutes and two-stringed violins. The theater is air-conditioned, and if you're sitting in the front row, be prepared for some gentle splashes.`,
+                ],
+                images: [
+                    { id: 1, imageSrc: HaNoi9, imageAlt: 'water puppet show' },
+                ],
+            },
+            {
+                id: 8,
+                name: 'Pho co',
+                description: [
+                    'The Golden Dragon Water Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
+                    `The captivating 50-minute show provides a window into the country's culture. It's presented in Vietnamese, but the strength of the puppet characters, both people and animals, transcends the language barrier.`,
+                    `Live music enhances the experience; the talented musicians play traditional instruments such as bamboo flutes and two-stringed violins. The theater is air-conditioned, and if you're sitting in the front row, be prepared for some gentle splashes.`,
+                ],
+                images: [
+                    { id: 1, imageSrc: HaNoi8, imageAlt: 'water puppet show' },
+                ],
+            },
+            {
+                id: 9,
+                name: 'Bao Tang',
+                description: [
+                    'The Golden Dragon Water Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
+                    `The captivating 50-minute show provides a window into the country's culture. It's presented in Vietnamese, but the strength of the puppet characters, both people and animals, transcends the language barrier.`,
+                    `Live music enhances the experience; the talented musicians play traditional instruments such as bamboo flutes and two-stringed violins. The theater is air-conditioned, and if you're sitting in the front row, be prepared for some gentle splashes.`,
+                ],
+                images: [
+                    { id: 1, imageSrc: HaNoi7, imageAlt: 'water puppet show' },
+                ],
+            },
+        ],
+    },
+];

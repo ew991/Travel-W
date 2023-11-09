@@ -28,7 +28,7 @@ const Navbar = () => {
                 </DivImg >
 
                 <Textnav href='/PlaceToGo/CatBa'>Places to go</Textnav>
-                <Textnav>Things to do</Textnav>
+                <Textnav href='/PlaceToGo/Hanoi'>Things to do</Textnav>
                 <Textnav> Plan your trip</Textnav>
                 <Textnav>Travell offers</Textnav>
                 <DivImg>
