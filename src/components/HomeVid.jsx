@@ -23,7 +23,7 @@ const HomeVid = () => {
                 <h3 className="text-2xl sm:text-3xl md:text-5xl my-2 sm:my-5 capitalize">
                     The hidden charm
                 </h3>
-                <p className="max-w-2xl mx-auto my-2 sm:my-5 text-base sm:text-xl lg:text-2xl">
+                <p className=" text-[white] max-w-2xl mx-auto my-2 sm:my-5 text-base sm:text-xl lg:text-2xl">
                     A land of staggering natural beauty and cultural complexities, of
                     dynamic mega cities and hill-tribe villages, Vietnam is both exotic
                     and compelling.
@@ -31,7 +31,7 @@ const HomeVid = () => {
 
                 <a
                     href="#featured"
-                    className={`text-xs bg-[#227C70] text-gray-800 py-2.5 px-7 mt-2.5 uppercase tracking-wider hover:tracking-widest transition duration-200 ease-in-out`}
+                    className={`text-xs bg-[#227C70] text-gray-800 py-2.5 px-7 mt-2.5 uppercase tracking-wider hover:tracking-widest transition duration-200 ease-in-out rounded-[5px]`}
                 >
                     Explore
                 </a>

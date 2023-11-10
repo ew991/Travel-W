@@ -9,7 +9,7 @@ const SharedLayout = () => {
             <main className="min-h-screen">
                 <Outlet />
             </main>
-            <Footer />
+            {/* <Footer /> */}
         </>
     );
 };

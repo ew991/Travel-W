@@ -5,7 +5,7 @@ import styled from 'styled-components';
 
 
 const Textnav = styled.a`
-    color: white;
+    color: #ffffff;
     font-size: 19px;
     letter-spacing: 0.3px;
     font-weight: 500;
@@ -27,9 +27,9 @@ const Navbar = () => {
                     </a>
                 </DivImg >
 
-                <Textnav href='/PlaceToGo/CatBa'>Places to go</Textnav>
-                <Textnav href='/PlaceToGo/Hanoi'>Things to do</Textnav>
-                <Textnav> Plan your trip</Textnav>
+                <Textnav href='/PlaceToGo'>Places to go</Textnav>
+                <Textnav href='/ThingToDo'>Things to do</Textnav>
+                <Textnav href='/PlanYourTrip'> Plan your trip</Textnav>
                 <Textnav>Travell offers</Textnav>
                 <DivImg>
                     <img src={SearchIcon} />

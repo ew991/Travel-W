@@ -10,14 +10,11 @@ const TextSpotLight = styled.div`
     font-size: 80px;
     text-align: center;
 `;
-const Img = styled.img`
-    position: absolute;
-    /* max-height: 700px; */
-`;
+
 const CatBa = () => {
     return (
         <>
-            <Img src={CatBa1} />
+            <img className=' img-showup' src={CatBa1} />
             <TextSpotLight>Cát Bà</TextSpotLight>
         </>
     );

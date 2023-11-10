@@ -4,14 +4,14 @@ export const GlobalClass = css`
     body{
         font-family: 'Poppins';
         letter-spacing: 1.6px;
-        background: #FFF;
+        background: #ffffffd2;
     }
     a{
       color: #252525;
     }
     
     p{
-      color: #FFFFFF;
+      color: #000000;
     }
     h1{
       color: #1C315E;
