@@ -7,7 +7,7 @@ import SectionIntro from '../components/SectionIntro';
 const PlacesToGo = () => {
     return (
         <>
-            <section className="section bg-white" id="places">
+            <section className="section" id="places">
                 <SectionTitle title="places to go" />
                 <div className="section-center ">
                     {/* Places-to-go introduction */}

@@ -4,7 +4,7 @@ export const GlobalClass = css`
     body{
         font-family: 'Poppins';
         letter-spacing: 1.6px;
-        background: #ffffffd2;
+        background: #8AAAE5;
     }
     a{
       color: #252525;
