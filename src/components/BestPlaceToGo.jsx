@@ -59,19 +59,22 @@ const BestPlaceTG = () => {
                             Best places to visit in {name}
                         </h3>
 
-                        {places.map((pl, index) => {
+                        {places.map((pl) => {
                             const { id, name, description, images } = pl;
                             return (
                                 <div className="tip-container" key={id}>
                                     <h3 className="tip-title">
-                                        {index + 1}- {name}
+                                        {name}
                                     </h3>
                                     {description?.map((desc, index) => (
                                         <p key={index}>{desc}</p>
                                     ))}
-                                    {images.map(img => (
-                                        <img key={img.id} src={img.imageSrc} alt={name}></img>
-                                    ))}
+                                    <div className=' grid grid-flow-col gap-4 auto-col-max hover:auto-col-min'>
+
+                                        {images.map(img => (
+                                            <img className=' max-w-screen' key={img.id} src={img.imageSrc} alt={name}></img>
+                                        ))}
+                                    </div>
                                 </div>
                             );
                         })}
