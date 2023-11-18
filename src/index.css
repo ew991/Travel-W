@@ -125,4 +125,13 @@ code {
   .img-showup {
     @apply absolute top-0 left-0 w-full h-full object-cover;
   }
+
+  .center-h {
+    @apply text-center text-4xl font-medium text-[#b2910e] mt-4;
+  }
+
+  .center-p {
+    @apply text-center text-2xl font-normal mt-2;
+  }
+
 }

@@ -204,6 +204,17 @@ import SaPa13 from './assets/img/PlaceImg/Sapa/san-tuyet-Sa-Pa-8336-165027761-18
 import SaPa14 from './assets/img/PlaceImg/Sapa/Ta-Van-Sa-Pa-2-4584-1650277616-2850-1652148666.jpg';
 import SaPa15 from './assets/img/PlaceImg/Sapa/Ta-Van-Sa-Pa-8466-1650277615-2110-1652148665.jpg';
 
+
+//practicalities
+import cur1 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism_1.jpg';
+import cur2 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-2_1.jpg';
+import cur3 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-3.jpg';
+import cur4 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-4.jpg';
+import cur5 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-5_0.jpg';
+import cur6 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-6_0.jpg';
+import cur7 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-7_0.jpg';
+import cur8 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-8.jpg';
+
 export const placesToGo = [
     {
         ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -3007,4 +3018,87 @@ export const placesToGo = [
             },
         ],
     },
+];
+export const practicalities = [
+    {
+        id: 1,
+        name: 'CURRENCY',
+        imageSrc: cur1,
+        description: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+
+        ],
+
+    },
+    {
+        id: 2,
+        name: 'TAXI SERVICE',
+        imageSrc: cur1,
+        description: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+
+        ],
+
+    },
+    {
+        id: 3,
+        name: 'PUBLIC HOLIDAY',
+        imageSrc: cur1,
+        description: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+
+        ],
+
+    },
+    {
+        id: 4,
+        name: 'POWER PLUGS',
+        imageSrc: cur1,
+        description: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+
+        ],
+
+    },
+    {
+        id: 5,
+        name: 'SIM CARDS & HELPFUL NUMBERS',
+        imageSrc: cur1,
+        description: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+
+        ],
+
+    },
+    {
+        id: 6,
+        name: 'INTERNET AND POSTAL SERVICES',
+        imageSrc: cur1,
+        description: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+
+        ],
+
+    },
+    {
+        id: 7,
+        name: 'HOSPITALS',
+        imageSrc: cur1,
+        description: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+
+        ],
+
+    },
+    {
+        id: 8,
+        name: 'EMBASSIES AND CONSULATES',
+        imageSrc: cur1,
+        description: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+
+        ],
+
+    },
+
 ];
