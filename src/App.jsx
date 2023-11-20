@@ -7,6 +7,7 @@ import PlacesToGo from './pages/PlacesTogo';
 import BestPlaceTG from './components/BestPlaceToGo';
 import PlanYourTrip from './pages/PlanYourTrip';
 import ScrollToTop from './components/ScrollToTop';
+
 const App = () => {
   return (
     <>
@@ -23,6 +24,7 @@ const App = () => {
           </Routes>
         </ScrollToTop>
       </BrowserRouter>
+
     </>
   );
 };

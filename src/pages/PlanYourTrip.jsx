@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import img from '../assets/img/he-thong-duong-sat-viet-nam.jpg'
 import { practicalities } from '../data';
-
+import InforGrapic from '../components/InforGrapics';
 const PlanYourTrip = () => {
 
     const [openPopupId, setOpenPopupId] = useState(null);
@@ -45,7 +45,7 @@ const PlanYourTrip = () => {
                             const elementRef = React.createRef();
                             myElementRefs.current[id] = elementRef;
                             return (
-                                <div ref={elementRef} onClick={() => openPopup(id)} className='w-[265px] h-[290px] bg-slate-300' key={id}>
+                                <div ref={elementRef} onClick={() => openPopup(id)} className='w-[265px] h-[290px] bg-slate-300 p-2' key={id}>
                                     <img src={imageSrc}></img>
                                     <h1 className='text-[15px] font-bold'>{name}</h1>
                                     <p className='text-[14px] mt-[10px]'>{description}</p>
@@ -59,22 +59,27 @@ const PlanYourTrip = () => {
 
                 </div>
                 {openPopupId && (
+
+
                     <div
-                        className="fixed top-0 left-0 w-full h-full bg-gray-800 bg-opacity-50 flex justify-center items-center"
+                        className="fixed top-0 left-0 w-full h-full overflow-y-auto bg-gray-800 bg-opacity-50 flex justify-center "
                         onClick={handleContainerClick}
                     >
-                        <div className="w-2/3 bg-white p-8 rounded-lg">
-                            <button onClick={closePopup} className="text-gray-700 hover:text-gray-900 text-xl">
+                        <div className=" mt-[50px] rounded-lg">
+                            {/* <button onClick={closePopup} className="text-gray-700 hover:text-gray-900 text-xl">
                                 &times;
-                            </button>
+                            </button> */}
                             {practicalities.map((pop) => {
                                 if (pop.id === openPopupId) {
-                                    const { id, name, description, imageSrc } = pop;
+                                    const { id, name, descriptions, imageSrc } = pop;
                                     return (
-                                        <div className='w-[265px] h-[290px] bg-slate-300' key={id}>
+                                        <div className='p-2 pb-[50px] bg-slate-300 max-w-[675px]' key={id}>
                                             <img src={imageSrc} alt={name} />
-                                            <h1 className='text-[15px] font-bold'>{name}</h1>
-                                            <p className='text-[14px] mt-[10px]'>{description}</p>
+                                            <h1 className='text-[19px] font-bold'>{name}</h1>
+
+                                            {descriptions?.map((desc, index) => (
+                                                <p className=' mt-4 max-w-[675px]' key={index}>{desc}</p>
+                                            ))}
                                         </div>
                                     );
                                 }
@@ -82,8 +87,10 @@ const PlanYourTrip = () => {
                             })}
                         </div>
                     </div>
+
                 )}
             </div>
+            <InforGrapic />
 
         </>
     );

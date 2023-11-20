@@ -52,12 +52,24 @@ import Coto14 from './assets/img/PlaceImg/DaoCoto/don-cao-8712-1655807498.jpg';
 import Coto15 from './assets/img/PlaceImg/DaoCoto/du-lich-co-to-2-2281-1655807496.jpg';
 import Coto16 from './assets/img/PlaceImg/DaoCoto/du-lich-co-to-6981-1655807496.jpg';
 import Coto17 from './assets/img/PlaceImg/DaoCoto/hai-dang-Co-To-1443-1655807498.jpg';
-import Coto18 from './assets/img/PlaceImg/DaoCoto/hoa-choi-C-To-6559-1655807498.jpg';
+import Coto18 from './assets/img/PlaceImg/DaoCoto/images1007410_111.jpg';
 import Coto19 from './assets/img/PlaceImg/DaoCoto/hon-ca-chep-1737-1655807497.jpg';
 import Coto20 from './assets/img/PlaceImg/DaoCoto/Hon-khe-trau-5721-1655807497.jpg';
 import Coto21 from './assets/img/PlaceImg/DaoCoto/khu-di-tich-co-to-6185-1655807498.jpg';
 import Coto22 from './assets/img/PlaceImg/DaoCoto/pho-di-bo-1292-1655807498.jpg';
 import Coto23 from './assets/img/PlaceImg/DaoCoto/tau-di-co-to-4733-1655807496.jpg';
+import Coto24 from './assets/img/PlaceImg/DaoCoto/CoTodulich-1655800482-5912-1655807499.jpg';
+import Coto25 from './assets/img/PlaceImg/DaoCoto/Cang-Cai-Rong-Quang-Ninh-1024x682.jpg';
+import Coto26 from './assets/img/PlaceImg/DaoCoto/xe-dien.jpg';
+import Coto27 from './assets/img/PlaceImg/DaoCoto/images1007400_02.jpg';
+import Coto28 from './assets/img/PlaceImg/DaoCoto/ttxvn_nuoc_sach.jpg';
+import Coto29 from './assets/img/PlaceImg/DaoCoto/nha-hang-sua-co-to-13.jpg';
+import Coto30 from './assets/img/PlaceImg/DaoCoto/image-list-10-nha-hang-co-to-khach-du-lich-nen-thu-khi-toi-quang-ninh-168024976669356.jpg';
+import Coto31 from './assets/img/PlaceImg/DaoCoto/252561812.jpg';
+import Coto32 from './assets/img/PlaceImg/DaoCoto/Coto-Eco-Lodge-1.jpg';
+import Coto33 from './assets/img/PlaceImg/DaoCoto/dao-Co-To-01-9882-1655807499.jpg';
+
+
 //3 Ha Giang
 import HaGiang1 from './assets/img/PlaceImg/HaGiang/cot-co-Lung-Cu-8581-1648807019-3263-1657019236.jpg';
 import HaGiang2 from './assets/img/PlaceImg/HaGiang/dinh-thu-Vua-Meo-8543-16487185-3971-6207-1657019234.jpg';
@@ -214,6 +226,14 @@ import cur5 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-5_0.j
 import cur6 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-6_0.jpg';
 import cur7 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-7_0.jpg';
 import cur8 from './assets/img/PlanYourTrip/Practicalities/vietnam tourism-8.jpg';
+
+////tip
+import tip1 from './assets/img/PlanYourTrip/tips/e-visa guide vietnam_0.jpg';
+import tip2 from './assets/img/PlanYourTrip/tips/Etiquette in Vietnam.jpg';
+import tip3 from './assets/img/PlanYourTrip/tips/Etiquette Infographic_F1.png';
+import tip4 from './assets/img/PlanYourTrip/tips/Etiquette Infographic_F2.png';
+import tip5 from './assets/img/PlanYourTrip/tips/transport in vietnam (2)_2.jpg';
+import tip6 from './assets/img/PlanYourTrip/tips/transport in vietnam.jpg';
 
 export const placesToGo = [
     {
@@ -825,382 +845,278 @@ export const placesToGo = [
         name: 'Co To island',
         imageSrc: Coto,
         description: [
-            'Still often referred to by its old name, Saigon, Ho Chi Minh City is a clamorous, chaotic sensory feast. Motorbikes honk in a tidal wave across clogged intersections, locals crouch on street corners slurping steaming hot bowls of Pho (noodle soup); and the sultry air is thick with exhaust fumes and exotic spices.',
-            `Ho Chi Minh City is Vietnam's commercial hub and largest city, and it's a place where old abuts new with striking contrast. Temples huddle amid skyscrapers and designer shops; locals cast bamboo fishing rods into the languorous Saigon River; and in places, the city feels almost European, with its elegant French colonial architecture and wide, tree-lined avenues.`,
-            `Adding to the fascinating cultural jolt is a clutch of intriguing tourist attractions, from the poignant War Remnants Museum and captivating water puppet shows to colorful markets and the time warp of the Reunification Palace.`,
+            'Co To is an island district in the east of Quang Ninh province, about 80 km from the mainland.  Co To has nearly 50 small islands, of which tourists mainly explore the island clusters of Co To, Co To Con and Thanh Lan. Harvesting mint honey on the Stone Plateau.  Along Highway 4C to Quan Ba, Dong Van, and Meo Vac districts, visitors can easily encounter beekeeping shacks and exploiting honey on the spot.  Typical honey is lemon yellow in color, deeply fragrant, sweet and refreshing like mint. ',
         ],
         intro: [
             {
                 id: 1,
-                name: 'What is the most beautiful season in HaNoi? ',
+                name: 'What is the most beautiful season in Co To island? ',
                 description: [
-                    `The best time to visit Hanoi is during the fall from August to November and in the spring from March to April. Autumn is often considered the most beautiful season in Hanoi, with clear blue skies, crisp winds, falling yellow leaves, and the faint scent of milk flowers. Spring brings warm weather, and the streets appear to be adorned in new attire as trees bud and flowers blossom.`,
+                    `The most beautiful time to travel to Co To is summer and autumn.  April and May are ideal because there are no storms, no rain, and the sun is not hot.  June and July are suitable for summer travel but there are frequent storms.  September and October are beautiful but it starts to get colder and rains more - the plus point is that the prices are not as expensive as the peak season. `,
+                    `No matter what season you go, you should monitor the weather forecast before departing to avoid being stuck for a long time because boats are prohibited from sailing during storms.  If a storm suddenly hits while you are in Co To, follow the instructions of local authorities, or tour guides in case of group travel.  Stay in a hotel or find a safe shelter, only continue your journey when the storm clears.  You should bring more money than your estimated budget. `,
+
                 ],
 
-                images: [Hanoiw, Hanoiw2]
+                images: [Coto11, Coto24]
             },
             {
                 id: 2,
                 name: 'Move ',
                 description: [
-                    `Hanoi, the heart of Vietnam, offers various transportation options for visitors to reach the capital, including plane, train, bus, private car, or motorbike from nearby provinces.`,
+                    `To get to Co To island, visitors will have to take 2 routes: `,
 
-                    `To explore the city, visitors can choose to travel by car, motorbike, or bicycle. However, for a more picturesque experience, one can opt to ride a cyclo and take in the beauty of the 36 streets. Alternatively, a tour on a three-wheeled motorbike or vintage Vespa is also highly recommended. Another option to consider is the double-decker bus, with ticket prices ranging from 130,000 to 599,000 VND.`,
+                    `Stage 1: Arrive at Cai Rong port, Van Don, Quang Ninh
+                    Tourists from the South or Central region will take a flight to Hanoi or Hai Phong, Quang Ninh and then go by road to Cai Rong port, Van Don district. `,
+                    `If you do not drive your own car or motorbike from Hanoi, you can take a limousine or bus to Cua Ong, Cam Pha at My Dinh and Giap Bat bus stations.  Price is about 150,000 VND to 200,000 VND per turn.  Travel time is nearly 4 hours. `,
+                    `Departing from Hai Phong, travel time is about 1 hour 30 minutes.  The price of a limousine is about 150,000 VND per trip, and a passenger car is about 120,000 VND per trip. `,
+                    `Stage 2: From Cai Rong port, take a boat to Co To island`,
+                    `There are currently 3 types of ships: high-speed ships, wooden ships and reinforced ships.  Tourists often take high-speed trains and wooden boats. `,
+                    `High-speed train: Travel time is more than one hour, reference ticket price is 250,000 VND per trip.  Shipping lines include: Ka Long, Phuc Thinh, Co To 68, Co To 01, Havaco, Nguyen Viet, Quang Minh, Manh Quang, Hai Vinh 89, Hoang Quan.  Departure time is from 6:00 a.m. to 5:30 p.m. `,
+                    `Wooden boat: Travel time is nearly three hours, reference ticket price is 95,000 VND per trip.  Departure time from Van Don - Co To is 7:00 a.m., return time is 1:00 p.m., as long as there are enough passengers, it will run. `,
+
                 ],
 
-                images: [Hanoimove, Hanoimove2,]
+                images: [Coto23, Coto25,]
             },
             {
                 id: 3,
-                name: 'Accommodation  ',
+                name: 'Strolling on the isle.  ',
                 description: [
-                    `Hanoi offers a variety of accommodation options for tourists, including affordable motels, homestays, hotels, and resorts that cater to different budgets and preferences. In the old town, you can find "Western backpacker" style beds with dormitory rooms for around 100,000 VND per night, as well as high-end hotels for 3,000,000 - 5,000,000 VND per night.`,
+                    `Visitors to the island can travel by electric car, motorbike, bicycle (rented at hotels and motels) or motorbike taxi or taxi. `,
 
-                    `Some special hotels include Sofitel Legend Metropole Hanoi with French colonial architecture, just a few steps from the Opera House is Hilton Hanoi Opera, Apricot Hotel right on the banks of Hoan Kiem Lake, famous hotels.  With views of West Lake are Sheraton Hanoi and InterContinental Hanoi Westlake, Lotte Hotel Hanoi on the high floor of the 65-storey Lotte Center building... `,
+                    `Reference price: 7-seat electric car package 1,200,000 VND per day;  motorbike 200,000 VND per day excluding gasoline;  Bicycle 30,000 - 50,000 VND per hour. `,
                 ],
 
-                images: [HaNoi15, HaNoi16,]
+                images: [Coto26, Coto16,]
             },
         ],
 
         places: [
             {
                 id: 1,
-                name: 'Hoang Thanh Thang Long',
+                name: 'Sea ',
                 description: [
-                    `The Thang Long Imperial Citadel, a world cultural heritage site, is situated in the center of Hanoi and boasts a rich history spanning over 1,300 years. This location is home to distinct artifacts and relics that showcase the history of Thang Long - Hanoi and the Vietnamese people across numerous periods. Its address is 19C Hoang Dieu, Dien Ban, Ba Dinh.`,
+                    `The most attractive point in Co To is the long beaches, fine white sand and clear water.  On Co To island, there are beautiful beaches such as Van Chay, Tinh Yeu (also known as Shipwreck beach), Hong Van, and Bac Van. `,
+                    `Co To Con Island has South beach and East beach.  To get to Co To Con island, tourists take a boat from Bac Van port (about 7km from town), the time to get to the island is about 30 to 45 minutes depending on the weather.`,
+                    `Not only is it an ideal place for bathing, Hong Van, Nam Hai, Van Chay beaches... are beautiful places to watch the sunrise and sunset.  At night, you can have a BBQ on the beach. `,
+                    `If you're skillful enough, get up early to go to the market, buy seafood like squid, clams, oysters... to bring to the beach to grill at night.  If you don't have the means to prepare it yourself, you can choose available BBQ service packages from some travel companies that specialize in providing this service to have a romantic dinner with wine and seafood. `,
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi17,
-                        imageAlt: 'Hoang Thanh Thang Long',
+                        imageSrc: Coto2,
+                        imageAlt: 'sea1',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: Coto7,
+                        imageAlt: 'sea2',
+                    },
+                    {
+                        id: 3,
+                        imageSrc: Coto8,
+                        imageAlt: 'wea3',
+                    },
+                    {
+                        id: 4,
+                        imageSrc: Coto10,
+                        imageAlt: 'sea4',
                     },
                 ],
             },
             {
                 id: 2,
-                name: '',
+                name: 'Thanh Lan Island ',
                 description: [
-                    'Hoan Kiem is a natural freshwater lake in Hanoi, connecting the streets of Hang Ngang, Hang Dao, Cau Go, Luong Van Can, and Lo Su with the Western Quarter planned by the French over a century ago. The surrounding centuries include Bao Khanh, Nha Tho, Trang Thi, Hang Bai, Dinh Tien Hoang, and Trang Tien. Walking around the lake allows you to enjoy the natural surroundings in the middle of the city and visit Ngoc Son temple and the old town',
+                    'About 2 km by sea from Co To island.  This island commune is 27 km² wide and has an important position in the national defense and island security strategy.  Thanh Lan owns many pristine beaches around the island such as Central beach, Vung Ba Chau beach, C76, Hai Quan... Sedimentary rocks dating back thousands of years with many different shapes create the  magnificent for the landscape.  The primeval forests on the island are still intact. ',
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi14,
-                        imageAlt: '',
+                        imageSrc: Coto13,
+                        imageAlt: 'thanh lan island',
                     },
+
                 ],
             },
             {
                 id: 3,
-                name: 'Cau Long Bien',
+                name: 'Island ',
                 description: [
-                    'Long Bien Bridge not only spans the two banks of the Red River, but also serves as a connection between the present and the old memories of people who love Hanoi. Built in 1898, it is also known as Song Cai Bridge or Bo De Bridge because it spans Bo De wharf, Gia Lam, Hanoi. The bridge has a length of 1,682 m and an 896 m long approach bridge, divided into 9 frames, each 61 m long. The original design included a total of 19 steel beam spans placed on 20 pillars over 40 m high.',
+                    'In addition to the familiar big islands, visitors can rent boats to visit small islands such as Bat Huong island, Carp island, Khe Trau island, Tran island, Ba Duc island, Con Rat island, Lion island... ',
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: Hanoi18,
-                        imageAlt: 'Cau Long Bien',
+                        imageSrc: Coto19,
+                        imageAlt: 'dao1',
                     },
+                    {
+                        id: 2,
+                        imageSrc: Coto20,
+                        imageAlt: 'dao2',
+                    },
+
+
                 ],
             },
             {
                 id: 4,
-                name: 'Chua Tran Quoc',
+                name: 'Dragon Claw Stone Beach ',
                 description: [
-                    'Tran Quoc Pagoda, situated on an island to the east of West Lake, was once considered one of the most stunning pagodas globally. With a history of 1,500 years, it served as the Buddhist center of Thang Long capital during the Ly and Tran dynasties. Designated as a national historical and cultural relic in 1962, the pagoda also hosted the unveiling of the 15 m high, 11-storey Luc Do lotus stupa in 2003.',
+                    'Mong Rong Rock Beach (also known as Cau My) has a system of sedimentary rocks eroded over tens of thousands of years by sea water.  This colorful natural rock beach is located in area 4, Co To town on Co To island.  The rocky beach is more than 40 hectares wide, stretching about 2 km. ',
+                    `According to ancient documents, the rocky beach was originally named Cau Thu My, and gradually people used to call it Cau My.  In 2015, the beach was renamed Dragon's Claw because the shape of the rocks reaching out to the sea is reminiscent of dragon's claws. `,
+                    `In addition to checking in and sightseeing, visitors can also fish and scuba dive to see coral on calm days.  Visit the rocky beach during moss season, you will have more magical color photos. `,
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi19, imageAlt: 'water puppet show' },
+                    // { id: 1, imageSrc: Coto1, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: Coto3, imageAlt: 'dg1' },
+                    { id: 2, imageSrc: Coto4, imageAlt: 'dg2' },
+                    { id: 3, imageSrc: Coto5, imageAlt: 'dg3' },
+                    { id: 4, imageSrc: Coto6, imageAlt: 'dg4' },
                 ],
             },
             {
                 id: 5,
-                name: 'Van Mieu',
+                name: 'Co To lighthouse ',
                 description: [
-                    'This is the first university in Vietnam.  Today, visitors can visit the stone steles and solemn grounds with lotus ponds and gun ponds.  The Temple of Literature is a rare peaceful and quiet place in the middle of a bustling city.  Visitors will feel the harmony between ancient and modern times when coming here through the thousand-year-old walls. ',
-                    `The Temple of Literature was built in 1070 under the reign of King Ly Thanh Tong.  In 1076, King Ly Nhan Tong established Quoc Tu Giam House. `,
-                    `This place also preserves many precious artifacts and documents, especially 82 doctoral steles that have been recognized by UNESCO as "World Documentary Heritage".`,
+                    'Located on a hill more than 100 meters high, Co To lighthouse is considered one of the lighthouses with the most beautiful views in Vietnam.  Climbing up the 72 spiral staircases to the top of the lamp, you will take in the view of the entire beautiful island amidst a vast sea of ​​sky and sea, with boats coming in and out... ',
+                    `If they have the opportunity, visitors can also chat with the lighthouse keepers to understand more about their duties and lives... `,
+                    `Visitors are advised to walk barefoot up the stairs - because the stairs are a place to collect clean rainwater for storage by the light keepers. `,
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi20, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: Coto17, imageAlt: 'hani dang coto' },
                 ],
             },
             {
                 id: 6,
-                name: 'Lang Bac ',
+                name: 'The path of love  ',
                 description: [
-                    'For Vietnamese people, this is one of the most important attractions in the country.  Tourists come to pay their respects to President Ho Chi Minh.  Visitors need to keep quiet, wear appropriate clothing and not take photos in prohibited areas. r Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
-                    `Attending the flag-raising ceremony in the morning is a special experience at President Ho Chi Minh's mausoleum.  If you miss it, you can rest assured to walk around the city and come back here to participate in the flag lowering ceremony at 9pm every day.  A solemn atmosphere enveloped Ba Dinh Square as the loudspeaker sounded to announce the upcoming flag-lowering ceremony.  People lined up neatly, watching the group of guards solemnly lower the National flag to the music of the song "Uncle still marches with us". `,
+                    'The more than 2 km long road is paved with red bricks, along the coast, which is a romantic check-in point on Co To island.  Known as the road of love, the path has the shade of green casuarina trees on both sides, swaying with the sea breeze, nearby are waves crashing against the sandy shore, golden sunlight filtering through the foliage... Tourists  You will feel like seeing this familiar image on some romantic Korean drama. ',
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi7, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: Coto12, imageAlt: 'con duong tinh yeu' },
                 ],
             },
+
             {
                 id: 7,
-                name: 'Chua Mot cot',
+                name: 'Primeval forest ',
                 description: [
-                    'The building is one of the oldest temples in Hanoi.  The pagoda was built on a wooden trunk more than 1,000 years ago.  In the 1950s, the original wooden trunk rotted so it was replaced with a concrete column.  Western visitors should come here to walk around this area because the surrounding housing projects are among the most beautiful and impressive in Hanoi. ',
+                    'April is the flower season on Co To island.  The flowers are green like leaves, tiny, growing in clusters like tiny, drooping fireworks. ',
+                    `Visiting the island in the right season, take the time to visit the primeval bamboo forest and look at hundreds of year old trees over 20 meters tall. `,
+                    `Enjoying the fresh air, listening to birds singing, and exploring amazing nature are experiences that promise to leave memorable memories during the trip. `,
+                    `The primary playwood forest is located in Nam Dong village, Dong Tien commune, about 9 km from the center of Co To district.  The primeval bamboo forest is about 10 hectares wide along Bac Van beach.  Near the forest there is a passenger ferry to Co To `,
+
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi13, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: Coto18, imageAlt: 'rung choi nguyen sinh' },
+                    { id: 2, imageSrc: Coto27, imageAlt: 'hoa choi' },
                 ],
             },
             {
                 id: 8,
-                name: 'Pho co',
+                name: 'Memorial relic area of ​​President Ho Chi Minh ',
                 description: [
-                    'Follow your feet to explore the vibrant and nostalgic streets of the capital. No need for a destination or predetermined route, simply turn right, left, or go straight. Each street offers unique discoveries, from toys to shoes, clothes, antiques, and even tombstones or motorbike parts.',
-                    `If you come here during off-hours, the experience will be even more interesting.  You must always be ready to avoid people and cars on the road.  Just like that, 1,000 years of Hanoi's history flows through the streets like blood flowing through each vein, breathing into life the breath of both the past and present. `,
+                    'This place has been recognized as a national historical relic site since 1997. The memorial area has relics associated with the places where President Ho Chi Minh visited during his visit to the island district in 1961 and 1962. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi21, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: Coto21, imageAlt: 'khu di tich HCM' },
                 ],
             },
             {
                 id: 9,
-                name: 'Bao Tang',
+                name: 'Truong Xuan Lake ',
                 description: [
-                    'Destinations not to be missed when coming to any city are the museums and historical sites.  One of the places most tourists check in is the Ethnology Museum.  The Museum of Ethnology currently stores and displays 15,000 artifacts, 42,000 documentaries, pictures and thousands of other documents about 54 Vietnamese ethnic groups. ',
-                    `Besides, tourists also go to the Vietnamese Women's Museum, Hanoi Museum, National History Museum or Hoa Lo Prison, Hanoi Flag Tower relic... to learn about culture and history.  of the city. `,
-                    `The outdoor sightseeing area at the Museum of Ethnology has 10 unique folk architectural works such as the communal house of the Bana people, the half-earth stilt house of the Dao people, the mass grave of the Giarai people...`,
+                    'This is one of two large freshwater reservoirs on Co To island, providing domestic water for people.  Lyrical lake landscape, suitable for tourists to visit and explore.  This place also has accommodation services for tourists.',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi22, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: Coto28, imageAlt: 'nuoc sinh ho thuong xuan' },
+                ],
+            },
+            {
+                id: 10,
+                name: 'Don Cao Relics  ',
+                description: [
+                    'The relic of the Battle of Don Cao on the night of November 13, 1945 of Ky Con Company has been recognized as a provincial historical relic.  The Don Cao area is located on high ground with an area of ​​about 300 m2.  This location has a panoramic view of Co To, so the French stationed troops. ',
+                    `This place marks the unequally brave fight of Ky Con Company - one of the first main units of the Dong Trieu War Zone with the French Army on Co To Island.  In the center of Co To town is a road named Ky Con Company to pay tribute and commemorate the contributions of martyrs to the cause of liberating the island district... `,
+
+
+                ],
+                images: [
+                    { id: 1, imageSrc: Coto14, imageAlt: 'don cao' },
+                ],
+            },
+            {
+                id: 10,
+                name: 'Ky Con Walking Street  ',
+                description: [
+                    'Ky Con walking street in zone 3, Co To town is more than 205 m long.  This space is where visitors can explore food, drink, shop, and have fun.  This is the first walking street of Co To district.  The walking street operates from 7:00 p.m. to 11:00 p.m. daily. ',
+
+                ],
+                images: [
+                    { id: 1, imageSrc: Coto22, imageAlt: 'pho di bo' },
                 ],
             },
         ],
         should_do: [
             {
                 id: 1,
-                name: 'What to see? ',
+                name: 'Restaurant ',
                 description: [
-                    `Visitors to Hanoi should not only visit scenic spots but also enjoy art shows that reflect the national identity.`,
-                    'Water puppetry: is a stage art that tourists should see when coming to Hanoi.  This art has a tradition of more than 1,000 years in Vietnam.  There are two addresses that many visitors visit: Thang Long Puppet Theater at 57B Dinh Tien Hoang and Vietnam Puppet Theater at 361 Truong Chinh. ',
-                    'Listen to Ca tru: Ca tru originated in the 11th century, the style bears many similarities to Japanese geisha ceremonies and opera performances.  Initially, Ca tru was considered entertainment for the nobility in the royal palace, then it entered the common cultural space of modern Hanoi.  Ca tru has five main performance spaces: Ca tru at the communal house (singing at the temple gate to worship gods), ca tru at the court (enjoying ca tru by the dignitaries), ca tru at home, ca tru singing thi, ca tru  cabaret.  Visitors can listen to Ca Tru at Hanoi Ca Tru Club at 42 Hang Bac, Ca Tru Thang Long 146 Tu Hoa. ',
-                    'Real-life show: Quintessence of the North is a real-life show on stage at Thay Pagoda, at the foot of Thay Mountain, Sai Son commune, Quoc Oai district, Hanoi.  The show takes place on a 4,300 square meter lake, taking visitors into the lives of Northern farmers through sound and light performances.  Most of the actors participating in the scene are farmers from Quoc Oai district. ',
-                    'In addition to the play, visitors can also directly experience traditional Northern culture outside the stage with shops selling banh gio, banh te, sticky rice cake, sticky rice wrapped in lotus leaves and banana leaves, peanut candy, and candies.  Hua.  Tourists can buy and eat on small chairs in the middle of the garden to the sound of mandarin music. '
+                    `Restaurants on the island serve affordable seafood.  Addresses near the sea have higher prices.  Some reference addresses include: Jellyfish restaurant, Thanh Uy, Hai Au, East Sea, Blue Sea, Son Hai Quan, Binh An Kitchen, Coto Hotel Group hotel restaurant, Van Chay restaurant, beach restaurant  Ngoc Quynh... Bars with a "chill" atmosphere include Co To Santorini Bar `,
+
                 ],
 
-                images: [HanoiDo1, HanoiDo2, HanoiDo3, HanoiDo4,]
+                images: [Coto29, Coto30]
             },
             {
                 id: 2,
-                name: 'Where to play?  ',
+                name: 'Homestay, motel   ',
                 description: [
-                    `SUP on West Lake: Waking up when it's about to dawn, you can drive to West Lake and experience water games like SUP and kayaking.  The appropriate time is usually 5am-7pm, or late afternoon.  You can find boats and planks to rent at shops on Lac Long Quan, Au Co, Trich Sai streets... with prices from 250,000 VND per day. `,
+                    `Most motels and homestays are opened by local people, so they only have simple equipment at a price of about 200,000 - 1,800,000 VND per night.  There is electricity on the island, so visitors do not need to worry too much about basic amenities.  Some highly rated accommodation addresses include Coto Eco Lodge, Starlight Hotel Co To, Homestay Co To Haki... `,
 
-                    `See the panorama of Hanoi from above: Coming to Hanoi, you cannot miss the Lotte Observation Deck located on Lieu Giai Street, because this is the place where you can have a panoramic view of the Capital from the 65th floor.  Made from transparent glass so you can take creative check-in photos at any angle.  The observatory is open from 9am until the end of the day. `,
-                    `Walking street: Every week, Hoan Kiem Lake walking street opens from 6:00 p.m. Friday to Sunday, attracting a large number of both residents and foreign tourists.  This space has many fun and entertainment activities, including street art performances.  Don't forget to experience the "food tour" around the walking street. `,
-                    `Beer Street: In the old town, especially in Ta Hien, Bao Khanh, Luong Ngoc Quyen, there are always many places for you to drink beer or other attractively prepared drinks.  This is also one of the busiest nightlife places in the capital.`,
-                    `Going to the market: Not Dong Xuan market, Quang Ba flower market and Long Bien wholesale market are two addresses that Westerners whisper to each other that they must visit once if they have the opportunity to come to the capital.  The market mainly sells flowers and fruits, but visitors are required to stay up late and get up early to fully see the bustling, bustling atmosphere of a very different Hanoi when night falls. `,
-                    `Located right at the foot of Long Bien bridge, Long Bien wholesale market is bustling all year round, the most famous being the fruit wholesale flea market.  From 8:00 p.m. the market starts to bustle, getting busier as the night progresses.  The Quang Ba flower market is open all night but is most crowded at around 3-4 am, when buyers and sellers are busy.  Bouquets of flowers, large and small, piled on the cart, were bustling in and out. `,
                 ],
 
-                images: [HanoiDo5, HanoiDo6, HanoiDo7, HanoiDo8,]
+                images: [Coto31, Coto32]
             },
         ],
         diffr: [
 
             {
                 id: 1,
-                name: 'Restaurant ',
+                name: 'Consult ',
                 description: [
-                    `Hanoi cuisine perfectly combines sour, spicy, salty, sweet flavors and represents the image of the city with a thousand years of civilization: vibrant, quiet, attractive and attractive.  You can easily enjoy Hanoi specialties at roadside sidewalk restaurants such as beef pho, bun cha, banh mi... `,
+                    `Here are some important things to keep in mind when traveling to a destination like Co To island.`,
                 ],
                 eat_buy: [
                     {
                         id: 1,
-                        name: 'Phở',
+                        name: '',
                         description: [
-                            `When coming to Hanoi, you cannot miss pho, especially beef pho, which usually has two main types: cooked and rare.  Cooked beef is pieces of beef boiled in broth, while rare beef is pieces of meat that are thinly sliced ​​and quickly blanched in boiling water.  Then, the seller will put those slices of meat on pho noodles, pour broth and serve to diners.  Some reference addresses are Pho Thin, Bat Dan, Tu Lun, Pho Lam on Hang Vai Street, Pho Tram on Yen Ninh Street. `,
-                            'If you want to try other versions, suggested addresses are Nguyet restaurant No. 5 Phu Doan, Cham restaurant 63 Yen Ninh, Lan Ong mixed chicken pho or Ngu Xa pho roll. ',
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat1,
-                                imageAlt: 'pho ha noi',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 2,
-                        name: 'Rice noodle Vietnamese',
-                        description: [
-                            `Hanoi people have many noodle dishes.  The most special ones are bun cha, bun thang, bun snail, bun moc, vermicelli noodles... `,
-                            'When talking about long-standing authentic specialties in Hanoi, we cannot help but mention bun thang.  Hanoi people have skillfully processed leftover food after Tet into an elaborate and sophisticated noodle dish.  A bowl of vermicelli noodles costs 30,000 - 50,000 VND.  Currently, in Hanoi there are only a few places that sell bun thang, such as Ba Duc restaurant (Cau Go), Ngoc Tuyen restaurant (Dao Tan), Thuan Ly restaurant (Hang Hom).. ',
-                            `Bun cha - a dish often eaten for lunch.  Similar to grilled meat vermicelli in the South and Central regions, but Hanoi's vermicelli noodles are marinated more elaborately.  Those who like old flavors can go to bun cha restaurants in Hang Ma and Hang Dong.  People who like bamboo vermicelli noodles should go to Buoi market and Dong Xuan market.  Or visit the noodle shops in Ngoc Khanh, Giang Vo, Le Van Huu, Hang Manh which are also famous restaurants in Hanoi.`,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat2,
-                                imageAlt: 'bun cha',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 3,
-                        name: 'Cha Ca La Vong ',
-                        description: [
-                            `La Vong grilled fish was born in 1871, invented by the Doan family.  From a rustic dish, grilled fish gradually became the quintessence of Hanoi cuisine to this day.  "Fish cake" is made from the most delicious fish, especially lentil fish.  "La Vong" is the image of an ancient general, a talented man with the will to wait for a great opportunity. `,
-                            `The fish meat is carefully deboned, sweet, fragrant and soaked in spices.  Dill and spring onions are cut into pieces and mixed into the hot fish pan.  When eaten combined with grilled rice paper, vermicelli and shrimp paste - indispensable ingredients that help create a rich flavor.  Some suggested addresses: La Vong Grilled Fish, No. 14, Cha Ca Street;  Thang Long fish cake at 21 Duong Thanh;  Lao Ngu fish cake at 171 Thai Ha... `,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat3,
-                                imageAlt: 'cha ca',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Rolls',
-                        description: [
-                            `Thinly coated rice cakes stuffed with pork, wood ear mushrooms, minced onions, and dipped in sweet and sour fish sauce are always a suitable dish for hot summer days.  Walking on the streets, visitors will encounter many banh cuon shops open in the morning, with skillful and quick hands preparing the banh cuon.  Some suggested addresses are Banh Cuon Ba Hanh, 26B Tho Xuong;  Ba Xuan rice rolls, 16 Hoe Nhai slope and Long Bien market food area. `,
+                            `There are many mosquitoes on the beach at night, so bring insect spray to prevent them.  `,
+                            'The weather at night on the island is low, please bring a light jacket.  If you plan to camp on the beach, you should choose a place out of the wind and bring a flashlight. ',
+                            `If you book a hotel or homestay on the island in advance, ask if there is transportation support to save time and travel costs. `,
 
                         ],
                         images: [
                             {
                                 id: 1,
-                                imageSrc: Hanoieat4,
-                                imageAlt: 'banh cuon',
+                                imageSrc: Coto33,
+                                imageAlt: 'dao to to',
                             },
                         ],
 
                     },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `In addition to famous dishes around the world, Hanoi also possesses a treasure trove of cakes such as pillow cakes, filled with pork, mushrooms, ground vermicelli and quail eggs... To balance the flavor, the greasy donuts  Served with dipping sauce of garlic, chili and herbs.  Located on Ly Quoc Su Street, Goc Da restaurant specializes in selling salty donuts and pillow cakes, open from 10am to 9:30pm. `,
 
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat5,
-                                imageAlt: 'banh ran',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 6,
-                        name: 'Coffee',
-                        description: [
-                            `Coffee is a feature of Hanoi, with many long-standing shops in the old town.  Egg coffee is one of Hanoi's specialties made from whipped eggs mixed with Vietnamese coffee.  Egg coffee has a slightly yellow color in a small cup.  Diners always have an extra spoon to enjoy the cream foam on top like an "appetizer" before drinking the coffee below.  Famous delicious egg coffees include Dinh, Giang, Pho Co Coffee, Loading T, All Day Coffee... Price per cup starts from 25,000 VND. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat6,
-                                imageAlt: 'ca phe trung',
-                            },
-                        ],
-
-                    },
                 ],
             },
-            {
-                id: 2,
-                name: 'What to buy as a gift? ',
-                description: [
-                    `In addition to apricot blossoms, green rice cakes, and lotus tea, visitors to Hanoi can buy silk in Van Phuc village or Bat Trang pottery as gifts for relatives and friends. `,
-                ],
-                eat_buy: [
-                    {
-                        id: 1,
-                        name: 'dried plum.',
-                        description: [
-                            `With sour, spicy, salty, and sweet flavors that combine the quintessence of Hanoi cuisine, apricot fruit is a gift that many people choose to buy as a gift when leaving Hanoi.  The most famous address for this snack is Hang Duong street.  Visitors can find here their favorite apricot varieties such as apricots, plums, ginger, dracontomelon, star fruit, lemon, kumquat, persimmon, peach, toad, tamarind... However, if purchased as a gift for Southerners  , you should choose the alligator apricot fruit, because it has a sweet taste made from a sour fruit that is very typical of Hanoi.  Depending on the type, apricot costs about 100,000 - 150,000 per kg. `,
-                            'Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã.',
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy1,
-                                imageAlt: 'sau dam',
-                            },
-                        ],
 
-                    },
-                    {
-                        id: 2,
-                        name: 'green rice flakes',
-                        description: [
-                            `The scent of Vong village green rice has long created a unique charm for the capital's cuisine.  However, because it is only available in the fall, Hang Than green rice cake is a perfect alternative for many tourists.  The rice nuggets are sticky on the outside, with a layer of green bean filling mixed with greasy coconut on the inside, with a faint natural scent of grapefruit. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy2,
-                                imageAlt: 'com ',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 3,
-                        name: 'Lotus tea  ',
-                        description: [
-                            `Tay Ho lotus tea will definitely be a precious gift for relatives and friends after visiting Hanoi.  Because marinating lotus tea is an art that takes a lot of time and effort.  After being selected from the best, dried tea petals will be marinated 5-7 times with lotus rice (white seeds on the lotus head) to absorb the flavor.  The marinated lotus must be the type grown in lagoons in West Lake such as Nhat Tan and Quang Ba because it is fragrant and produces the most rice. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy3,
-                                imageAlt: 'tra sen ho tay',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Van Phuc Silk ',
-                        description: [
-                            `Silk's popularity with tourists is due to its thin, soft, airy, colorfast, and wrinkle-free properties. Whether it's winter or summer, visitors can find and purchase a variety of silk items such as scarves, shirts, dresses, and bags. In addition to Van Phuc silk village (about 10 km from the center of Hanoi), silk can also be purchased at stalls on Hang Gai or Dinh Liet streets.`,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy4,
-                                imageAlt: 'lua van phuc',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `If you have the opportunity to visit Bat Trang, don't forget to buy ceramic products from traditional craft villages.  With characteristic glaze colors and skilled craftsmanship, Bat Trang ceramics have a very unique beauty.  In addition to commonly used bowls, bowls, cups, and cups, there are also products dedicated as gifts such as wind chimes, statues, etc. Visitors to the pottery village can also make their own bowls.  , vases, vases, cups as gifts, both meaningful and an interesting experience. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy5,
-                                imageAlt: 'gom bat trang',
-                            },
-                        ],
-
-                    },
-                ],
-
-            },
         ],
     },
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -3028,14 +2944,34 @@ export const practicalities = [
             `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
 
         ],
+        descriptions: [
+            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find notes in denominations of 200₫, 500₫, 1,000₫, 2,000₫, 5,000,₫ 10,000₫, 20,000₫, 50,000₫, 100,000₫, 200,000₫, and 500,000₫. For newcomers it can be helpful to ignore the final three zeros until you get the hang of the conversion.`,
+            `Cash is generally used for small purchases, however, most establishments will accept payments from major credit card providers such as Visa. In addition, hotels, tour operators, boutiques, restaurants, and grocery stores generally accept international debit and credit cards.`,
+            `If you need to change money, currency exchange counters are available at airports, banks, and official exchange centers. However do note it can be very difficult to purchase dollars once you’re in Vietnam. For most travellers we recommend using ATMs instead of currency exchange points. ATMs are widely available across the country. Maximum withdrawals for foreign cards are usually two or three million per transaction. Below are some banks with higher withdrawal limits:`,
+            `Bank maximum withdrawals:`,
+            `ANZ: 5 million VND`,
+            `Citibank: 10 million VND`,
+            `HSBC: 5 million VND,`,
+            `Commonwealth: 10 million VND`,
+
+
+        ],
 
     },
     {
         id: 2,
         name: 'TAXI SERVICE',
-        imageSrc: cur1,
+        imageSrc: cur8,
         description: [
-            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+            `Vietnam has modern, efficient taxi services to help you get around. To avoid scams and haggling, we ...`,
+
+        ],
+        descriptions: [
+            `Vietnam has modern, efficient taxi services to help you get around. To avoid scams and haggling, we recommend sticking with the reputable Vinasun and Mai Linh taxis only. There are plenty of these taxis in Vietnam’s tourism destinations. Other taxi companies you can take are Hanoi Taxi Group and SaigonTourist. `,
+            `Whichever taxi company you take, always ask to use the metre. In most cities, you can also use call the operator numbers for Vinasun or Mai Linh taxis for a pickup from your location. `,
+            `Ride-sharing applications such as Grab are also available for cars and motorbikes in Vietnam's main cities. You will need a local SIM card to use these apps. Click here for more information about transport in Vietnam.`,
+
+
 
         ],
 
@@ -3043,9 +2979,17 @@ export const practicalities = [
     {
         id: 3,
         name: 'PUBLIC HOLIDAY',
-        imageSrc: cur1,
+        imageSrc: cur7,
         description: [
-            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+            `Vietnamese Lunar New Year Festival (Tet) is the biggest holiday of the year, and takes place in ...`,
+
+        ],
+        descriptions: [
+            `Vietnamese Lunar New Year Festival (Tet) is the biggest holiday of the year, and takes place in late January or early February. Travellers should be aware that most businesses and restaurants shut down during this holiday, as Vietnamese travel home to be with their families. Public transport hubs are full to overflowing in the days leading up to Tet. Any transportation booked over the Tet period should be confirmed well in advance.`,
+            `You can find a full list of public holidays in Vietnam here, and a round-up of Vietnam’s best festivals here.`,
+            `Government agencies work eight hours a day from 8am to 5pm, with a one-hour lunch break. Working days are from Monday to Friday. `,
+            `Most banks in Vietnam open from 7:30am or 8am to 4:30pm, with a break for lunch. Some banks are open on Saturday mornings from 8am to 11:30pm.`,
+
 
         ],
 
@@ -3053,9 +2997,13 @@ export const practicalities = [
     {
         id: 4,
         name: 'POWER PLUGS',
-        imageSrc: cur1,
+        imageSrc: cur6,
         description: [
-            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+            `The voltage supply in Vietnam is 220 volts. Most sockets accommodate plugs with two round prongs ...`,
+
+        ],
+        descriptions: [
+            `The voltage supply in Vietnam is 220 volts. Most sockets accommodate plugs with two round prongs. If you need adaptors you can find them at any electrical shop, or ask your hotel for assistance. Power cuts and surges are not common but can happen from time to time depending on the location.`,
 
         ],
 
@@ -3063,42 +3011,110 @@ export const practicalities = [
     {
         id: 5,
         name: 'SIM CARDS & HELPFUL NUMBERS',
-        imageSrc: cur1,
+        imageSrc: cur2,
         description: [
-            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+            `Getting a local SIM card in Vietnam is fast and inexpensive. There are three major GSM network ...`,
 
+        ],
+        descriptions: [
+            `Getting a local SIM card in Vietnam is fast and inexpensive. There are three major GSM network operators in Vietnam, and all have good coverage`,
+            `Viettel`,
+            `Vinaphone`,
+            `Mobifone`,
+            `You can buy prepaid SIM cards on arrival at major airports, as well as from countless shops across the country. You will need to show your passport to register your SIM card. Prices for SIM cards, SMS messages and phone calls are extremely affordable within Vietnam. You can load your phone credit in increments from 20,000 VND to 100,000 VND on most networks. Data-only SIM cards may cost 100,000 VND to 200,000 VND depending on the amount of data purchased. `,
+            `Here are few numbers you may need while in Vietnam:`,
+            `International Dialing Code: +84`,
+            `Domestic Calls (within Vietnam): 0 + Area code + Telephone No.`,
+            `International Calls (outside Vietnam): 00 + Country code + Area code + Telephone No.`,
+            `The following is a list of useful telephone numbers to have on hand when visiting Vietnam:`,
+            `+84: International Dialing Code`,
+            `101: Domestic Long Distance Telephone Service`,
+            `1080: Social and Cultural Information`,
+            `110: International Telephone Service`,
+            `113: Police`,
+            `114: Fire Brigade`,
+            `115: Ambulance`,
         ],
 
     },
     {
         id: 6,
         name: 'INTERNET AND POSTAL SERVICES',
-        imageSrc: cur1,
+        imageSrc: cur3,
         description: [
-            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+            `Vietnam is well-wired and in most destinations you can easily find a connection in cafes, spas ...`,
 
+        ],
+        descriptions: [
+            `Vietnam is well-wired and in most destinations you can easily find a connection in cafes, spas, shops, hotels and restaurants. Free public Internet access is available in several tourist hubs and major airports. Local 3G and 4G packages are an affordable option if you plan to visit remote areas or need to be online frequently.`,
+            `The Vietnamese postal service is generally reliable, although packages can take longer to arrive than expected and are often held at the post office for pick-up. Mailboxes are uncommon. If you are sending postcards home, give them to your hotel to mail or send them directly from a post office.`,
         ],
 
     },
     {
         id: 7,
         name: 'HOSPITALS',
-        imageSrc: cur1,
+        imageSrc: cur5,
         description: [
-            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+            `Vietnam’s major cities have excellent clinics and hospitals ready to serve travellers, with E ....`,
 
+        ],
+        descriptions: [
+            `Vietnam’s major cities have excellent clinics and hospitals ready to serve travellers, with English-speaking doctors and staff. Below you’ll find a list of some of the best places to go if you need medical help. We highly recommend buying travel insurance before coming to Vietnam.`,
+            `Hospitals in Ha Noi`,
+            `FAMILY MEDICAL PRACTICE HANOI`,
+            `Van Phuc Compound, 298 Kim Ma Street, Ba Dinh District, Hanoi, Vietnam`,
+            `+84 4 3843 0748`,
+            `website: www.vietnammedicalpractice.com`,
+            `HONG NGOC HOSPITAL`,
+            `55 Yen Ninh, Ba Dinh District, Hanoi, Vietnam`,
+            `+04 8 39 275 568`,
+            `website: www.hongngochospital.vn`,
+            `L’HOPITAL FRANCAIS DE HANOI`,
+            `No.1 Phuong Mai, Dong Da District, Hanoi, Vietnam`,
+            `+84 4 3577 1100`,
+            `website: www.hfh.com.vn`,
+            `INTERNATIONAL SOS HANOI`,
+            `51 Xuan Dieu Street, Tay Ho District, Hanoi, Vietnam`,
+            `+ 84 4 3934 0666`,
+            `website: www.internationalsos.com`,
         ],
 
     },
     {
         id: 8,
         name: 'EMBASSIES AND CONSULATES',
-        imageSrc: cur1,
+        imageSrc: cur4,
         description: [
-            `Vietnam's unit of currency is the Vietnamese đồng (VND), represented by the '₫' symbol. You can find ...`,
+            `Embassies and consulates of foreign countries in Vietnam can be found in the cities of Hanoi and Ho ...`,
+
+        ],
+        descriptions: [
+            `Embassies and consulates of foreign countries in Vietnam can be found in the cities of Hanoi and Ho Chi Minh. For easy reference, below is a link list of embassies in Vietnam and Vietnamese embassies abroad.`,
+            `https://s.net.vn/gGLw`,
+
 
         ],
 
     },
 
+];
+
+
+export const inforgrapics = [
+    {
+        id: 1,
+        imagesSrc: tip2,
+        images: tip3,
+    },
+    {
+        id: 2,
+        imagesSrc: tip1,
+        images: tip4,
+    },
+    {
+        id: 3,
+        imagesSrc: tip5,
+        images: tip6,
+    },
 ];

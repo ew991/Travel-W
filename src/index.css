@@ -9,6 +9,10 @@
   letter-spacing: 1.6px;
 }
 
+*:focus {
+  outline: none;
+}
+
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -133,5 +137,7 @@ code {
   .center-p {
     @apply text-center text-2xl font-normal mt-2;
   }
+
+
 
 }
