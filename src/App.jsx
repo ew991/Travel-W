@@ -7,6 +7,7 @@ import PlacesToGo from './pages/PlacesTogo';
 import BestPlaceTG from './components/BestPlaceToGo';
 import PlanYourTrip from './pages/PlanYourTrip';
 import ScrollToTop from './components/ScrollToTop';
+import ThingToDo from './pages/ThingsToDo';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
             <Route path='/' element={<SharedLayout />}>
               <Route index element={<HomePage />}></Route>
               <Route path="/PlaceToGo/places/:id" element={<BestPlaceTG />}></Route>
+              <Route path='/ThingToDo' element={<ThingToDo />}></Route>
               <Route path='/PlaceToGo' element={<PlacesToGo />}></Route>
               <Route path='/PlanYourTrip' element={<PlanYourTrip />}></Route>
             </Route>

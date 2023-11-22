@@ -33,8 +33,8 @@ const InforGrapic = () => {
                         const elementRef = React.createRef();
                         myElementRefs.current[id] = elementRef;
                         return (
-                            <div ref={elementRef} onClick={() => openPopup(id)} className=' bg-slate-300 p-2' key={id}>
-                                <img src={imagesSrc}></img>
+                            <div ref={elementRef} onClick={() => openPopup(id)} className=' bg-slate-300 p-2 ' key={id}>
+                                <img className='' src={imagesSrc}></img>
 
 
                             </div>
@@ -71,6 +71,7 @@ const InforGrapic = () => {
                 </div>
 
             )}
+
         </div>
     );
 };

@@ -2,6 +2,7 @@ import React, { useState, useRef } from 'react';
 import img from '../assets/img/he-thong-duong-sat-viet-nam.jpg'
 import { practicalities } from '../data';
 import InforGrapic from '../components/InforGrapics';
+import WarpThumb from '../components/WarpThumb';
 const PlanYourTrip = () => {
 
     const [openPopupId, setOpenPopupId] = useState(null);
@@ -46,7 +47,7 @@ const PlanYourTrip = () => {
                             myElementRefs.current[id] = elementRef;
                             return (
                                 <div ref={elementRef} onClick={() => openPopup(id)} className='w-[265px] h-[290px] bg-slate-300 p-2' key={id}>
-                                    <img src={imageSrc}></img>
+                                    <img className='effect-tranf' src={imageSrc}></img>
                                     <h1 className='text-[15px] font-bold'>{name}</h1>
                                     <p className='text-[14px] mt-[10px]'>{description}</p>
 
@@ -91,6 +92,7 @@ const PlanYourTrip = () => {
                 )}
             </div>
             <InforGrapic />
+            <WarpThumb />
 
         </>
     );

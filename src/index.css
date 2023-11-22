@@ -138,6 +138,10 @@ code {
     @apply text-center text-2xl font-normal mt-2;
   }
 
+  .effect-tranf {
+    @apply hover:overflow-hidden transform transition-transform duration-300 hover:scale-110;
+  }
+
 
 
 }

@@ -118,6 +118,35 @@ import HaLong6 from './assets/img/PlaceImg/HaLong/du-thuyen-HaLong.jpg';
 import HaLong7 from './assets/img/PlaceImg/HaLong/nui-bai-tho.jpg';
 import HaLong8 from './assets/img/PlaceImg/HaLong/Sun-world-giam-gia-3-4565-1567-5872-3272-1658113201.jpg';
 import HaLong9 from './assets/img/PlaceImg/HaLong/Sun-World-Halong-Complex-9368-4826-9175-1658113201.jpg';
+import HaLong10 from './assets/img/PlaceImg/HaLong/di-ha-long-mua-nao-la-hop-li-nhat.jpg';
+import HaLong11 from './assets/img/PlaceImg/HaLong/di-ha-long-mua-nao-la-hop-li-nhat2.jpg';
+import HaLong12 from './assets/img/PlaceImg/HaLong/xe-limousie-cao-cap-1.jpg';
+import HaLong13 from './assets/img/PlaceImg/HaLong/Phuc-Xuyen-VD-HL1.jpg';
+import HaLong14 from './assets/img/PlaceImg/HaLong/hotelHaLong.jpg';
+import HaLong15 from './assets/img/PlaceImg/HaLong/HotelHalong2.jpg';
+import HaLong16 from './assets/img/PlaceImg/HaLong/8-1685076485-7120-1689235308.jpg';
+import HaLong17 from './assets/img/PlaceImg/HaLong/kayak-Ha-Long-jpeg-3511-165193-9798-3289-1658113198.jpg';
+import HaLong18 from './assets/img/PlaceImg/HaLong/du-thuyen-ha-long-2-jpeg-8241-8786-6308-1658113197.jpg';
+import HaLong19 from './assets/img/PlaceImg/HaLong/1681187078.jpg';
+import HaLong20 from './assets/img/PlaceImg/HaLong/nui-bai-tho-quang-ninh.jpg';
+import HaLong21 from './assets/img/PlaceImg/HaLong/Quang-Ninh-Museum-1.jpg';
+import HaLong22 from './assets/img/PlaceImg/HaLong/Cung-trien-lam-Quang-Ninh-Azgo.jpg';
+import HaLong23 from './assets/img/PlaceImg/HaLong/cv-Tuan-Chau-2.jpg';
+import HaLong24 from './assets/img/PlaceImg/HaLong/photo-1-16468766415941584832446.jpg';
+import HaLong25 from './assets/img/PlaceImg/HaLong/kinh-nghiem-vui-choi-pha-dao-sun-world-ha-long-khong-thieu-thu-gi-5d9bfd4d60d89.jpg';
+import HaLong26 from './assets/img/PlaceImg/HaLong/pho-co-bai-chay.jpg';
+import HaLong27 from './assets/img/PlaceImg/HaLong/bai-chay-jpeg-1972-1651932294-1522-1658113203.jpg';
+import HaLong28 from './assets/img/PlaceImg/HaLong/bun-be-be-mon-ngon-Quang-Ninh-6546-7185-1658113204.jpg';
+import HaLong29 from './assets/img/PlaceImg/HaLong/bun-cu-ky-mon-ngon-Quang-Ninh-8558-7013-1658113205.jpg';
+import HaLong30 from './assets/img/PlaceImg/HaLong/trung-vit-lon-ha-long-VnExpres-8176-4426-1658113207.jpg';
+import HaLong31 from './assets/img/PlaceImg/HaLong/banh-cuon-cha-muc-ha-long-vnex-5387-7168-1658113208.jpg';
+import HaLong32 from './assets/img/PlaceImg/HaLong/sam-bien-3_1627649872_1680089908.jpg';
+import HaLong33 from './assets/img/PlaceImg/HaLong/oc-xao-sa-ot.jpg';
+import HaLong34 from './assets/img/PlaceImg/HaLong/sua-chua-tran-chau-Ha-Long-552-3689-3564-1658113208.jpg';
+import HaLong35 from './assets/img/PlaceImg/HaLong/banh-gat-gu-banner.jpg';
+import HaLong36 from './assets/img/PlaceImg/HaLong/pr1-nha-hang-phuong-nam.jpg';
+import HaLong37 from './assets/img/PlaceImg/HaLong/Sunrise-in-Ha-Long-Bay.jpg';
+
 //5 Ha Noi
 import HaNoi1 from './assets/img/PlaceImg/Hanoi/BatTrang.jpg';
 import HaNoi2 from './assets/img/PlaceImg/Hanoi/lang-gom-bat-trang-1.jpg';
@@ -542,7 +571,7 @@ export const placesToGo = [
                         name: 'dried plum.',
                         description: [
                             `With sour, spicy, salty, and sweet flavors that combine the quintessence of Hanoi cuisine, apricot fruit is a gift that many people choose to buy as a gift when leaving Hanoi.  The most famous address for this snack is Hang Duong street.  Visitors can find here their favorite apricot varieties such as apricots, plums, ginger, dracontomelon, star fruit, lemon, kumquat, persimmon, peach, toad, tamarind... However, if purchased as a gift for Southerners  , you should choose the alligator apricot fruit, because it has a sweet taste made from a sour fruit that is very typical of Hanoi.  Depending on the type, apricot costs about 100,000 - 150,000 per kg. `,
-                            'Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã.',
+                            'If you want to try other versions, suggested addresses are Nguyet restaurant No. 5 Phu Doan, Cham restaurant 63 Yen Ninh, Lan Ong mixed chicken pho or Ngu Xa pho roll. ',
                         ],
                         images: [
                             {
@@ -1398,30 +1427,31 @@ export const placesToGo = [
         name: 'Ha Long',
         imageSrc: HaLong6,
         description: [
-            'Still often referred to by its old name, Saigon, Ho Chi Minh City is a clamorous, chaotic sensory feast. Motorbikes honk in a tidal wave across clogged intersections, locals crouch on street corners slurping steaming hot bowls of Pho (noodle soup); and the sultry air is thick with exhaust fumes and exotic spices.',
-            `Ho Chi Minh City is Vietnam's commercial hub and largest city, and it's a place where old abuts new with striking contrast. Temples huddle amid skyscrapers and designer shops; locals cast bamboo fishing rods into the languorous Saigon River; and in places, the city feels almost European, with its elegant French colonial architecture and wide, tree-lined avenues.`,
-            `Adding to the fascinating cultural jolt is a clutch of intriguing tourist attractions, from the poignant War Remnants Museum and captivating water puppet shows to colorful markets and the time warp of the Reunification Palace.`,
+            'About 160 km from Hanoi, Ha Long City in Quang Ninh province is a famous tourist destination not only in the North, the whole country but around the world.  Ha Long has a bay, world heritage sites, rich tourist activities, delicious food... ',
+
         ],
         intro: [
             {
                 id: 1,
-                name: 'What is the most beautiful season in HaNoi? ',
+                name: 'What is the most beautiful season in Ha Long? ',
                 description: [
-                    `The best time to visit Hanoi is during the fall from August to November and in the spring from March to April. Autumn is often considered the most beautiful season in Hanoi, with clear blue skies, crisp winds, falling yellow leaves, and the faint scent of milk flowers. Spring brings warm weather, and the streets appear to be adorned in new attire as trees bud and flowers blossom.`,
+                    `Ha Long City is located in the North so the climate has all 4 seasons.  The months of April-June are warm without rain, the months of June-August are hot with possible rainstorms, the months of September-December are gradually cooler and colder.  Each season here has its own beauty. In summer, you come to Ha Long to swim and sunbathe, while spring and autumn are cool and suitable to see a less noisy Ha Long and participate in outdoor activities.  Explore entertainment areas.  Peak season is from June to August, the city is crowded, especially on weekends. `,
                 ],
 
-                images: [Hanoiw, Hanoiw2]
+                images: [HaLong10, HaLong11]
             },
             {
                 id: 2,
                 name: 'Move ',
                 description: [
-                    `Hanoi, the heart of Vietnam, offers various transportation options for visitors to reach the capital, including plane, train, bus, private car, or motorbike from nearby provinces.`,
+                    `From Hanoi, visitors can travel by many means of transportation.  In addition to personal cars, there are Limousine cars available to pick you up on request (Phuc Xuyen, Van Don Xanh, Ha Long Travel...) with ticket price of 180,000 - 220,000 VND per person.  In addition, you can catch buses at stations in Hanoi city.  Passenger car prices are about 150,000 - 200,000 VND per person. `,
 
-                    `To explore the city, visitors can choose to travel by car, motorbike, or bicycle. However, for a more picturesque experience, one can opt to ride a cyclo and take in the beauty of the 36 streets. Alternatively, a tour on a three-wheeled motorbike or vintage Vespa is also highly recommended. Another option to consider is the double-decker bus, with ticket prices ranging from 130,000 to 599,000 VND.`,
+                    `The most ideal direction of travel is Hanoi - Hai Phong, Hai Phong - Ha Long highway.  The road is beautiful, but you need to pay attention to signs, drive at the right speed, turn on the signal lights when changing lanes and always wear a seat belt.  Travel time is about 2.5 to 3 hours. `,
+                    `Quang Ninh has Van Don airport.  So from Ho Chi Minh City and Da Nang, visitors can travel by air straight to Quang Ninh, then go by road from the airport to Ha Long City, about 50 km.  There is a bus from the airport to the city center. `,
+                    `In Ha Long, if you do not have a personal vehicle, you can rent a motorbike for 120,000 - 200,000 VND a day.  Tourists traveling in large groups such as families, groups of friends, colleagues... should rent a taxi (Mai Linh, Thanh Hung, Thinh Hung...), book a Grab (bike or car) or private car. `,
                 ],
 
-                images: [Hanoimove, Hanoimove2,]
+                images: [HaLong12, HaLong13,]
             },
             {
                 id: 3,
@@ -1429,151 +1459,186 @@ export const placesToGo = [
                 description: [
                     `Hanoi offers a variety of accommodation options for tourists, including affordable motels, homestays, hotels, and resorts that cater to different budgets and preferences. In the old town, you can find "Western backpacker" style beds with dormitory rooms for around 100,000 VND per night, as well as high-end hotels for 3,000,000 - 5,000,000 VND per night.`,
 
-                    `Some special hotels include Sofitel Legend Metropole Hanoi with French colonial architecture, just a few steps from the Opera House is Hilton Hanoi Opera, Apricot Hotel right on the banks of Hoan Kiem Lake, famous hotels.  With views of West Lake are Sheraton Hanoi and InterContinental Hanoi Westlake, Lotte Hotel Hanoi on the high floor of the 65-storey Lotte Center building... `,
+                    `Ha Long City is divided into two areas, Bai Chay and Hon Gai, by Bai Chay bridge.  The Bai Chay side has many tourist areas, hotels, and restaurants, while the Hon Gai side has mainly residential areas.  `,
+                    `If you choose to stay in a comfortable homestay with a more affordable price, you can refer to The Bay, Halong Ginger, Orestay, Deja Vu House... If you want more luxury, you can rent a room at hotels like FLC Grand Hotel.  on Van Nghe Hill, Wyndham Legend Halong, Novotel, Sai Gon Ha Long, Muong Thanh system, Royal Lotus... 5-star resorts include Vinpearl Resort and Spa, Premier Village Ha Long Bay Resort... `,
+                    `Reservations can be made through many channels: booking websites (Agoda, Booking, iVivu...), directly with the hotel, through travel agents... `,
+
                 ],
 
-                images: [HaNoi15, HaNoi16,]
+                images: [HaLong14, HaLong15,]
             },
         ],
 
         places: [
             {
                 id: 1,
-                name: 'Hoang Thanh Thang Long',
+                name: 'Ha Long Bay ',
                 description: [
-                    `The Thang Long Imperial Citadel, a world cultural heritage site, is situated in the center of Hanoi and boasts a rich history spanning over 1,300 years. This location is home to distinct artifacts and relics that showcase the history of Thang Long - Hanoi and the Vietnamese people across numerous periods. Its address is 19C Hoang Dieu, Dien Ban, Ba Dinh.`,
+                    `It is a UNESCO World Heritage site renowned for its natural beauty, drawing in visitors from both within the country and abroad. The bay is adorned with numerous large and small limestone islands of various shapes, giving rise to a stunning and unique landscape. One of the most favored activities is embarking on a scenic cruise that includes stops at notable spots like Ga Choi island, Dinh Huong island, Sung Sot cave, Thien Cung cave, and Titop island.`,
+                    `For the most complete experience, you should relax on a yacht.  You will enjoy the quiet space and fresh air while traveling among the vast waters of the closed bay, with few waves and wind. `,
+                    `In Ha Long, there are many cruise lines with 1-5 star standard services such as Heritage Cruises, Paradise Cruise, Stellar of the Seas, Indochine, Scarlet Pearl Cruises, Orchid, Starlight Ha Long, Dragon Legend... If you travel in a group or  Small families should choose tour packages.  For large families or large groups, renting a boat to visit Ha Long Bay with Kim's Travel may be a suitable choice. `,
+                    `On the "floating hotels", visitors are also served luxurious meals, bathe in the open-air swimming pool, and enjoy night sea views.  Some accommodation cruise tours also include experiences such as morning tai chi, swimming, kayaking, night squid fishing, visiting fishing villages, pearl farms, cooking lessons... `,
+                    `Coming to Ha Long, not only can you take a cruise or sit on a bamboo boat, you can also view the bay from above when flying by helicopter or seaplane.  Traveling by helicopter or seaplane will give you a new perspective on the beautiful scenery across the bay.  If you choose Halong Heli Tours helicopter, visitors can take a 12-minute, 25-minute or 40-minute scenic tour, ticket price is about 1.9 to 5.4 million VND/person with a journey through Thien Cung Cave and Dau Go Cave.  , Reu Island, Bai Tu Long... If you choose to fly by seaplane from Hai Au Aviation, the 25-minute scenic journey costs 1.5 million VND/person. `,
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi17,
-                        imageAlt: 'Hoang Thanh Thang Long',
+                        imageSrc: HaLong16,
+                        imageAlt: 'vinh ha long',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: HaLong4,
+                        imageAlt: 'halong avtiv1',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: HaLong17,
+                        imageAlt: 'avtiv2',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: HaLong18,
+                        imageAlt: 'avtiv3c',
                     },
                 ],
             },
             {
                 id: 2,
-                name: '',
+                name: 'Bai Chay beach ',
                 description: [
-                    'Hoan Kiem is a natural freshwater lake in Hanoi, connecting the streets of Hang Ngang, Hang Dao, Cau Go, Luong Van Can, and Lo Su with the Western Quarter planned by the French over a century ago. The surrounding centuries include Bao Khanh, Nha Tho, Trang Thi, Hang Bai, Dinh Tien Hoang, and Trang Tien. Walking around the lake allows you to enjoy the natural surroundings in the middle of the city and visit Ngoc Son temple and the old town',
+                    'The artificial beach located behind Sun World park has been expanded nearly 1 km into the sea compared to before.  Wide beach, clean sand suitable for organizing group games, swimming, sunbathing or walking to watch the sunrise... ',
+                    `Public services such as showering, changing clothes, and cleaning are charged 20,000 VND per visit.  In addition to Bai Chay, Ha Long also has many beautiful beaches for tourists to explore such as Titop Island, Marina Bay Ha Long, Ba Trai Dao, or beaches in Tuan Chau, Sun World...`,
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi14,
-                        imageAlt: '',
+                        imageSrc: HaLong19,
+                        imageAlt: 'bai tam bai chay',
                     },
                 ],
             },
             {
                 id: 3,
-                name: 'Cau Long Bien',
+                name: 'Bai Tho Mountain ',
                 description: [
-                    'Long Bien Bridge not only spans the two banks of the Red River, but also serves as a connection between the present and the old memories of people who love Hanoi. Built in 1898, it is also known as Song Cai Bridge or Bo De Bridge because it spans Bo De wharf, Gia Lam, Hanoi. The bridge has a length of 1,682 m and an 896 m long approach bridge, divided into 9 frames, each 61 m long. The original design included a total of 19 steel beam spans placed on 20 pillars over 40 m high.',
+                    'Bai Tho Mountain is 200 m high, considered an interesting viewpoint overlooking Ha Long Bay and the city.  The mountain was originally called Truyen Dang, or Roi Lamp, to refer to the important guard post of the Northeast gate thousands of years ago, whose task was to light the way for boats on the bay. ',
+                    'Since 1468, when King Le Thanh Tong had the poem carved on the cliff, Truyen Dang was changed to the name Poem.  Now this place has become a famous tourist destination of Quang Ninh. ',
+                    'Because the road to Bai Tho mountain is hidden in a small alley of families on Hang Noi street, Bach Dang ward, not everyone knows. ',
+                    'Tourists often come to Ha Long to climb Bai Tho Mountain because they are introduced by friends who live here.  Otherwise, you need to ask people on Hang Noi street for directions if you want to conquer it yourself. ',
+                    'Note: Visitors need to check with the management about this location because there are times when climbing is not allowed due to safety issues. ',
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: Hanoi18,
-                        imageAlt: 'Cau Long Bien',
+                        imageSrc: HaLong20,
+                        imageAlt: 'nui bai tho',
                     },
                 ],
             },
             {
                 id: 4,
-                name: 'Chua Tran Quoc',
+                name: 'Quang Ninh Museum - Library ',
                 description: [
-                    'Tran Quoc Pagoda, situated on an island to the east of West Lake, was once considered one of the most stunning pagodas globally. With a history of 1,500 years, it served as the Buddhist center of Thang Long capital during the Ly and Tran dynasties. Designated as a national historical and cultural relic in 1962, the pagoda also hosted the unveiling of the 15 m high, 11-storey Luc Do lotus stupa in 2003.',
+                    'Located on Tran Quoc Nghien Street, Tuan Chau.  Opening hours: 8:00 a.m. to 11:30 a.m., 1:30 p.m. to 5:00 p.m.  The museum welcomes visitors every day of the week except Monday, ticket price is 30,000 VND/adult, 20,000 VND for students, and 10,000 VND for children. ',
+                    'Inside the Quang Ninh museum, the first floor is a natural ocean space, the second floor displays relics and artifacts of historical value, and the third floor recreates the history of the coal mining industry in a lively mine model.  . ',
+                    'The planning and exhibition palace of Quang Ninh province combined with the Quang Ninh Museum and Library and October 30 Square create a series of attractive tourist attractions, indispensable for tourists when coming to the coastal city of Ha Long.  . ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi19, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: HaLong21, imageAlt: 'musem QN' },
+                    { id: 1, imageSrc: HaLong22, imageAlt: 'Trien lam' },
                 ],
             },
             {
                 id: 5,
-                name: 'Van Mieu',
+                name: 'Tuan Chau Park ',
                 description: [
-                    'This is the first university in Vietnam.  Today, visitors can visit the stone steles and solemn grounds with lotus ponds and gun ponds.  The Temple of Literature is a rare peaceful and quiet place in the middle of a bustling city.  Visitors will feel the harmony between ancient and modern times when coming here through the thousand-year-old walls. ',
-                    `The Temple of Literature was built in 1070 under the reign of King Ly Thanh Tong.  In 1076, King Ly Nhan Tong established Quoc Tu Giam House. `,
-                    `This place also preserves many precious artifacts and documents, especially 82 doctoral steles that have been recognized by UNESCO as "World Documentary Heritage".`,
+                    'Located on Tuan Chau Island is a diverse amusement park with fairy train games, slides, roller coasters, flying saucers, cable-stayed swings... Opening hours: 8am - 10pm, ticket price 350,000 VND per person  People and children under 1 meter are free.  Tickets to see dolphins or water music cost 100,000 VND for adults, 60,000 VND for children. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi20, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: HaLong23, imageAlt: 'tuan chau' },
                 ],
             },
             {
                 id: 6,
-                name: 'Lang Bac ',
+                name: 'Tran Quoc Nghien beach border  ',
                 description: [
-                    'For Vietnamese people, this is one of the most important attractions in the country.  Tourists come to pay their respects to President Ho Chi Minh.  Visitors need to keep quiet, wear appropriate clothing and not take photos in prohibited areas. r Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
-                    `Attending the flag-raising ceremony in the morning is a special experience at President Ho Chi Minh's mausoleum.  If you miss it, you can rest assured to walk around the city and come back here to participate in the flag lowering ceremony at 9pm every day.  A solemn atmosphere enveloped Ba Dinh Square as the loudspeaker sounded to announce the upcoming flag-lowering ceremony.  People lined up neatly, watching the group of guards solemnly lower the National flag to the music of the song "Uncle still marches with us". `,
+                    ` Located in Hon Gai, 4.7 km long, starting point from Bai Tho bridge, ending point connecting to Ha Long - Cam Pha coastal line, inaugurated in May 2020.  This is an area with a spacious beachfront campus, creating a highlight in the city's landscape, where people can exercise, tourists can see Ha Long Bay, and many amenities such as amusement parks, parking lots,  Beach, sports area... `,
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi7, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: HaLong24, imageAlt: 'vanh dai' },
                 ],
             },
             {
                 id: 7,
-                name: 'Chua Mot cot',
+                name: 'Sun World Park ',
                 description: [
-                    'The building is one of the oldest temples in Hanoi.  The pagoda was built on a wooden trunk more than 1,000 years ago.  In the 1950s, the original wooden trunk rotted so it was replaced with a concrete column.  Western visitors should come here to walk around this area because the surrounding housing projects are among the most beautiful and impressive in Hanoi. ',
+                    'Sun World Park is one of the largest amusement parks in the country with an area of ​​214 hectares.  In addition to swimming, visitors can have fun at Cyclone Bay water park, Dragon park, Typhoon Water Park, check-in on the famous Koi bridge, and worship the Bao Hai Linh Thong Tu spiritual complex.  Or visit the Japanese garden, visit the wax museum, or the upside down house.  ',
+                    'The park consists of two coastal complexes and at the top of Ba Deo.  Among them, highlights such as the Queen cable car and mysterious hill have ticket prices of 250,000 - 350,000 VND/person.  Dragon Park sells tickets for 200,000 - 300,000 VND/person with unlimited number of times to play entertainment games.  Typhoon Water Park sells tickets for 350,000 VND/person. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi13, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: HaLong25, imageAlt: 'vanh dai' },
                 ],
             },
             {
                 id: 8,
-                name: 'Pho co',
+                name: 'Bai Chay Old Town ',
                 description: [
-                    'Follow your feet to explore the vibrant and nostalgic streets of the capital. No need for a destination or predetermined route, simply turn right, left, or go straight. Each street offers unique discoveries, from toys to shoes, clothes, antiques, and even tombstones or motorbike parts.',
-                    `If you come here during off-hours, the experience will be even more interesting.  You must always be ready to avoid people and cars on the road.  Just like that, 1,000 years of Hanoi's history flows through the streets like blood flowing through each vein, breathing into life the breath of both the past and present. `,
+                    'Located on Ha Long road, Bai Chay.  This is one of the suitable destinations for tourists who like to check-in.  Visitors can visit and take photos for free. ',
+
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi21, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: HaLong26, imageAlt: 'pho co bai chay' },
                 ],
             },
             {
                 id: 9,
-                name: 'Bao Tang',
+                name: 'Ha Long Night Market ',
                 description: [
-                    'Destinations not to be missed when coming to any city are the museums and historical sites.  One of the places most tourists check in is the Ethnology Museum.  The Museum of Ethnology currently stores and displays 15,000 artifacts, 42,000 documentaries, pictures and thousands of other documents about 54 Vietnamese ethnic groups. ',
-                    `Besides, tourists also go to the Vietnamese Women's Museum, Hanoi Museum, National History Museum or Hoa Lo Prison, Hanoi Flag Tower relic... to learn about culture and history.  of the city. `,
-                    `The outdoor sightseeing area at the Museum of Ethnology has 10 unique folk architectural works such as the communal house of the Bana people, the half-earth stilt house of the Dao people, the mass grave of the Giarai people...`,
+                    `It's a paradise for shopping and dining at night. Located on Ha Long Marine Avenue, Bai Chay, the market is open from 6:00 p.m. to 11:00 p.m. It has hundreds of large and small stalls with all kinds of items from souvenirs, specialties, confectionery to jewelry and clothes.`,
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi22, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: HaLong27, imageAlt: 'cho dem' },
                 ],
             },
         ],
         should_do: [
             {
                 id: 1,
-                name: 'What to see? ',
+                name: 'Eat ? ',
                 description: [
-                    `Visitors to Hanoi should not only visit scenic spots but also enjoy art shows that reflect the national identity.`,
-                    'Water puppetry: is a stage art that tourists should see when coming to Hanoi.  This art has a tradition of more than 1,000 years in Vietnam.  There are two addresses that many visitors visit: Thang Long Puppet Theater at 57B Dinh Tien Hoang and Vietnam Puppet Theater at 361 Truong Chinh. ',
-                    'Listen to Ca tru: Ca tru originated in the 11th century, the style bears many similarities to Japanese geisha ceremonies and opera performances.  Initially, Ca tru was considered entertainment for the nobility in the royal palace, then it entered the common cultural space of modern Hanoi.  Ca tru has five main performance spaces: Ca tru at the communal house (singing at the temple gate to worship gods), ca tru at the court (enjoying ca tru by the dignitaries), ca tru at home, ca tru singing thi, ca tru  cabaret.  Visitors can listen to Ca Tru at Hanoi Ca Tru Club at 42 Hang Bac, Ca Tru Thang Long 146 Tu Hoa. ',
-                    'Real-life show: Quintessence of the North is a real-life show on stage at Thay Pagoda, at the foot of Thay Mountain, Sai Son commune, Quoc Oai district, Hanoi.  The show takes place on a 4,300 square meter lake, taking visitors into the lives of Northern farmers through sound and light performances.  Most of the actors participating in the scene are farmers from Quoc Oai district. ',
-                    'In addition to the play, visitors can also directly experience traditional Northern culture outside the stage with shops selling banh gio, banh te, sticky rice cake, sticky rice wrapped in lotus leaves and banana leaves, peanut candy, and candies.  Hua.  Tourists can buy and eat on small chairs in the middle of the garden to the sound of mandarin music. '
+                    `Famous delicacies in Ha Long are mostly made from seafood such as co ky, squid, worm, shrimp, crab, fish, squid... Seafood noodle dishes are very popular.`,
+                    'Here are a few dishes you should try to help fill your hungry stomach ',
+                    'Vermicelli noodles are a popular breakfast and lunch dish in Quang Ninh, especially in Ha Long city.  Surface shrimp (also known as mantis shrimp, mantis shrimp, hammer shrimp) is a seafood species abundant in Ha Long waters, with firm, sweet-smelling and nutritious meat.  A bowl of vermicelli costs about 30,000 - 40,000 VN',
+                    'Cu Ky vermicelli is a dish that can only be found in Quang Ninh.  The tick has a small body, about the size of a stone crab, but has a lot of shell and little meat. In return, it has large and meaty claws.  Therefore, bamboo shoots are the main ingredient for preparing dishes.  The meat is sweet and tastes different from crab meat. It is removed and sauteed with onions and garlic until fragrant, then placed in a bowl of white noodles with a pair of pre-shelled claws. ',
+                    'Eggs and blood stewed with wormwood are nutritious snacks often sold in the late afternoon in Ha Long.  Mugwort stewed blood and duck eggs are suggested by gourmets in Ha Long to try when coming to this city. ',
+                    'The sweetness from the square pieces of blood makes the bitter wormwood leaves taste more mild when stewed together, while the wormwood leaves make the blood less fishy.  Restaurants also add balut to the bowl of stewed blood.  Cheap price, 10,000 - 20,000 VND per portion.  To enjoy this dish, diners should go to Column 3 market, Ha Long market 1, 2. ',
+                    `Squid spring rolls are a famous specialty of Ha Long.  In Ha Long, diners can find squid spring rolls at any time of the day.  Some famous addresses include Mrs. Ngan's, Mrs. Yen's, Goc Bang's, or in the local market during the day.  One serving costs 30,000 - 55,000 VND depending on whether diners want to order more squid rolls. `,
+
                 ],
 
-                images: [HanoiDo1, HanoiDo2, HanoiDo3, HanoiDo4,]
+                images: [HaLong28, HaLong29, HaLong30, HaLong31,]
             },
             {
                 id: 2,
-                name: 'Where to play?  ',
+                name: 'Here are some dishes suitable for side dishes and desserts.',
                 description: [
-                    `SUP on West Lake: Waking up when it's about to dawn, you can drive to West Lake and experience water games like SUP and kayaking.  The appropriate time is usually 5am-7pm, or late afternoon.  You can find boats and planks to rent at shops on Lac Long Quan, Au Co, Trich Sai streets... with prices from 250,000 VND per day. `,
+                    `Sam is processed into many dishes such as sweet and sour stir-fry, making rolls, sam eggs... very unique and delicious food.  However, sam is a type of seafood with cold properties, so if you have a "history" of allergies or have a cold stomach with seafood, you should not eat it or only eat a little.  The famous Sam's address in Ha Long is Ba Ty's Sam's in alley 6 Cao Thang, or Sam's in Quang Yen, located on the road from Ha Long to Hanoi.  In the afternoon, in the snack area of ​​Ha Long 1 market, there is also a shop selling sweet and sour crab legs, sam rolls... quite delicious. `,
 
-                    `See the panorama of Hanoi from above: Coming to Hanoi, you cannot miss the Lotte Observation Deck located on Lieu Giai Street, because this is the place where you can have a panoramic view of the Capital from the 65th floor.  Made from transparent glass so you can take creative check-in photos at any angle.  The observatory is open from 9am until the end of the day. `,
-                    `Walking street: Every week, Hoan Kiem Lake walking street opens from 6:00 p.m. Friday to Sunday, attracting a large number of both residents and foreign tourists.  This space has many fun and entertainment activities, including street art performances.  Don't forget to experience the "food tour" around the walking street. `,
-                    `Beer Street: In the old town, especially in Ta Hien, Bao Khanh, Luong Ngoc Quyen, there are always many places for you to drink beer or other attractively prepared drinks.  This is also one of the busiest nightlife places in the capital.`,
-                    `Going to the market: Not Dong Xuan market, Quang Ba flower market and Long Bien wholesale market are two addresses that Westerners whisper to each other that they must visit once if they have the opportunity to come to the capital.  The market mainly sells flowers and fruits, but visitors are required to stay up late and get up early to fully see the bustling, bustling atmosphere of a very different Hanoi when night falls. `,
-                    `Located right at the foot of Long Bien bridge, Long Bien wholesale market is bustling all year round, the most famous being the fruit wholesale flea market.  From 8:00 p.m. the market starts to bustle, getting busier as the night progresses.  The Quang Ba flower market is open all night but is most crowded at around 3-4 am, when buyers and sellers are busy.  Bouquets of flowers, large and small, piled on the cart, were bustling in and out. `,
+                    `Stir-fried snails are a very popular snack with local people, the price is affordable, only around 35,000 VND/plate depending on the type.  To eat stir-fried snails, you should go to sidewalk restaurants, it will feel more comfortable and delicious with the rustic preparation.  Snails stir-fried with soy sauce, lemongrass, tamarind sauce, coconut... very delicious and addictive.  In Ha Long, there are also many types of snails for you to choose from, the most popular are pipe snails, sucker snails, apple snails... `,
+                    `Bubble yogurt is a must-try dessert.  Yogurt served with tapioca pearls has been around for about 10 years.  The famous snack that has become a Ha Long brand is making waves in other cities.  The shops brew their own yogurt, soft and smooth, without ice, and cool.  Only 10,000 - 30,000 VND per portion of yogurt.  Hang Co Nghi or Tuan Lien are two familiar places for tourists due to their spacious and comfortable parking lots.  Visitors can try Ms. Phuong's yogurt recommended by many locals. `,
+                    `In addition, when you have time, you should enjoy nodding cakes, Quang Yen sour spring rolls, Hoanh Bo sticky rice wine, spring rolls, balut, mussel porridge... These snacks are often sold at markets.  In addition, Ms. Huyen's grapefruit sweet soup is also a recommended snack, note that it is only sold from 10:00 a.m. to about 5:00 p.m. `,
                 ],
 
-                images: [HanoiDo5, HanoiDo6, HanoiDo7, HanoiDo8,]
+                images: [HaLong32, HaLong33, HaLong34, HaLong35,]
             },
         ],
         diffr: [
@@ -1582,195 +1647,54 @@ export const placesToGo = [
                 id: 1,
                 name: 'Restaurant ',
                 description: [
-                    `Hanoi cuisine perfectly combines sour, spicy, salty, sweet flavors and represents the image of the city with a thousand years of civilization: vibrant, quiet, attractive and attractive.  You can easily enjoy Hanoi specialties at roadside sidewalk restaurants such as beef pho, bun cha, banh mi... `,
+                    `To find seafood, you can go to Cai Dam market, Vuon Dao area, Doan wharf, rafting area, or enjoy food on tours on the bay with each meal ranging from 200,000 VND per person.  `,
                 ],
                 eat_buy: [
                     {
                         id: 1,
-                        name: 'Phở',
+                        name: '',
                         description: [
-                            `When coming to Hanoi, you cannot miss pho, especially beef pho, which usually has two main types: cooked and rare.  Cooked beef is pieces of beef boiled in broth, while rare beef is pieces of meat that are thinly sliced ​​and quickly blanched in boiling water.  Then, the seller will put those slices of meat on pho noodles, pour broth and serve to diners.  Some reference addresses are Pho Thin, Bat Dan, Tu Lun, Pho Lam on Hang Vai Street, Pho Tram on Yen Ninh Street. `,
-                            'If you want to try other versions, suggested addresses are Nguyet restaurant No. 5 Phu Doan, Cham restaurant 63 Yen Ninh, Lan Ong mixed chicken pho or Ngu Xa pho roll. ',
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat1,
-                                imageAlt: 'pho ha noi',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 2,
-                        name: 'Rice noodle Vietnamese',
-                        description: [
-                            `Hanoi people have many noodle dishes.  The most special ones are bun cha, bun thang, bun snail, bun moc, vermicelli noodles... `,
-                            'When talking about long-standing authentic specialties in Hanoi, we cannot help but mention bun thang.  Hanoi people have skillfully processed leftover food after Tet into an elaborate and sophisticated noodle dish.  A bowl of vermicelli noodles costs 30,000 - 50,000 VND.  Currently, in Hanoi there are only a few places that sell bun thang, such as Ba Duc restaurant (Cau Go), Ngoc Tuyen restaurant (Dao Tan), Thuan Ly restaurant (Hang Hom).. ',
-                            `Bun cha - a dish often eaten for lunch.  Similar to grilled meat vermicelli in the South and Central regions, but Hanoi's vermicelli noodles are marinated more elaborately.  Those who like old flavors can go to bun cha restaurants in Hang Ma and Hang Dong.  People who like bamboo vermicelli noodles should go to Buoi market and Dong Xuan market.  Or visit the noodle shops in Ngoc Khanh, Giang Vo, Le Van Huu, Hang Manh which are also famous restaurants in Hanoi.`,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat2,
-                                imageAlt: 'bun cha',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 3,
-                        name: 'Cha Ca La Vong ',
-                        description: [
-                            `La Vong grilled fish was born in 1871, invented by the Doan family.  From a rustic dish, grilled fish gradually became the quintessence of Hanoi cuisine to this day.  "Fish cake" is made from the most delicious fish, especially lentil fish.  "La Vong" is the image of an ancient general, a talented man with the will to wait for a great opportunity. `,
-                            `The fish meat is carefully deboned, sweet, fragrant and soaked in spices.  Dill and spring onions are cut into pieces and mixed into the hot fish pan.  When eaten combined with grilled rice paper, vermicelli and shrimp paste - indispensable ingredients that help create a rich flavor.  Some suggested addresses: La Vong Grilled Fish, No. 14, Cha Ca Street;  Thang Long fish cake at 21 Duong Thanh;  Lao Ngu fish cake at 171 Thai Ha... `,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat3,
-                                imageAlt: 'cha ca',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Rolls',
-                        description: [
-                            `Thinly coated rice cakes stuffed with pork, wood ear mushrooms, minced onions, and dipped in sweet and sour fish sauce are always a suitable dish for hot summer days.  Walking on the streets, visitors will encounter many banh cuon shops open in the morning, with skillful and quick hands preparing the banh cuon.  Some suggested addresses are Banh Cuon Ba Hanh, 26B Tho Xuong;  Ba Xuan rice rolls, 16 Hoe Nhai slope and Long Bien market food area. `,
+                            `Some delicious restaurants in the Bai Chay area are Hong Hanh, Phuong Nam, Cua Vang, Phuong Thuy, Yen Oc in Cai Dam area.  In the Hon Gai area, there are Sam Ba Ti restaurant, pile 5, Huong Duyen, Bao Nghia rice restaurant, Lan Huong, Bang Lang... Some other suggestions are Gieng Don snack food street, Phu Lam restaurant near Cienco fishing village.  5... If you have time to explore further and want delicious, rustically prepared food, go to Quang Yen area, Thong Nhat commune, Hoanh Bo district.  Outdoor beer bars include Khai Huong Garden, Cuong Ca... along the beach. `,
+                            'Ha Long coastal city currently has many cafes with beautiful and unique views.  Some places for visitors to refer to are Sky Bar, Cam Cafe, 1990 Coffee house, Old Town cafe, Thong Zeo thousand nine cafe... ',
+                            'Note: When coming to Ha Long, please go to restaurants with clearly posted prices or ask the price before ordering.  In addition, when going out to eat on the weekend, you need to book in advance or go off peak hours to avoid crowding. ',
 
                         ],
                         images: [
                             {
                                 id: 1,
-                                imageSrc: Hanoieat4,
-                                imageAlt: 'banh cuon',
+                                imageSrc: HaLong36,
+                                imageAlt: 'nha hang ha long',
                             },
                         ],
 
                     },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `In addition to famous dishes around the world, Hanoi also possesses a treasure trove of cakes such as pillow cakes, filled with pork, mushrooms, ground vermicelli and quail eggs... To balance the flavor, the greasy donuts  Served with dipping sauce of garlic, chili and herbs.  Located on Ly Quoc Su Street, Goc Da restaurant specializes in selling salty donuts and pillow cakes, open from 10am to 9:30pm. `,
 
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat5,
-                                imageAlt: 'banh ran',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 6,
-                        name: 'Coffee',
-                        description: [
-                            `Coffee is a feature of Hanoi, with many long-standing shops in the old town.  Egg coffee is one of Hanoi's specialties made from whipped eggs mixed with Vietnamese coffee.  Egg coffee has a slightly yellow color in a small cup.  Diners always have an extra spoon to enjoy the cream foam on top like an "appetizer" before drinking the coffee below.  Famous delicious egg coffees include Dinh, Giang, Pho Co Coffee, Loading T, All Day Coffee... Price per cup starts from 25,000 VND. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat6,
-                                imageAlt: 'ca phe trung',
-                            },
-                        ],
-
-                    },
                 ],
             },
             {
                 id: 2,
                 name: 'What to buy as a gift? ',
                 description: [
-                    `In addition to apricot blossoms, green rice cakes, and lotus tea, visitors to Hanoi can buy silk in Van Phuc village or Bat Trang pottery as gifts for relatives and friends. `,
+                    `Dried seafood such as sun-dried squid, dried fish, dried shrimp... along with hand-pounded squid rolls, or items made from marine shells and coal are all typical gifts of Ha Long.  Seafood and souvenirs are easiest to buy when you go to Ha Long night market, Cai Dam market and traditional seafood stores. `,
+                    'To report issues related to tourism activities in Ha Long City, visitors can contact hotline: 0911 619 066 or email: halonghotline@quangninh.gov.vn ',
                 ],
                 eat_buy: [
                     {
                         id: 1,
-                        name: 'dried plum.',
+                        name: '',
                         description: [
-                            `With sour, spicy, salty, and sweet flavors that combine the quintessence of Hanoi cuisine, apricot fruit is a gift that many people choose to buy as a gift when leaving Hanoi.  The most famous address for this snack is Hang Duong street.  Visitors can find here their favorite apricot varieties such as apricots, plums, ginger, dracontomelon, star fruit, lemon, kumquat, persimmon, peach, toad, tamarind... However, if purchased as a gift for Southerners  , you should choose the alligator apricot fruit, because it has a sweet taste made from a sour fruit that is very typical of Hanoi.  Depending on the type, apricot costs about 100,000 - 150,000 per kg. `,
-                            'Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã.',
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy1,
-                                imageAlt: 'sau dam',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 2,
-                        name: 'green rice flakes',
-                        description: [
-                            `The scent of Vong village green rice has long created a unique charm for the capital's cuisine.  However, because it is only available in the fall, Hang Than green rice cake is a perfect alternative for many tourists.  The rice nuggets are sticky on the outside, with a layer of green bean filling mixed with greasy coconut on the inside, with a faint natural scent of grapefruit. `,
 
                         ],
                         images: [
                             {
                                 id: 1,
-                                imageSrc: Hanoibuy2,
-                                imageAlt: 'com ',
+                                imageSrc: HaLong37,
+                                imageAlt: 'sunrise',
                             },
                         ],
 
                     },
-                    {
-                        id: 3,
-                        name: 'Lotus tea  ',
-                        description: [
-                            `Tay Ho lotus tea will definitely be a precious gift for relatives and friends after visiting Hanoi.  Because marinating lotus tea is an art that takes a lot of time and effort.  After being selected from the best, dried tea petals will be marinated 5-7 times with lotus rice (white seeds on the lotus head) to absorb the flavor.  The marinated lotus must be the type grown in lagoons in West Lake such as Nhat Tan and Quang Ba because it is fragrant and produces the most rice. `,
 
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy3,
-                                imageAlt: 'tra sen ho tay',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Van Phuc Silk ',
-                        description: [
-                            `Silk's popularity with tourists is due to its thin, soft, airy, colorfast, and wrinkle-free properties. Whether it's winter or summer, visitors can find and purchase a variety of silk items such as scarves, shirts, dresses, and bags. In addition to Van Phuc silk village (about 10 km from the center of Hanoi), silk can also be purchased at stalls on Hang Gai or Dinh Liet streets.`,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy4,
-                                imageAlt: 'lua van phuc',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `If you have the opportunity to visit Bat Trang, don't forget to buy ceramic products from traditional craft villages.  With characteristic glaze colors and skilled craftsmanship, Bat Trang ceramics have a very unique beauty.  In addition to commonly used bowls, bowls, cups, and cups, there are also products dedicated as gifts such as wind chimes, statues, etc. Visitors to the pottery village can also make their own bowls.  , vases, vases, cups as gifts, both meaningful and an interesting experience. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy5,
-                                imageAlt: 'gom bat trang',
-                            },
-                        ],
-
-                    },
                 ],
 
             },

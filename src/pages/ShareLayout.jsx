@@ -11,7 +11,7 @@ const SharedLayout = () => {
                 <Outlet />
             </main>
             <ScrollToTopButton />
-            <Footer />
+            {/* <Footer /> */}
         </>
     );
 };
