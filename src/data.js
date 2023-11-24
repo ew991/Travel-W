@@ -207,27 +207,60 @@ import MocChau5 from './assets/img/PlaceImg/MocChau/cung-duong-chu-s-jpeg-5497-1
 import MocChau6 from './assets/img/PlaceImg/MocChau/doi-che-jpeg-4698-1651122666.jpg';
 import MocChau7 from './assets/img/PlaceImg/MocChau/doi-che-moc-chau-0-jpeg-1396-1651122666.jpg';
 import MocChau8 from './assets/img/PlaceImg/MocChau/hang-Tau-2-jpeg-9594-1651123755.jpg';
-import MocChau9 from './assets/img/PlaceImg/MocChau/hang-Tau-jpeg-4245-1651123755.jpg';
+import MocChau9 from './assets/img/PlaceImg/MocChau/be-chao-moc-chau-jpeg-1660-1651122673.jpg';
 import MocChau10 from './assets/img/PlaceImg/MocChau/homestay-moc-chau-jpeg-2518-1651123328.jpg';
 import MocChau11 from './assets/img/PlaceImg/MocChau/Pha-Luong-jpeg-1413-1651122673.jpg';
-import MocChau12 from './assets/img/PlaceImg/MocChau/thac-chieng-khoa-moc-chau-jpeg-3797-1651123093.jpg';
+import MocChau12 from './assets/img/PlaceImg/MocChau/1640231082.jpg';
 import MocChau13 from './assets/img/PlaceImg/MocChau/thac-dai-yem-8396-1651122671.png';
 import MocChau14 from './assets/img/PlaceImg/MocChau/thac-dai-yem-moc-chau-7909-1651122671.png';
-import MocChau15 from './assets/img/PlaceImg/MocChau/thac-nang-tien-Moc-Chau-1224-1651122670.jpg';
-import MocChau16 from './assets/img/PlaceImg/MocChau/thac-nang-tien-Moc-Chau-3-3380-1651122670.jpg';
+import MocChau15 from './assets/img/PlaceImg/MocChau/dong-co-68-moc-chau-5.jpg';
+import MocChau16 from './assets/img/PlaceImg/MocChau/xoi-ngu-sac-jpeg-2002-1651122673.jpg';
+import MocChau17 from './assets/img/PlaceImg/MocChau/hoa-mo-moc-chau-jpeg-8977-1651122661.jpg';
+import MocChau18 from './assets/img/PlaceImg/MocChau/hoa-man-moc-chau-6.jpg';
+import MocChau19 from './assets/img/PlaceImg/MocChau/deo thung khe.jpg';
+import MocChau20 from './assets/img/PlaceImg/MocChau/fairy-house-moc-chau-6.jpg';
+import MocChau21 from './assets/img/PlaceImg/MocChau/vuon-man-Mu-Nau-3661-158935775-3234-3205-1651122664.jpg';
+import MocChau22 from './assets/img/PlaceImg/MocChau/dream-garden-vuon-hoa-huong-duong-moc-chau2.jpg';
+import MocChau23 from './assets/img/PlaceImg/MocChau/thac-nang-tien1-8005-1621422773.jpg';
+import MocChau24 from './assets/img/PlaceImg/MocChau/ca-hoi-moc-chau-2-jpeg-5671-1651122673.jpg';
+import MocChau25 from './assets/img/PlaceImg/MocChau/GOI-CA-LANG-jpeg-4450-1651122674.jpg';
+import MocChau26 from './assets/img/PlaceImg/MocChau/cafe-moc-chau-view-dep-do-uong-ngon-1-1645592182.jpg';
+import MocChau27 from './assets/img/PlaceImg/MocChau/quan-cafe-moc-chau-do-uong-ngon-view-song-ao-dep6-1645542467.jpg';
+import MocChau28 from './assets/img/PlaceImg/MocChau/quan-cafe-moc-chau-view-dep-do-uong-ngon-8-1645592183.jpg';
+import MocChau29 from './assets/img/PlaceImg/MocChau/image-danh-sach-7-quan-cafe-dep-o-binh-thanh-chat-nhu-nuoc-cat-8921ad353e7c1c7d99c947aba4b17c3f.jpg';
+import MocChau30 from './assets/img/PlaceImg/MocChau/shutterstock_1122981482_0.jpg';
+
+
 //7 Ninh Binh
 import NinhBinh1 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-10-4408-159-3881-7808-1653446959.jpg';
 import NinhBinh2 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-11-8060-159-4466-8558-1653446962.jpg';
 import NinhBinh3 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-15-1565-159-6490-7395-1653446963.jpg';
 import NinhBinh4 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-16-5852-159-7116-3604-1653446964.jpg';
 import NinhBinh5 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-17-5239-159-5474-1467-1653446964.jpg';
-import NinhBinh6 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-18-2593-159-8164-5645-1653446965.jpg';
+import NinhBinh6 from './assets/img/PlaceImg/NinhBinh/DJI_0046.jpg';
 import NinhBinh7 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-2-mobile-79-8593-7055-1653446956.jpg';
 import NinhBinh8 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-3-4322-1594-4441-3303-1653446957.jpg';
 import NinhBinh9 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-7-6023-1594-1331-2980-1653446958.jpg';
 import NinhBinh10 from './assets/img/PlaceImg/NinhBinh/C-m-nang-Ninh-Binh-9-4583-1594-5829-7097-1653446960.jpg';
 import NinhBinh11 from './assets/img/PlaceImg/NinhBinh/chimm-3486-1594209935-2512-159-9897-3994-1653446966.jpg';
 import NinhBinh12 from './assets/img/PlaceImg/NinhBinh/dulichNinhBinhVnExpress-165027-2285-9515-1650278117.jpg';
+import NinhBinh13 from './assets/img/PlaceImg/NinhBinh/kinh-nghiem-du-lich-trang-an.jpg';
+import NinhBinh14 from './assets/img/PlaceImg/NinhBinh/trang-an.jpg';
+import NinhBinh15 from './assets/img/PlaceImg/NinhBinh/ga-ninh-binh-02.jpg';
+import NinhBinh16 from './assets/img/PlaceImg/NinhBinh/BtXkxq1.jpg';
+import NinhBinh17 from './assets/img/PlaceImg/NinhBinh/kinh-nghiem-du-lich-tam-coc-bich-dong.jpg';
+import NinhBinh18 from './assets/img/PlaceImg/NinhBinh/bich-dong.jpg';
+import NinhBinh19 from './assets/img/PlaceImg/NinhBinh/co-do-hoa-lu_31-07-2023_173170983.jpg';
+import NinhBinh20 from './assets/img/PlaceImg/NinhBinh/khu-du-lich-dam-van-long-ninh-binh.jpg';
+import NinhBinh21 from './assets/img/PlaceImg/NinhBinh/Phatdiemk-77.jpg';
+import NinhBinh22 from './assets/img/PlaceImg/NinhBinh/vuon-quoc-gia-cuc-phuong-9-1024x683.jpg';
+import NinhBinh23 from './assets/img/PlaceImg/NinhBinh/doi-dua-tam-diep-dia-diem-moi-o-thanh-dia-song-ao-ninh-binh-ivivu-1.jpg';
+import NinhBinh24 from './assets/img/PlaceImg/NinhBinh/3143comchaychabong-11553864.jpg';
+import NinhBinh25 from './assets/img/PlaceImg/NinhBinh/cong-thuc-lam-mon-de-tai-chanh.jpg';
+import NinhBinh26 from './assets/img/PlaceImg/NinhBinh/Sunset-in-Ninh-Binh-PS.jpg';
+
+
+
 //8 Sapa
 import SaPa1 from './assets/img/PlaceImg/Sapa/10DSC-4991-1280-1546527332-998-6310-9622-1652148673.jpg';
 import SaPa2 from './assets/img/PlaceImg/Sapa/fansipan-2-9450-1650277616-1286-1652148668.png';
@@ -244,6 +277,24 @@ import SaPa12 from './assets/img/PlaceImg/Sapa/Sa-Pa-mua-he-2695-1650277614-2418
 import SaPa13 from './assets/img/PlaceImg/Sapa/san-tuyet-Sa-Pa-8336-165027761-1851-5413-1652148659.jpg';
 import SaPa14 from './assets/img/PlaceImg/Sapa/Ta-Van-Sa-Pa-2-4584-1650277616-2850-1652148666.jpg';
 import SaPa15 from './assets/img/PlaceImg/Sapa/Ta-Van-Sa-Pa-8466-1650277615-2110-1652148665.jpg';
+import SaPa16 from './assets/img/PlaceImg/Sapa/Chay-lai-tau-ha-noi-lao-cai-tu-ngay-19-6.jpg';
+import SaPa17 from './assets/img/PlaceImg/Sapa/xe-may-Sa-Pa-4073-1650277614-4473-1652148659.jpg';
+import SaPa18 from './assets/img/PlaceImg/Sapa/Sa-Pa-Topas-1828-1650277615-2663-1652148663.jpg';
+import SaPa19 from './assets/img/PlaceImg/Sapa/Silk-Path-Sa-Pa-2531-165027761-6694-4540-1652148660.jpg';
+import SaPa20 from './assets/img/PlaceImg/Sapa/Sa-Pa-Cat-Cat-8705-1650277615-1379-1652148661.jpg';
+import SaPa21 from './assets/img/PlaceImg/Sapa/nui-ham-rong.jpg';
+import SaPa22 from './assets/img/PlaceImg/Sapa/ban-cat-cat-3.jpg';
+import SaPa23 from './assets/img/PlaceImg/Sapa/Swing-Sapa-1.2.jpg';
+import SaPa24 from './assets/img/PlaceImg/Sapa/seo-my-ty-4.jpg';
+import SaPa25 from './assets/img/PlaceImg/Sapa/cong-troi-sapa-7.jpg';
+import SaPa26 from './assets/img/PlaceImg/Sapa/O-Quy-Ho-VnExpress-7011-159109-3892-5311-1652148672.jpg';
+import SaPa27 from './assets/img/PlaceImg/Sapa/thac-bac-o-sapa-moi-cung-bac-la-tung-cam-xuc-lan-toa-h1.jpg';
+import SaPa28 from './assets/img/PlaceImg/Sapa/Sa-Pa-nuong-8778-1650453384-1625-1652148676.jpg';
+import SaPa29 from './assets/img/PlaceImg/Sapa/sa-pa-8563-1650453166-8643-1652148675.jpg';
+import SaPa30 from './assets/img/PlaceImg/Sapa/ca-hoi-sa-pa-2308-1650453166-3007-1652148674.jpg';
+import SaPa31 from './assets/img/PlaceImg/Sapa/sapa-4673-1650453166-7473-1652148675.jpg';
+import SaPa32 from './assets/img/PlaceImg/Sapa/ca-phe-Sa-Pa-7328-1650277620-4844-1652148676.jpg';
+import SaPa33 from './assets/img/PlaceImg/Sapa/ca-phe-Sa-Pa-2-6381-1650277620-5806-1652148677.jpg';
 
 
 //practicalities
@@ -1708,382 +1759,276 @@ export const placesToGo = [
         name: 'Moc Chau',
         imageSrc: MocChau,
         description: [
-            'Still often referred to by its old name, Saigon, Ho Chi Minh City is a clamorous, chaotic sensory feast. Motorbikes honk in a tidal wave across clogged intersections, locals crouch on street corners slurping steaming hot bowls of Pho (noodle soup); and the sultry air is thick with exhaust fumes and exotic spices.',
-            `Ho Chi Minh City is Vietnam's commercial hub and largest city, and it's a place where old abuts new with striking contrast. Temples huddle amid skyscrapers and designer shops; locals cast bamboo fishing rods into the languorous Saigon River; and in places, the city feels almost European, with its elegant French colonial architecture and wide, tree-lined avenues.`,
-            `Adding to the fascinating cultural jolt is a clutch of intriguing tourist attractions, from the poignant War Remnants Museum and captivating water puppet shows to colorful markets and the time warp of the Reunification Palace.`,
+            'Located nearly 200 km from the center of Hanoi and 4 hours by car, Moc Chau has long been considered one of the most attractive destinations in the Northern region, especially during the plum blossom season at the beginning of the year. ',
+
         ],
         intro: [
             {
                 id: 1,
-                name: 'What is the most beautiful season in HaNoi? ',
+                name: 'What is the most beautiful season in Moc Chau? ',
                 description: [
-                    `The best time to visit Hanoi is during the fall from August to November and in the spring from March to April. Autumn is often considered the most beautiful season in Hanoi, with clear blue skies, crisp winds, falling yellow leaves, and the faint scent of milk flowers. Spring brings warm weather, and the streets appear to be adorned in new attire as trees bud and flowers blossom.`,
+                    `Moc Chau has four seasons: spring, summer, autumn, winter with mild weather and flowers and fruits all year round.  In January, the plateau is green with budding tea hills, peach blossoms, plum blossoms, apricot blossoms, cherry blossoms... `,
+                    'From mid-May, plums begin to ripen, people harvest plums and sell them to lowland traders.  There are no flowers in summer, nor is it strawberry season, but this place is very suitable for picnics because of the fresh air and many outdoor activities. ',
+                    'The persimmon season in Moc Chau starts from August to December every year.  In particular, the crispy persimmon season usually comes earlier, from August to October, while from October to the end of the year is the season for astringent persimmons. ',
+                    'The white mustard season in Moc Chau begins in November. In December, bright yellow wild sunflowers decorate the plateau. ',
+
                 ],
 
-                images: [Hanoiw, Hanoiw2]
+                images: [MocChau17, MocChau18]
             },
             {
                 id: 2,
                 name: 'Move ',
                 description: [
-                    `Hanoi, the heart of Vietnam, offers various transportation options for visitors to reach the capital, including plane, train, bus, private car, or motorbike from nearby provinces.`,
+                    'Moc Chau is nearly 200 km from Hanoi.  If traveling by motorbike, you should follow the old Highway 6 because there are many beautiful scenery along the way, but you should pay attention to the steering wheel because the road is quite degraded.  The journey takes about 4-5 hours. ',
 
-                    `To explore the city, visitors can choose to travel by car, motorbike, or bicycle. However, for a more picturesque experience, one can opt to ride a cyclo and take in the beauty of the 36 streets. Alternatively, a tour on a three-wheeled motorbike or vintage Vespa is also highly recommended. Another option to consider is the double-decker bus, with ticket prices ranging from 130,000 to 599,000 VND.`,
+                    'On the way, you will pass the S-shaped road in Van Ho district.  Most travelers stop to admire the scenery and check-in at this soft S-shaped curve. ',
+                    'If you take a bus, you can choose routes to Son La from My Dinh or Yen Nghia bus station, then get off at Moc Chau with a high-quality bus ticket price of about 200,000 VND. ',
+                    `If you drive your own car, you don't need to worry too much because the road is big and easy to go despite many steep passes.  Be careful, drive at the right speed and pay attention to the lane when passing.  In the summer, the roads are less foggy but visibility is limited when it rains.  The section that may be cloudy is the road from Thung Khe section. `,
+
                 ],
 
-                images: [Hanoimove, Hanoimove2,]
+                images: [MocChau5, MocChau19,]
             },
             {
                 id: 3,
                 name: 'Accommodation  ',
                 description: [
-                    `Hanoi offers a variety of accommodation options for tourists, including affordable motels, homestays, hotels, and resorts that cater to different budgets and preferences. In the old town, you can find "Western backpacker" style beds with dormitory rooms for around 100,000 VND per night, as well as high-end hotels for 3,000,000 - 5,000,000 VND per night.`,
+                    `Moc Chau has many motels.  However, to get quality accommodation during peak season, you should still call to book in advance.  There are eco-lodges (with mountains, lakes, stilt houses) or homestay-style community motels.  The price of a room is about 200,000 - 300,000 VND per night but there are also many motels with lower prices. `,
 
-                    `Some special hotels include Sofitel Legend Metropole Hanoi with French colonial architecture, just a few steps from the Opera House is Hilton Hanoi Opera, Apricot Hotel right on the banks of Hoan Kiem Lake, famous hotels.  With views of West Lake are Sheraton Hanoi and InterContinental Hanoi Westlake, Lotte Hotel Hanoi on the high floor of the 65-storey Lotte Center building... `,
+                    `Some suggested "chill" homestays are MAMA's House, Le Chalet du Lac, Fairy House Moc Chau, House By Lake, The Nordic Village, Moc Chau Retreat... Room prices range from 300,000 to 1,000,000 VND per night. `,
+
                 ],
 
-                images: [HaNoi15, HaNoi16,]
+                images: [MocChau10, MocChau20,]
             },
         ],
 
         places: [
             {
                 id: 1,
-                name: 'Hoang Thanh Thang Long',
+                name: '',
                 description: [
-                    `The Thang Long Imperial Citadel, a world cultural heritage site, is situated in the center of Hanoi and boasts a rich history spanning over 1,300 years. This location is home to distinct artifacts and relics that showcase the history of Thang Long - Hanoi and the Vietnamese people across numerous periods. Its address is 19C Hoang Dieu, Dien Ban, Ba Dinh.`,
+                    `To fully explore Moc Chau, you can go quickly in 2 days.  If you have more time, about 3-4 days is best, you will have plenty of time to find beautiful camera angles to take photos or go to neighboring famous tourist areas such as Thung Nai, Mai Chau,  Hoabinh water electric... `,
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi17,
-                        imageAlt: 'Hoang Thanh Thang Long',
+                        imageSrc: MocChau2,
+                        imageAlt: 'ban do du lich',
                     },
                 ],
             },
             {
                 id: 2,
-                name: '',
+                name: 'Ban Ang pine forest ',
                 description: [
-                    'Hoan Kiem is a natural freshwater lake in Hanoi, connecting the streets of Hang Ngang, Hang Dao, Cau Go, Luong Van Can, and Lo Su with the Western Quarter planned by the French over a century ago. The surrounding centuries include Bao Khanh, Nha Tho, Trang Thi, Hang Bai, Dinh Tien Hoang, and Trang Tien. Walking around the lake allows you to enjoy the natural surroundings in the middle of the city and visit Ngoc Son temple and the old town',
+                    'The pine forest is located in the Ang village area of ​​Dong Sang commune, Moc Chau district, Son La province, 2 km from Moc Chau town center along Highway 43. With a total area of ​​over 43 hectares, including a towering green pine forest,  Stretching across red-brown hillsides and a cool lake, this place has become a new camping spot in the Northern region.',
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi14,
+                        imageSrc: MocChau3,
+                        imageAlt: '',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: MocChau4,
                         imageAlt: '',
                     },
                 ],
             },
             {
                 id: 3,
-                name: 'Cau Long Bien',
+                name: 'Mu Nau plum valley ',
                 description: [
-                    'Long Bien Bridge not only spans the two banks of the Red River, but also serves as a connection between the present and the old memories of people who love Hanoi. Built in 1898, it is also known as Song Cai Bridge or Bo De Bridge because it spans Bo De wharf, Gia Lam, Hanoi. The bridge has a length of 1,682 m and an 896 m long approach bridge, divided into 9 frames, each 61 m long. The original design included a total of 19 steel beam spans placed on 20 pillars over 40 m high.',
+                    'In early May, Mu Nau plums produced quite large, evenly ripened fruits that were no longer green like some plum gardens in Na Ka or Phieng Khoang.  Because the road to Mu Nau is difficult, you should choose a manual car instead of a scooter.  If you rent a weak car, you should only go alone.  If you have weak steering, you can rent a two-way motorbike taxi.  Entering the garden, you can visit, pick plums and take pictures, but you should not pick green plums for fun. ',
+                    'Motorbike taxi: price 120,000 VND per person. ',
+                    'Entrance ticket: 20,000 VND per person. ',
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: Hanoi18,
-                        imageAlt: 'Cau Long Bien',
+                        imageSrc: MocChau1,
+                        imageAlt: 'hai man',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: MocChau21,
+                        imageAlt: 'Cvuon man',
                     },
                 ],
             },
             {
                 id: 4,
-                name: 'Chua Tran Quoc',
+                name: 'Sunflower Garden ',
                 description: [
-                    'Tran Quoc Pagoda, situated on an island to the east of West Lake, was once considered one of the most stunning pagodas globally. With a history of 1,500 years, it served as the Buddhist center of Thang Long capital during the Ly and Tran dynasties. Designated as a national historical and cultural relic in 1962, the pagoda also hosted the unveiling of the 15 m high, 11-storey Luc Do lotus stupa in 2003.',
+                    'This is a new check-in point in Moc Chau, located deep in the valley, because there are no signs so it is difficult to find.  If you go from town, along Highway 6 towards Son La through Km 106, you will see an upward slope.  That is the way into the valley of flowers.  In the early days of May, the flowers are just starting to bloom, but in just a week the flowers will bloom and become a very beautiful photo spot.  Entrance ticket: 30,000 VND per person. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi19, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: MocChau22, imageAlt: 'vuon hoa huong duomg' },
                 ],
             },
             {
                 id: 5,
-                name: 'Van Mieu',
+                name: 'Moc Chau tea hills',
                 description: [
-                    'This is the first university in Vietnam.  Today, visitors can visit the stone steles and solemn grounds with lotus ponds and gun ponds.  The Temple of Literature is a rare peaceful and quiet place in the middle of a bustling city.  Visitors will feel the harmony between ancient and modern times when coming here through the thousand-year-old walls. ',
-                    `The Temple of Literature was built in 1070 under the reign of King Ly Thanh Tong.  In 1076, King Ly Nhan Tong established Quoc Tu Giam House. `,
-                    `This place also preserves many precious artifacts and documents, especially 82 doctoral steles that have been recognized by UNESCO as "World Documentary Heritage".`,
+                    'The entire town of Moc Chau, Son La, is surrounded by green tea hills.  Moc Chau Farm (only about 7km from the district center) where there are green tea hills or vast grasslands.  One of the most popular places is the S-shaped tea hill, a heart-shaped tea hill located on the way to Ngu Dong Ban On, about 15 km from Moc Chau farm town.  ',
+
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi20, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: MocChau7, imageAlt: 'doi tre moc chau' },
+                    { id: 2, imageSrc: MocChau6, imageAlt: 'doi chr moc chau 2' },
                 ],
             },
             {
                 id: 6,
-                name: 'Lang Bac ',
+                name: 'Chieng Khoa Waterfall ',
                 description: [
-                    'For Vietnamese people, this is one of the most important attractions in the country.  Tourists come to pay their respects to President Ho Chi Minh.  Visitors need to keep quiet, wear appropriate clothing and not take photos in prohibited areas. r Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
-                    `Attending the flag-raising ceremony in the morning is a special experience at President Ho Chi Minh's mausoleum.  If you miss it, you can rest assured to walk around the city and come back here to participate in the flag lowering ceremony at 9pm every day.  A solemn atmosphere enveloped Ba Dinh Square as the loudspeaker sounded to announce the upcoming flag-lowering ceremony.  People lined up neatly, watching the group of guards solemnly lower the National flag to the music of the song "Uncle still marches with us". `,
+                    'To get down to the waterfall, you will follow a dirt road then reach the steep steps of the nearby water pumping station.  After about 200 steps, you will see someone collecting tickets for environmental sanitation before entering the waterfall to visit and take photos.',
+                    'People here make rafts for rent for tourists to take pictures or play with instead of just taking pictures on the shore.  Women can choose boho style outfits, maxi dresses and accessories to take beautiful photos at the falls.  However, the road down to the waterfall is too steep, you should not wear high heels and go early in the morning to avoid the hot afternoon sun. ',
+                    'Environmental cleaning fee: 10,000 VND per person. ',
+                    'Parking ticket: 10,000 VND per car. ',
+                    'Raft rental: 30,000 VND per person, only taking photos is 10,000 VND per person. ',
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi7, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: MocChau12, imageAlt: 'thac chieng khoa' },
                 ],
             },
             {
                 id: 7,
-                name: 'Chua Mot cot',
+                name: 'Nang Tien Waterfall',
                 description: [
-                    'The building is one of the oldest temples in Hanoi.  The pagoda was built on a wooden trunk more than 1,000 years ago.  In the 1950s, the original wooden trunk rotted so it was replaced with a concrete column.  Western visitors should come here to walk around this area because the surrounding housing projects are among the most beautiful and impressive in Hanoi. ',
+                    `Nang Tien Waterfall consists of 3 floors, each floor has its own unique look.  The scenery on the first floor is gentle, with a lake as deep as an adult's waist, so guests can bathe.  Going to the second level of the waterfall, visitors must follow the stream upstream. Although it is a bit difficult to go, the result will be unique photos against the backdrop of the waterfall falling into the emerald green lake.  The depth of the lake on the second and third floors is quite large, the rock surface is also full of moss, making it easy to slip and fall, so visitors must be extremely careful when moving.  The estimated height from the foot of the waterfall to the third waterfall is about 150 m. `,
+                    'From Moc Chau town center, visitors follow Highway 43 for about 25 km, 2 km to the turnoff with a sign saying Nang Tien Waterfall, then turn right and continue straight to reach the destination.  Also follow this path and continue for 2 km to reach Chieng Khoa waterfall. ',
+                    'The best season to visit Nang Tien waterfall is from March to May, when the weather changes from spring to summer.  The ticket price to enter Nang Tien waterfall is 20,000 VND per person.  Motorbike parking fee is 5,000 VND per vehicle, car ticket is 20,000 VND per vehicle.  In addition to sightseeing and sightseeing, guests can take check-in photos with wooden rafts on the third floor, the raft rental price is 10,000 VND per person. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi13, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: MocChau23, imageAlt: 'water puppet show' },
                 ],
             },
             {
                 id: 8,
-                name: 'Pho co',
+                name: 'Dai Yem Waterfall ',
                 description: [
-                    'Follow your feet to explore the vibrant and nostalgic streets of the capital. No need for a destination or predetermined route, simply turn right, left, or go straight. Each street offers unique discoveries, from toys to shoes, clothes, antiques, and even tombstones or motorbike parts.',
-                    `If you come here during off-hours, the experience will be even more interesting.  You must always be ready to avoid people and cars on the road.  Just like that, 1,000 years of Hanoi's history flows through the streets like blood flowing through each vein, breathing into life the breath of both the past and present. `,
+                    'The waterfall is located on Vat stream, formed from two streams in Vat village, a very old Thai village.  Before reaching the waterfall, the group passed Ho Hen stream.  Dai Yem waterfall is massive with a height of more than 100 m, divided into 2 parts.  The upper part has 9 floors and the lower part has 5 floors, separated in the middle by flat land, suitable for tourists to have fun and enjoy the scenery.',
+                    'The special feature here is that there are many shaped rocks, causing the waterfall to break out into many parts before flowing into the lake.  Therefore, the water does not flow loudly but is as soft as a strip of silk.  Tickets to visit the waterfall are 100,000 VND per person.  There are many restaurants and drinks here. ',
+
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi21, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: MocChau13, imageAlt: 'thac dai yem' },
+                    { id: 2, imageSrc: MocChau14, imageAlt: 'thac dai yem' },
                 ],
             },
             {
                 id: 9,
-                name: 'Bao Tang',
+                name: 'Grassland 68 ',
                 description: [
-                    'Destinations not to be missed when coming to any city are the museums and historical sites.  One of the places most tourists check in is the Ethnology Museum.  The Museum of Ethnology currently stores and displays 15,000 artifacts, 42,000 documentaries, pictures and thousands of other documents about 54 Vietnamese ethnic groups. ',
-                    `Besides, tourists also go to the Vietnamese Women's Museum, Hanoi Museum, National History Museum or Hoa Lo Prison, Hanoi Flag Tower relic... to learn about culture and history.  of the city. `,
-                    `The outdoor sightseeing area at the Museum of Ethnology has 10 unique folk architectural works such as the communal house of the Bana people, the half-earth stilt house of the Dao people, the mass grave of the Giarai people...`,
+                    'The grassland area 68 in Moc Chau has become a popular check-in spot among young people. Interestingly, it is actually a grassy hill that is cultivated for dairy farming. ',
+                    `To get to this place, find Goat Hot Pot 68 and then turn left and continue to see many grasslands.  Note that before taking photos, you should ask the homeowner's permission. `,
+                    'The best time to take beautiful photos here is around 5pm onwards, when sunset falls.  At this time, the sun is not too harsh but still enough for you to have an impressive photo album. ',
+                    'From Moc Chau town center, you follow the direction of Tan Lap commune about 3km, to 26/7 sub-area.  Turn right onto the small road, go another 1km to the grassland.  This road is accessible to all types of vehicles. ',
+
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi22, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: MocChau15, imageAlt: 'dong co 68' },
+                ],
+            },
+            {
+                id: 10,
+                name: 'Primitive Village  ',
+                description: [
+                    'The village is a new destination of Moc Chau so few people know.  The village is located in Hang Tau valley, Ta village number 2, Chieng Hac commune, Moc Chau, with a very wild and primitive landscape as the name suggests.  The village has 15 households living and freely raising buffalos, cows, pigs, and chickens in open fields but divided into plots or zones. ',
+                    'Note, to go into the village you should have a local who knows the directions because the road is very difficult to find and there are no signs.  You also need to steer hard and should not ride a scooter because there are many steep roads.  But no matter how difficult the road, once you reach the village, you will feel it was worth the effort. ',
+
+
+
+                ],
+                images: [
+                    { id: 1, imageSrc: MocChau8, imageAlt: 'lang nguyen thuy' },
+                ],
+            },
+            {
+                id: 11,
+                name: 'Pha Luong peak  ',
+                description: [
+                    '30 km from Moc Chau town, Pha Luong peak is considered the roof of Moc Chau, located between the Vietnam - Laos border.  From Pha Luong border station at the foot to the top of the mountain takes 3-4 hours on foot.  Pha Luong is more than 2,000 m high.  The journey to conquer Pha Luong is quite difficult, requiring perseverance from those who want to truly explore.  At the precarious mountain top, you will feel the beauty of windy clouds and sky. ',
+
+
+
+
+
+                ],
+                images: [
+                    { id: 1, imageSrc: MocChau11, imageAlt: 'dinh paluong' },
                 ],
             },
         ],
         should_do: [
             {
                 id: 1,
-                name: 'What to see? ',
+                name: 'Eat ? ',
                 description: [
-                    `Visitors to Hanoi should not only visit scenic spots but also enjoy art shows that reflect the national identity.`,
-                    'Water puppetry: is a stage art that tourists should see when coming to Hanoi.  This art has a tradition of more than 1,000 years in Vietnam.  There are two addresses that many visitors visit: Thang Long Puppet Theater at 57B Dinh Tien Hoang and Vietnam Puppet Theater at 361 Truong Chinh. ',
-                    'Listen to Ca tru: Ca tru originated in the 11th century, the style bears many similarities to Japanese geisha ceremonies and opera performances.  Initially, Ca tru was considered entertainment for the nobility in the royal palace, then it entered the common cultural space of modern Hanoi.  Ca tru has five main performance spaces: Ca tru at the communal house (singing at the temple gate to worship gods), ca tru at the court (enjoying ca tru by the dignitaries), ca tru at home, ca tru singing thi, ca tru  cabaret.  Visitors can listen to Ca Tru at Hanoi Ca Tru Club at 42 Hang Bac, Ca Tru Thang Long 146 Tu Hoa. ',
-                    'Real-life show: Quintessence of the North is a real-life show on stage at Thay Pagoda, at the foot of Thay Mountain, Sai Son commune, Quoc Oai district, Hanoi.  The show takes place on a 4,300 square meter lake, taking visitors into the lives of Northern farmers through sound and light performances.  Most of the actors participating in the scene are farmers from Quoc Oai district. ',
-                    'In addition to the play, visitors can also directly experience traditional Northern culture outside the stage with shops selling banh gio, banh te, sticky rice cake, sticky rice wrapped in lotus leaves and banana leaves, peanut candy, and candies.  Hua.  Tourists can buy and eat on small chairs in the middle of the garden to the sound of mandarin music. '
+                    `Eateries and restaurants are located along the town center passing through Highway 6.  In addition to specialties such as plums, tea or milk, Moc Chau is also famous as a delicious place to eat.  The dishes not to be missed when coming here are fried veal, fried stream fish, multi-dish lentil fish, salmon hot pot, pork blood pudding, buffalo meat on the stove, vegetables dipped in fish intestine sauce or five-color rice. `,
+                    'If you want to eat dairy veal, you can find restaurants Dong Hai, Xuan Bac 181, Nam Hung 70, or Lan Hong 64, Ve Quan Moc Chau... A strange dish to try is Moc Chau fresh milk hot pot.  The broth is simmered from bones and vegetables, a moderate amount of milk is added to give it a milky white color and mild flavor, and corn is added for sweetness.  When the hot pot begins to boil, the layer of milk on top begins to thicken, giving it a fatty and fragrant taste.  This is also the time when the hot pot broth is at its most delicious. ',
+                    'In the past two years, Moc Chau has also been famous for producing strawberries with quality not inferior to those of Japan or Korea because they are grown using Japanese technology.  Winter will be the strawberry harvest season on farms with gardens filled with ripe red strawberries, sweet and sour taste, and if eaten with Moc Chau yogurt, it is very easy to become "addictive".  In the summer, after plum season, there will be melon season with sweet fragrant fruits. ',
+                    'You can buy tea, milk, cat apples, corn, corn wine... as gifts from these locations: intersection 73 near town, sub-area 32 and Bo Bun, intersection 70, peach garden intersection, sub-area  Chieng Bi area. ',
+
+
                 ],
 
-                images: [HanoiDo1, HanoiDo2, HanoiDo3, HanoiDo4,]
+                images: [MocChau9, MocChau16, MocChau24, MocChau25,]
             },
             {
                 id: 2,
-                name: 'Where to play?  ',
+                name: 'Coffee',
                 description: [
-                    `SUP on West Lake: Waking up when it's about to dawn, you can drive to West Lake and experience water games like SUP and kayaking.  The appropriate time is usually 5am-7pm, or late afternoon.  You can find boats and planks to rent at shops on Lac Long Quan, Au Co, Trich Sai streets... with prices from 250,000 VND per day. `,
+                    `Some cafes with beautiful views in Moc Chau are Rio Coffee & Tea Skyview;  Wind Chil Hill;  Moc Coffee;  Tom’s Garden Coffee & More;  Garden Coffee & Chill Hill... Average drink price 40,000 - 60,000 VND. `,
+                    'If you want to find a special space to live virtually in Moc Chau, you can refer to Lan Que Phuong Cafe.  The shop is modeled after a famous noisy and busy street in Hong Kong.  The restaurant is located at 165 subdivision 6, Moc Chau town.  Drinks range from 25,000 to 50,000 VND each. ',
 
-                    `See the panorama of Hanoi from above: Coming to Hanoi, you cannot miss the Lotte Observation Deck located on Lieu Giai Street, because this is the place where you can have a panoramic view of the Capital from the 65th floor.  Made from transparent glass so you can take creative check-in photos at any angle.  The observatory is open from 9am until the end of the day. `,
-                    `Walking street: Every week, Hoan Kiem Lake walking street opens from 6:00 p.m. Friday to Sunday, attracting a large number of both residents and foreign tourists.  This space has many fun and entertainment activities, including street art performances.  Don't forget to experience the "food tour" around the walking street. `,
-                    `Beer Street: In the old town, especially in Ta Hien, Bao Khanh, Luong Ngoc Quyen, there are always many places for you to drink beer or other attractively prepared drinks.  This is also one of the busiest nightlife places in the capital.`,
-                    `Going to the market: Not Dong Xuan market, Quang Ba flower market and Long Bien wholesale market are two addresses that Westerners whisper to each other that they must visit once if they have the opportunity to come to the capital.  The market mainly sells flowers and fruits, but visitors are required to stay up late and get up early to fully see the bustling, bustling atmosphere of a very different Hanoi when night falls. `,
-                    `Located right at the foot of Long Bien bridge, Long Bien wholesale market is bustling all year round, the most famous being the fruit wholesale flea market.  From 8:00 p.m. the market starts to bustle, getting busier as the night progresses.  The Quang Ba flower market is open all night but is most crowded at around 3-4 am, when buyers and sellers are busy.  Bouquets of flowers, large and small, piled on the cart, were bustling in and out. `,
                 ],
 
-                images: [HanoiDo5, HanoiDo6, HanoiDo7, HanoiDo8,]
+                images: [MocChau26, MocChau27, MocChau28, MocChau29,]
             },
         ],
         diffr: [
 
             {
                 id: 1,
-                name: 'Restaurant ',
+                name: 'Consult ',
                 description: [
-                    `Hanoi cuisine perfectly combines sour, spicy, salty, sweet flavors and represents the image of the city with a thousand years of civilization: vibrant, quiet, attractive and attractive.  You can easily enjoy Hanoi specialties at roadside sidewalk restaurants such as beef pho, bun cha, banh mi... `,
+                    `Here are some important things to keep in mind when traveling to a destination like Co To island.`,
                 ],
                 eat_buy: [
                     {
                         id: 1,
-                        name: 'Phở',
+                        name: '',
                         description: [
-                            `When coming to Hanoi, you cannot miss pho, especially beef pho, which usually has two main types: cooked and rare.  Cooked beef is pieces of beef boiled in broth, while rare beef is pieces of meat that are thinly sliced ​​and quickly blanched in boiling water.  Then, the seller will put those slices of meat on pho noodles, pour broth and serve to diners.  Some reference addresses are Pho Thin, Bat Dan, Tu Lun, Pho Lam on Hang Vai Street, Pho Tram on Yen Ninh Street. `,
-                            'If you want to try other versions, suggested addresses are Nguyet restaurant No. 5 Phu Doan, Cham restaurant 63 Yen Ninh, Lan Ong mixed chicken pho or Ngu Xa pho roll. ',
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat1,
-                                imageAlt: 'pho ha noi',
-                            },
-                        ],
+                            `Moc Chau usually has warm sunshine during the day, but the night temperature is quite low and foggy.  You need to bring enough warm clothes to ensure your health, and check your vehicle's lights before departing. `,
+                            `Do not litter, step on people's mustard beds or climb on trees, break wild peach branches, plum branches, flowers... `,
 
-                    },
-                    {
-                        id: 2,
-                        name: 'Rice noodle Vietnamese',
-                        description: [
-                            `Hanoi people have many noodle dishes.  The most special ones are bun cha, bun thang, bun snail, bun moc, vermicelli noodles... `,
-                            'When talking about long-standing authentic specialties in Hanoi, we cannot help but mention bun thang.  Hanoi people have skillfully processed leftover food after Tet into an elaborate and sophisticated noodle dish.  A bowl of vermicelli noodles costs 30,000 - 50,000 VND.  Currently, in Hanoi there are only a few places that sell bun thang, such as Ba Duc restaurant (Cau Go), Ngoc Tuyen restaurant (Dao Tan), Thuan Ly restaurant (Hang Hom).. ',
-                            `Bun cha - a dish often eaten for lunch.  Similar to grilled meat vermicelli in the South and Central regions, but Hanoi's vermicelli noodles are marinated more elaborately.  Those who like old flavors can go to bun cha restaurants in Hang Ma and Hang Dong.  People who like bamboo vermicelli noodles should go to Buoi market and Dong Xuan market.  Or visit the noodle shops in Ngoc Khanh, Giang Vo, Le Van Huu, Hang Manh which are also famous restaurants in Hanoi.`,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat2,
-                                imageAlt: 'bun cha',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 3,
-                        name: 'Cha Ca La Vong ',
-                        description: [
-                            `La Vong grilled fish was born in 1871, invented by the Doan family.  From a rustic dish, grilled fish gradually became the quintessence of Hanoi cuisine to this day.  "Fish cake" is made from the most delicious fish, especially lentil fish.  "La Vong" is the image of an ancient general, a talented man with the will to wait for a great opportunity. `,
-                            `The fish meat is carefully deboned, sweet, fragrant and soaked in spices.  Dill and spring onions are cut into pieces and mixed into the hot fish pan.  When eaten combined with grilled rice paper, vermicelli and shrimp paste - indispensable ingredients that help create a rich flavor.  Some suggested addresses: La Vong Grilled Fish, No. 14, Cha Ca Street;  Thang Long fish cake at 21 Duong Thanh;  Lao Ngu fish cake at 171 Thai Ha... `,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat3,
-                                imageAlt: 'cha ca',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Rolls',
-                        description: [
-                            `Thinly coated rice cakes stuffed with pork, wood ear mushrooms, minced onions, and dipped in sweet and sour fish sauce are always a suitable dish for hot summer days.  Walking on the streets, visitors will encounter many banh cuon shops open in the morning, with skillful and quick hands preparing the banh cuon.  Some suggested addresses are Banh Cuon Ba Hanh, 26B Tho Xuong;  Ba Xuan rice rolls, 16 Hoe Nhai slope and Long Bien market food area. `,
 
                         ],
                         images: [
                             {
                                 id: 1,
-                                imageSrc: Hanoieat4,
-                                imageAlt: 'banh cuon',
+                                imageSrc: MocChau30,
+                                imageAlt: 'sunset end page',
                             },
                         ],
 
                     },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `In addition to famous dishes around the world, Hanoi also possesses a treasure trove of cakes such as pillow cakes, filled with pork, mushrooms, ground vermicelli and quail eggs... To balance the flavor, the greasy donuts  Served with dipping sauce of garlic, chili and herbs.  Located on Ly Quoc Su Street, Goc Da restaurant specializes in selling salty donuts and pillow cakes, open from 10am to 9:30pm. `,
 
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat5,
-                                imageAlt: 'banh ran',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 6,
-                        name: 'Coffee',
-                        description: [
-                            `Coffee is a feature of Hanoi, with many long-standing shops in the old town.  Egg coffee is one of Hanoi's specialties made from whipped eggs mixed with Vietnamese coffee.  Egg coffee has a slightly yellow color in a small cup.  Diners always have an extra spoon to enjoy the cream foam on top like an "appetizer" before drinking the coffee below.  Famous delicious egg coffees include Dinh, Giang, Pho Co Coffee, Loading T, All Day Coffee... Price per cup starts from 25,000 VND. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat6,
-                                imageAlt: 'ca phe trung',
-                            },
-                        ],
-
-                    },
                 ],
             },
-            {
-                id: 2,
-                name: 'What to buy as a gift? ',
-                description: [
-                    `In addition to apricot blossoms, green rice cakes, and lotus tea, visitors to Hanoi can buy silk in Van Phuc village or Bat Trang pottery as gifts for relatives and friends. `,
-                ],
-                eat_buy: [
-                    {
-                        id: 1,
-                        name: 'dried plum.',
-                        description: [
-                            `With sour, spicy, salty, and sweet flavors that combine the quintessence of Hanoi cuisine, apricot fruit is a gift that many people choose to buy as a gift when leaving Hanoi.  The most famous address for this snack is Hang Duong street.  Visitors can find here their favorite apricot varieties such as apricots, plums, ginger, dracontomelon, star fruit, lemon, kumquat, persimmon, peach, toad, tamarind... However, if purchased as a gift for Southerners  , you should choose the alligator apricot fruit, because it has a sweet taste made from a sour fruit that is very typical of Hanoi.  Depending on the type, apricot costs about 100,000 - 150,000 per kg. `,
-                            'Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã.',
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy1,
-                                imageAlt: 'sau dam',
-                            },
-                        ],
 
-                    },
-                    {
-                        id: 2,
-                        name: 'green rice flakes',
-                        description: [
-                            `The scent of Vong village green rice has long created a unique charm for the capital's cuisine.  However, because it is only available in the fall, Hang Than green rice cake is a perfect alternative for many tourists.  The rice nuggets are sticky on the outside, with a layer of green bean filling mixed with greasy coconut on the inside, with a faint natural scent of grapefruit. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy2,
-                                imageAlt: 'com ',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 3,
-                        name: 'Lotus tea  ',
-                        description: [
-                            `Tay Ho lotus tea will definitely be a precious gift for relatives and friends after visiting Hanoi.  Because marinating lotus tea is an art that takes a lot of time and effort.  After being selected from the best, dried tea petals will be marinated 5-7 times with lotus rice (white seeds on the lotus head) to absorb the flavor.  The marinated lotus must be the type grown in lagoons in West Lake such as Nhat Tan and Quang Ba because it is fragrant and produces the most rice. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy3,
-                                imageAlt: 'tra sen ho tay',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Van Phuc Silk ',
-                        description: [
-                            `Silk's popularity with tourists is due to its thin, soft, airy, colorfast, and wrinkle-free properties. Whether it's winter or summer, visitors can find and purchase a variety of silk items such as scarves, shirts, dresses, and bags. In addition to Van Phuc silk village (about 10 km from the center of Hanoi), silk can also be purchased at stalls on Hang Gai or Dinh Liet streets.`,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy4,
-                                imageAlt: 'lua van phuc',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `If you have the opportunity to visit Bat Trang, don't forget to buy ceramic products from traditional craft villages.  With characteristic glaze colors and skilled craftsmanship, Bat Trang ceramics have a very unique beauty.  In addition to commonly used bowls, bowls, cups, and cups, there are also products dedicated as gifts such as wind chimes, statues, etc. Visitors to the pottery village can also make their own bowls.  , vases, vases, cups as gifts, both meaningful and an interesting experience. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy5,
-                                imageAlt: 'gom bat trang',
-                            },
-                        ],
-
-                    },
-                ],
-
-            },
         ],
     },
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -2094,381 +2039,239 @@ export const placesToGo = [
         name: 'Sa Pa',
         imageSrc: SaPa1,
         description: [
-            'Still often referred to by its old name, Saigon, Ho Chi Minh City is a clamorous, chaotic sensory feast. Motorbikes honk in a tidal wave across clogged intersections, locals crouch on street corners slurping steaming hot bowls of Pho (noodle soup); and the sultry air is thick with exhaust fumes and exotic spices.',
-            `Ho Chi Minh City is Vietnam's commercial hub and largest city, and it's a place where old abuts new with striking contrast. Temples huddle amid skyscrapers and designer shops; locals cast bamboo fishing rods into the languorous Saigon River; and in places, the city feels almost European, with its elegant French colonial architecture and wide, tree-lined avenues.`,
-            `Adding to the fascinating cultural jolt is a clutch of intriguing tourist attractions, from the poignant War Remnants Museum and captivating water puppet shows to colorful markets and the time warp of the Reunification Palace.`,
+            'Located at the foot of the majestic Hoang Lien Son range and only 5-6 hours away from Hanoi by highway, Sa Pa is an ideal destination all year round.  In addition to terraced fields in the ripe rice season, Sa Pa also attracts tourists thanks to the beauty of many other destinations. Climbing on trees, breaking wild peach branches, plum branches, flowers... ',
         ],
         intro: [
             {
                 id: 1,
-                name: 'What is the most beautiful season in HaNoi? ',
+                name: 'What is the most beautiful season in Sa Pa? ',
                 description: [
-                    `The best time to visit Hanoi is during the fall from August to November and in the spring from March to April. Autumn is often considered the most beautiful season in Hanoi, with clear blue skies, crisp winds, falling yellow leaves, and the faint scent of milk flowers. Spring brings warm weather, and the streets appear to be adorned in new attire as trees bud and flowers blossom.`,
+                    `Sa Pa has a cool climate so it is suitable for year-round travel.  You just need to avoid the rainy season from June to early August, because extreme weather can cause floods, flash floods, landslides... `,
+                    'From February to May, Sa Pa spring is brilliant with hundreds of blooming flowers such as cherry apricot, peach, plum... Summer from June to August is the time when tourists come to Sa Pa to escape the heat.  Admire the lush green terraced fields. ',
+                    `Fall lasts from September to November, Sa Pa is charming in the shiny yellow color of ripe rice and the weather gradually becomes cold.  Winter comes from December to February of the following year, if you are lucky you can "hunt" for snow and ice on the mountain tops. `,
+
                 ],
 
-                images: [Hanoiw, Hanoiw2]
+                images: [SaPa12, SaPa10, SaPa11, SaPa13]
             },
             {
                 id: 2,
                 name: 'Move ',
                 description: [
-                    `Hanoi, the heart of Vietnam, offers various transportation options for visitors to reach the capital, including plane, train, bus, private car, or motorbike from nearby provinces.`,
+                    `You can book a limousine from Hanoi to Sa Pa or a bus from My Dinh station for 230,000 - 350,000 VND per person, depending on seat class.  Travel time is about 5 - 6 hours. `,
 
-                    `To explore the city, visitors can choose to travel by car, motorbike, or bicycle. However, for a more picturesque experience, one can opt to ride a cyclo and take in the beauty of the 36 streets. Alternatively, a tour on a three-wheeled motorbike or vintage Vespa is also highly recommended. Another option to consider is the double-decker bus, with ticket prices ranging from 130,000 to 599,000 VND.`,
+                    `If you go by train, you choose the Hanoi - Lao Cai route. After about 7 - 9 hours of travel, you have to take a bus or take a taxi to Sa Pa center.  Train ticket prices range from 160,000 to 800,000 VND depending on seat class and train type. `,
+                    `If you drive your own car, take the Noi Bai - Lao Cai highway, then turn to road 4D to get to Sa Pa.  The road is easy to follow, but you need to pay attention to the signs and run at the right speed.  On occasions when it's cold, rainy, foggy and on slippery roads, you should carefully check your tires, brake system, lights... before departing.  Driving time is about 5 - 6 hours.  Please depart from Hanoi at around 12:30 at the latest, so that when you reach the pass to Sa Pa, it is not too dark. `,
+                    'In Sa Pa, you can rent a motorbike to move more freely.  However, Sa Pa road has many steep passes, remember to carefully check your vehicle and avoid renting scooters.  Car rental price is 100,000 - 200,000 VND per day. ',
+
                 ],
 
-                images: [Hanoimove, Hanoimove2,]
+                images: [SaPa16, SaPa17,]
             },
             {
                 id: 3,
                 name: 'Accommodation  ',
                 description: [
-                    `Hanoi offers a variety of accommodation options for tourists, including affordable motels, homestays, hotels, and resorts that cater to different budgets and preferences. In the old town, you can find "Western backpacker" style beds with dormitory rooms for around 100,000 VND per night, as well as high-end hotels for 3,000,000 - 5,000,000 VND per night.`,
+                    `Sa Pa has all types of accommodation for you to choose from, from motels, homestays in villages, hostels, cheap hotels, to 4-5 star hotels and luxury resorts located separately.  Resorts in Sa Pa have notable places such as Topas Ecolodge, Sapa Jade Hill, Hôtel de la Coupole - MGallery, Silk Path Grand... `,
 
-                    `Some special hotels include Sofitel Legend Metropole Hanoi with French colonial architecture, just a few steps from the Opera House is Hilton Hanoi Opera, Apricot Hotel right on the banks of Hoan Kiem Lake, famous hotels.  With views of West Lake are Sheraton Hanoi and InterContinental Hanoi Westlake, Lotte Hotel Hanoi on the high floor of the 65-storey Lotte Center building... `,
+                    `If you choose a homestay or hostel, go to villages like Cat Cat, Lao Chai, Ta Van to enjoy the peaceful space of the Northwest mountains and forests.  Dorm room prices start from 100,000 VND per person, double bungalow room prices start at 500,000 VND.  `,
+                    `Some popular homestays are Eco Palms House, Heaven Sapa, Viettrekking, Phori's House, Sapa Heavenly, Rock Garden, Coong, Cloud Garden, Mong... `,
+
                 ],
 
-                images: [HaNoi15, HaNoi16,]
+                images: [SaPa6, SaPa18, SaPa19, SaPa20]
             },
         ],
 
         places: [
             {
                 id: 1,
-                name: 'Hoang Thanh Thang Long',
+                name: 'Ham Rong mountain ',
                 description: [
-                    `The Thang Long Imperial Citadel, a world cultural heritage site, is situated in the center of Hanoi and boasts a rich history spanning over 1,300 years. This location is home to distinct artifacts and relics that showcase the history of Thang Long - Hanoi and the Vietnamese people across numerous periods. Its address is 19C Hoang Dieu, Dien Ban, Ba Dinh.`,
+                    `With its magical and misty landscape, Ham Rong Mountain is crowded with tourists.  The lowest point of the mountain is 1,450m, and the highest peak is more than 1,800m.  From the top of the mountain, you can see most of the famous tourist attractions of Sa Pa town such as Muong Hoa valley, Ta Van village, Cat Cat village... `,
+                    'Ham Rong Mountain is suitable for organizing a climbing picnic, combining eating, shopping, and sightseeing because on the way up the mountain there are countless shops and beautiful flower gardens.  The price to visit Ham Rong mountain tourist area is 70,000 VND for adults and 30,000 VND for children. ',
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi17,
-                        imageAlt: 'Hoang Thanh Thang Long',
+                        imageSrc: SaPa21,
+                        imageAlt: 'nui ham rong',
                     },
                 ],
             },
             {
                 id: 2,
-                name: '',
+                name: 'Sa Pa Stone Church ',
                 description: [
-                    'Hoan Kiem is a natural freshwater lake in Hanoi, connecting the streets of Hang Ngang, Hang Dao, Cau Go, Luong Van Can, and Lo Su with the Western Quarter planned by the French over a century ago. The surrounding centuries include Bao Khanh, Nha Tho, Trang Thi, Hang Bai, Dinh Tien Hoang, and Trang Tien. Walking around the lake allows you to enjoy the natural surroundings in the middle of the city and visit Ngoc Son temple and the old town',
+                    'After going to Ham Rong Mountain, you return to the town center not far away to visit Sa Pa Stone Church.  This is a symbolic project of the mountain town that was started in 1895. The church is built in the shape of a cross in Gothic style, shown in the roof, bell tower, arches... all of which are pyramidal shapes creating flying features.  elegant benefits for the project. ',
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi14,
-                        imageAlt: '',
+                        imageSrc: SaPa8,
+                        imageAlt: 'nha tho da',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: SaPa9,
+                        imageAlt: 'quang truong',
                     },
                 ],
             },
             {
                 id: 3,
-                name: 'Cau Long Bien',
+                name: 'Cat Cat village ',
                 description: [
-                    'Long Bien Bridge not only spans the two banks of the Red River, but also serves as a connection between the present and the old memories of people who love Hanoi. Built in 1898, it is also known as Song Cai Bridge or Bo De Bridge because it spans Bo De wharf, Gia Lam, Hanoi. The bridge has a length of 1,682 m and an 896 m long approach bridge, divided into 9 frames, each 61 m long. The original design included a total of 19 steel beam spans placed on 20 pillars over 40 m high.',
+                    'Cat Cat village is located 2 km from Sa Pa center, so you can choose trekking or motorbike.  This is a peaceful Mong village, still preserving many traditional customs and crafts such as weaving, silver carving, jewelry making... ',
+                    `The road to the village is quite beautiful, you will pass through winding roads, on both sides are terraced fields filled with ethnic houses.  Crossing the Si bridge is the center of Cat Cat village, where three streams converge: Tien Sa stream, Vang stream and Silver stream.  Visiting the village, in addition to learning about Mong people's life, you also have the opportunity to buy handmade products as gifts and enjoy local products.  The ticket to visit Cat Cat village is 50,000 VND per person. `,
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: Hanoi18,
-                        imageAlt: 'Cau Long Bien',
+                        imageSrc: SaPa22,
+                        imageAlt: 'ban cat cat',
                     },
                 ],
             },
             {
                 id: 4,
-                name: 'Chua Tran Quoc',
+                name: 'Lao Chai - Ta Vanc',
                 description: [
-                    'Tran Quoc Pagoda, situated on an island to the east of West Lake, was once considered one of the most stunning pagodas globally. With a history of 1,500 years, it served as the Buddhist center of Thang Long capital during the Ly and Tran dynasties. Designated as a national historical and cultural relic in 1962, the pagoda also hosted the unveiling of the 15 m high, 11-storey Luc Do lotus stupa in 2003.',
+                    'From town, you follow the 10 km long road to Ta Van by motorbike, taxi or trekking.  The road to Lao Chai - Ta Van is small and narrow, with both sides covered with cool green terraced fields of rice and corn.  Although no longer wild and remote, Lao Chai - Ta Van is still a peaceful village with many ethnic groups residing such as Mong, Dao, Giay... ',
+                    'The most impressive thing here, in addition to the local ethnic life, is also the terraced fields spreading across the hillsides.  Late summer is the time when ripe rice dyes the entire mountainous area golden.  So if you have a lot of time, spend a day here to experience the local lifestyle.  Entrance fee is 70,000 VND per person. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi19, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: SaPa14, imageAlt: 'ta van sapa' },
+                    { id: 2, imageSrc: SaPa15, imageAlt: 'ta van sapa' },
                 ],
             },
             {
                 id: 5,
-                name: 'Van Mieu',
+                name: 'Fansipan ',
                 description: [
-                    'This is the first university in Vietnam.  Today, visitors can visit the stone steles and solemn grounds with lotus ponds and gun ponds.  The Temple of Literature is a rare peaceful and quiet place in the middle of a bustling city.  Visitors will feel the harmony between ancient and modern times when coming here through the thousand-year-old walls. ',
-                    `The Temple of Literature was built in 1070 under the reign of King Ly Thanh Tong.  In 1076, King Ly Nhan Tong established Quoc Tu Giam House. `,
-                    `This place also preserves many precious artifacts and documents, especially 82 doctoral steles that have been recognized by UNESCO as "World Documentary Heritage".`,
+                    'To reach the top of Fansipan without losing too much effort, take the cable car and mountain train.  In the morning, you line up to buy tickets at the funicular train station opposite Sa Pa town square.  Cable car ticket price is 715,000 VND per adult, 525,000 VND per child, mountain train ticket is 99,000 VND per person.  ',
+
+                    `To reach Fansipan peak, you follow the mountain train route, then cable car, then another train ride or walk up 600 steps.  Each train ride lasts about 6-7 minutes, each cable car ride lasts about 30 minutes.  Those who like to walk can leisurely climb the stairs and visit the spiritual complex on Fansipan including Kim Son Bao Thang Tu, 11-storey tower, bronze statue of Avalokiteśvara Bodhisattva, and the largest bronze statue of Amitabha Buddha.  Vietnam... `,
+                    'In addition, at the stops of the cable car and mountain train, there are souvenir shops, restaurants... to serve the shopping and dining needs of tourists.  Note: you should wear low-soled shoes, bring a jacket, raincoat, or umbrella in case the weather on the mountain top is suddenly cold and cloudy. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi20, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: SaPa3, imageAlt: 'fansipan' },
+                    { id: 2, imageSrc: SaPa4, imageAlt: 'fansipan' },
+                    { id: 3, imageSrc: SaPa5, imageAlt: 'fansipan' },
+                    { id: 4, imageSrc: SaPa2, imageAlt: 'fansipan' },
                 ],
             },
             {
                 id: 6,
-                name: 'Lang Bac ',
+                name: 'Swing Sa Pa  ',
                 description: [
-                    'For Vietnamese people, this is one of the most important attractions in the country.  Tourists come to pay their respects to President Ho Chi Minh.  Visitors need to keep quiet, wear appropriate clothing and not take photos in prohibited areas. r Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
-                    `Attending the flag-raising ceremony in the morning is a special experience at President Ho Chi Minh's mausoleum.  If you miss it, you can rest assured to walk around the city and come back here to participate in the flag lowering ceremony at 9pm every day.  A solemn atmosphere enveloped Ba Dinh Square as the loudspeaker sounded to announce the upcoming flag-lowering ceremony.  People lined up neatly, watching the group of guards solemnly lower the National flag to the music of the song "Uncle still marches with us". `,
+                    'This check-in complex is located at 87 Nguyen Chi Thanh, near the town center, about 2 km from the Stone Church towards the cable car.',
+                    `With many works such as statues of men and women, giant stone hands, Buddha statues, "stairway to heaven", swings... this place has become a place with countless angles to create unique photos.  . `,
+                    'Note, before going, you should prepare your photography outfit, or you have to rent it on the spot for 50,000 VND per set, and you should fully charge your camera and phone batteries.  If traveling in a group, you can organize a camping or small picnic right here.  Entrance fee is 80,000 VND per person. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi7, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: SaPa23, imageAlt: 'swingsapa' },
                 ],
             },
             {
                 id: 7,
-                name: 'Chua Mot cot',
+                name: 'Seo My Ty lake',
                 description: [
-                    'The building is one of the oldest temples in Hanoi.  The pagoda was built on a wooden trunk more than 1,000 years ago.  In the 1950s, the original wooden trunk rotted so it was replaced with a concrete column.  Western visitors should come here to walk around this area because the surrounding housing projects are among the most beautiful and impressive in Hanoi. ',
+                    'To get to Seo My Ty Lake, in Ta Van commune, you have to cross a 20 km long road with many large and small rocks, so it is quite challenging for weak drivers.  The lake was created by damming the Seo My Ty hydroelectric plant and is also the highest artificial lake in Vietnam.  Viewed from above, the lake looks like a silk strip on the side of the Hoang Lien Son range.  Coming here, you can ask the fishermen for permission to sit with boats and rafts to admire the lake and learn about the salmon farming profession of the people here.  ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi13, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: SaPa24, imageAlt: 'seo my ty lake' },
                 ],
             },
             {
                 id: 8,
-                name: 'Pho co',
+                name: 'Sky Gate ',
                 description: [
-                    'Follow your feet to explore the vibrant and nostalgic streets of the capital. No need for a destination or predetermined route, simply turn right, left, or go straight. Each street offers unique discoveries, from toys to shoes, clothes, antiques, and even tombstones or motorbike parts.',
-                    `If you come here during off-hours, the experience will be even more interesting.  You must always be ready to avoid people and cars on the road.  Just like that, 1,000 years of Hanoi's history flows through the streets like blood flowing through each vein, breathing into life the breath of both the past and present. `,
+
+                    `From the center of Sa Pa, run along Highway 4D for about 15 km, to the highest part of O Quy Ho pass, you will reach the Heaven Gate.  Standing from here, you can enjoy a panoramic view of the vast valley below, terraced fields mixed with winding roads.  Currently, there are many new projects being built here such as restaurants, cafes, hotels... Heaven's Gate charges 80,000 VND per person, including a drink.  `,
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi21, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: SaPa25, imageAlt: 'cong troi' },
                 ],
             },
             {
                 id: 9,
-                name: 'Bao Tang',
+                name: 'O Quy Ho Pass ',
                 description: [
-                    'Destinations not to be missed when coming to any city are the museums and historical sites.  One of the places most tourists check in is the Ethnology Museum.  The Museum of Ethnology currently stores and displays 15,000 artifacts, 42,000 documentaries, pictures and thousands of other documents about 54 Vietnamese ethnic groups. ',
-                    `Besides, tourists also go to the Vietnamese Women's Museum, Hanoi Museum, National History Museum or Hoa Lo Prison, Hanoi Flag Tower relic... to learn about culture and history.  of the city. `,
-                    `The outdoor sightseeing area at the Museum of Ethnology has 10 unique folk architectural works such as the communal house of the Bana people, the half-earth stilt house of the Dao people, the mass grave of the Giarai people...`,
+                    `O Quy Ho is known as the "King of the passes" with deep valleys on one side and steep cliffs on the other.  O Quy Ho stretches about 50 km connecting the two provinces of Lao Cai - Lai Chau.  Suggestion for those who want to take beautiful photos on this pass is to come at sunset, around 5 - 5:30 p.m.  When the sun gradually hides behind the mountains, the entire pass is covered with a dreamy, beautiful golden color.  However, Sa Pa's weather changes very quickly, maybe just 10 minutes after the sun and sunset, dark clouds will cover it. `,
+                    'Along the pass to Silver Waterfall and Love Waterfall, there are many stalls selling local specialties, food, drinks, and providing seats for guests to rest.  Going to O Quy Ho Pass, you should bring a raincoat and a thick coat, ride a motorbike, remember to wear a helmet and pay attention to each turn. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi22, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: SaPa7, imageAlt: 'o quy ho' },
+                    { id: 2, imageSrc: SaPa26, imageAlt: 'oquho' },
+                ],
+            },
+            {
+                id: 10,
+                name: 'Silver Waterfall - Love Waterfall  ',
+                description: [
+                    'Located on O Quy Ho Pass road, 3 km from the top of the pass, Silver Waterfall and Love Waterfall are also must-see stops for many young people.  Silver Waterfall has steps to the top of the waterfall, but the higher you go, the colder it becomes and the water flows more strongly. Be careful to avoid slipping.  Although the road from the entrance to the waterfall is 1.5 km and you have to walk, the forest path is romantic.  Tickets to Silver Waterfall are 20,000 VND per person, tickets to Love Waterfall are 75,000 VND per person. ',
+
+
+                ],
+                images: [
+                    { id: 1, imageSrc: SaPa27, imageAlt: 'o quy ho' },
+
                 ],
             },
         ],
         should_do: [
             {
                 id: 1,
-                name: 'What to see? ',
+                name: 'eat what ? ',
                 description: [
-                    `Visitors to Hanoi should not only visit scenic spots but also enjoy art shows that reflect the national identity.`,
-                    'Water puppetry: is a stage art that tourists should see when coming to Hanoi.  This art has a tradition of more than 1,000 years in Vietnam.  There are two addresses that many visitors visit: Thang Long Puppet Theater at 57B Dinh Tien Hoang and Vietnam Puppet Theater at 361 Truong Chinh. ',
-                    'Listen to Ca tru: Ca tru originated in the 11th century, the style bears many similarities to Japanese geisha ceremonies and opera performances.  Initially, Ca tru was considered entertainment for the nobility in the royal palace, then it entered the common cultural space of modern Hanoi.  Ca tru has five main performance spaces: Ca tru at the communal house (singing at the temple gate to worship gods), ca tru at the court (enjoying ca tru by the dignitaries), ca tru at home, ca tru singing thi, ca tru  cabaret.  Visitors can listen to Ca Tru at Hanoi Ca Tru Club at 42 Hang Bac, Ca Tru Thang Long 146 Tu Hoa. ',
-                    'Real-life show: Quintessence of the North is a real-life show on stage at Thay Pagoda, at the foot of Thay Mountain, Sai Son commune, Quoc Oai district, Hanoi.  The show takes place on a 4,300 square meter lake, taking visitors into the lives of Northern farmers through sound and light performances.  Most of the actors participating in the scene are farmers from Quoc Oai district. ',
-                    'In addition to the play, visitors can also directly experience traditional Northern culture outside the stage with shops selling banh gio, banh te, sticky rice cake, sticky rice wrapped in lotus leaves and banana leaves, peanut candy, and candies.  Hua.  Tourists can buy and eat on small chairs in the middle of the garden to the sound of mandarin music. '
+                    'When you come to Sa Pa, you must eat grilled food, because this is a dish that is everywhere and has many types from pork skewers, chicken, rolled vegetables to eggs, corn, potatoes, and bamboo-tube rice.  The price of grilled food is only from 20,000 - 100,000 VND each type.  In addition, salmon and sturgeon cooked in hot pot or eaten raw are also very popular.  A hot pot costs 300,000 - 600,000 VND, suitable for 3 - 6 people. ',
+                    `Specialty restaurants that tourists can refer to are Thang Co A Quynh (Thach Son Street), fish hot pot dishes at Hotpot Center (Xuan Vien Street), Ong Ha's noodle soup (468 Dien Bien Phu).  For young tourists who love food and a youthful atmosphere, they should come to Mi Grill (Dien Bien Phu Street) specializing in charcoal grilled dishes or Tuk Túk Chicken Shop with grilled spicy ribs, cheese shaking chicken...  and H'Mong Pizza at Pi's Boutique. `,
+
                 ],
 
-                images: [HanoiDo1, HanoiDo2, HanoiDo3, HanoiDo4,]
+                images: [SaPa28, SaPa29, SaPa30, SaPa31,]
             },
-            {
-                id: 2,
-                name: 'Where to play?  ',
-                description: [
-                    `SUP on West Lake: Waking up when it's about to dawn, you can drive to West Lake and experience water games like SUP and kayaking.  The appropriate time is usually 5am-7pm, or late afternoon.  You can find boats and planks to rent at shops on Lac Long Quan, Au Co, Trich Sai streets... with prices from 250,000 VND per day. `,
 
-                    `See the panorama of Hanoi from above: Coming to Hanoi, you cannot miss the Lotte Observation Deck located on Lieu Giai Street, because this is the place where you can have a panoramic view of the Capital from the 65th floor.  Made from transparent glass so you can take creative check-in photos at any angle.  The observatory is open from 9am until the end of the day. `,
-                    `Walking street: Every week, Hoan Kiem Lake walking street opens from 6:00 p.m. Friday to Sunday, attracting a large number of both residents and foreign tourists.  This space has many fun and entertainment activities, including street art performances.  Don't forget to experience the "food tour" around the walking street. `,
-                    `Beer Street: In the old town, especially in Ta Hien, Bao Khanh, Luong Ngoc Quyen, there are always many places for you to drink beer or other attractively prepared drinks.  This is also one of the busiest nightlife places in the capital.`,
-                    `Going to the market: Not Dong Xuan market, Quang Ba flower market and Long Bien wholesale market are two addresses that Westerners whisper to each other that they must visit once if they have the opportunity to come to the capital.  The market mainly sells flowers and fruits, but visitors are required to stay up late and get up early to fully see the bustling, bustling atmosphere of a very different Hanoi when night falls. `,
-                    `Located right at the foot of Long Bien bridge, Long Bien wholesale market is bustling all year round, the most famous being the fruit wholesale flea market.  From 8:00 p.m. the market starts to bustle, getting busier as the night progresses.  The Quang Ba flower market is open all night but is most crowded at around 3-4 am, when buyers and sellers are busy.  Bouquets of flowers, large and small, piled on the cart, were bustling in and out. `,
-                ],
-
-                images: [HanoiDo5, HanoiDo6, HanoiDo7, HanoiDo8,]
-            },
         ],
         diffr: [
 
             {
                 id: 1,
-                name: 'Restaurant ',
+                name: 'Cafe ',
                 description: [
-                    `Hanoi cuisine perfectly combines sour, spicy, salty, sweet flavors and represents the image of the city with a thousand years of civilization: vibrant, quiet, attractive and attractive.  You can easily enjoy Hanoi specialties at roadside sidewalk restaurants such as beef pho, bun cha, banh mi... `,
+                    `In the town center there are also many cafes for visitors to choose from.  However, if you want to find a quiet space with a view of the valley or mountains, you can go to Coong Cafe (in Coong homestay on the road to Cat Cat village), Vietrekking (Hoang Lien street), Gem Valley Cafe (Vietnam village).  Cat Cat). `,
                 ],
                 eat_buy: [
                     {
                         id: 1,
-                        name: 'Phở',
+                        name: '',
                         description: [
-                            `When coming to Hanoi, you cannot miss pho, especially beef pho, which usually has two main types: cooked and rare.  Cooked beef is pieces of beef boiled in broth, while rare beef is pieces of meat that are thinly sliced ​​and quickly blanched in boiling water.  Then, the seller will put those slices of meat on pho noodles, pour broth and serve to diners.  Some reference addresses are Pho Thin, Bat Dan, Tu Lun, Pho Lam on Hang Vai Street, Pho Tram on Yen Ninh Street. `,
-                            'If you want to try other versions, suggested addresses are Nguyet restaurant No. 5 Phu Doan, Cham restaurant 63 Yen Ninh, Lan Ong mixed chicken pho or Ngu Xa pho roll. ',
+
                         ],
                         images: [
                             {
                                 id: 1,
-                                imageSrc: Hanoieat1,
-                                imageAlt: 'pho ha noi',
+                                imageSrc: SaPa32,
+                                imageAlt: 'cafe check in',
                             },
-                        ],
-
-                    },
-                    {
-                        id: 2,
-                        name: 'Rice noodle Vietnamese',
-                        description: [
-                            `Hanoi people have many noodle dishes.  The most special ones are bun cha, bun thang, bun snail, bun moc, vermicelli noodles... `,
-                            'When talking about long-standing authentic specialties in Hanoi, we cannot help but mention bun thang.  Hanoi people have skillfully processed leftover food after Tet into an elaborate and sophisticated noodle dish.  A bowl of vermicelli noodles costs 30,000 - 50,000 VND.  Currently, in Hanoi there are only a few places that sell bun thang, such as Ba Duc restaurant (Cau Go), Ngoc Tuyen restaurant (Dao Tan), Thuan Ly restaurant (Hang Hom).. ',
-                            `Bun cha - a dish often eaten for lunch.  Similar to grilled meat vermicelli in the South and Central regions, but Hanoi's vermicelli noodles are marinated more elaborately.  Those who like old flavors can go to bun cha restaurants in Hang Ma and Hang Dong.  People who like bamboo vermicelli noodles should go to Buoi market and Dong Xuan market.  Or visit the noodle shops in Ngoc Khanh, Giang Vo, Le Van Huu, Hang Manh which are also famous restaurants in Hanoi.`,
-                        ],
-                        images: [
                             {
                                 id: 1,
-                                imageSrc: Hanoieat2,
-                                imageAlt: 'bun cha',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 3,
-                        name: 'Cha Ca La Vong ',
-                        description: [
-                            `La Vong grilled fish was born in 1871, invented by the Doan family.  From a rustic dish, grilled fish gradually became the quintessence of Hanoi cuisine to this day.  "Fish cake" is made from the most delicious fish, especially lentil fish.  "La Vong" is the image of an ancient general, a talented man with the will to wait for a great opportunity. `,
-                            `The fish meat is carefully deboned, sweet, fragrant and soaked in spices.  Dill and spring onions are cut into pieces and mixed into the hot fish pan.  When eaten combined with grilled rice paper, vermicelli and shrimp paste - indispensable ingredients that help create a rich flavor.  Some suggested addresses: La Vong Grilled Fish, No. 14, Cha Ca Street;  Thang Long fish cake at 21 Duong Thanh;  Lao Ngu fish cake at 171 Thai Ha... `,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat3,
-                                imageAlt: 'cha ca',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Rolls',
-                        description: [
-                            `Thinly coated rice cakes stuffed with pork, wood ear mushrooms, minced onions, and dipped in sweet and sour fish sauce are always a suitable dish for hot summer days.  Walking on the streets, visitors will encounter many banh cuon shops open in the morning, with skillful and quick hands preparing the banh cuon.  Some suggested addresses are Banh Cuon Ba Hanh, 26B Tho Xuong;  Ba Xuan rice rolls, 16 Hoe Nhai slope and Long Bien market food area. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat4,
-                                imageAlt: 'banh cuon',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `In addition to famous dishes around the world, Hanoi also possesses a treasure trove of cakes such as pillow cakes, filled with pork, mushrooms, ground vermicelli and quail eggs... To balance the flavor, the greasy donuts  Served with dipping sauce of garlic, chili and herbs.  Located on Ly Quoc Su Street, Goc Da restaurant specializes in selling salty donuts and pillow cakes, open from 10am to 9:30pm. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat5,
-                                imageAlt: 'banh ran',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 6,
-                        name: 'Coffee',
-                        description: [
-                            `Coffee is a feature of Hanoi, with many long-standing shops in the old town.  Egg coffee is one of Hanoi's specialties made from whipped eggs mixed with Vietnamese coffee.  Egg coffee has a slightly yellow color in a small cup.  Diners always have an extra spoon to enjoy the cream foam on top like an "appetizer" before drinking the coffee below.  Famous delicious egg coffees include Dinh, Giang, Pho Co Coffee, Loading T, All Day Coffee... Price per cup starts from 25,000 VND. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat6,
-                                imageAlt: 'ca phe trung',
+                                imageSrc: SaPa33,
+                                imageAlt: 'cafe check in',
                             },
                         ],
 
                     },
                 ],
-            },
-            {
-                id: 2,
-                name: 'What to buy as a gift? ',
-                description: [
-                    `In addition to apricot blossoms, green rice cakes, and lotus tea, visitors to Hanoi can buy silk in Van Phuc village or Bat Trang pottery as gifts for relatives and friends. `,
-                ],
-                eat_buy: [
-                    {
-                        id: 1,
-                        name: 'dried plum.',
-                        description: [
-                            `With sour, spicy, salty, and sweet flavors that combine the quintessence of Hanoi cuisine, apricot fruit is a gift that many people choose to buy as a gift when leaving Hanoi.  The most famous address for this snack is Hang Duong street.  Visitors can find here their favorite apricot varieties such as apricots, plums, ginger, dracontomelon, star fruit, lemon, kumquat, persimmon, peach, toad, tamarind... However, if purchased as a gift for Southerners  , you should choose the alligator apricot fruit, because it has a sweet taste made from a sour fruit that is very typical of Hanoi.  Depending on the type, apricot costs about 100,000 - 150,000 per kg. `,
-                            'Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã.',
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy1,
-                                imageAlt: 'sau dam',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 2,
-                        name: 'green rice flakes',
-                        description: [
-                            `The scent of Vong village green rice has long created a unique charm for the capital's cuisine.  However, because it is only available in the fall, Hang Than green rice cake is a perfect alternative for many tourists.  The rice nuggets are sticky on the outside, with a layer of green bean filling mixed with greasy coconut on the inside, with a faint natural scent of grapefruit. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy2,
-                                imageAlt: 'com ',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 3,
-                        name: 'Lotus tea  ',
-                        description: [
-                            `Tay Ho lotus tea will definitely be a precious gift for relatives and friends after visiting Hanoi.  Because marinating lotus tea is an art that takes a lot of time and effort.  After being selected from the best, dried tea petals will be marinated 5-7 times with lotus rice (white seeds on the lotus head) to absorb the flavor.  The marinated lotus must be the type grown in lagoons in West Lake such as Nhat Tan and Quang Ba because it is fragrant and produces the most rice. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy3,
-                                imageAlt: 'tra sen ho tay',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Van Phuc Silk ',
-                        description: [
-                            `Silk's popularity with tourists is due to its thin, soft, airy, colorfast, and wrinkle-free properties. Whether it's winter or summer, visitors can find and purchase a variety of silk items such as scarves, shirts, dresses, and bags. In addition to Van Phuc silk village (about 10 km from the center of Hanoi), silk can also be purchased at stalls on Hang Gai or Dinh Liet streets.`,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy4,
-                                imageAlt: 'lua van phuc',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `If you have the opportunity to visit Bat Trang, don't forget to buy ceramic products from traditional craft villages.  With characteristic glaze colors and skilled craftsmanship, Bat Trang ceramics have a very unique beauty.  In addition to commonly used bowls, bowls, cups, and cups, there are also products dedicated as gifts such as wind chimes, statues, etc. Visitors to the pottery village can also make their own bowls.  , vases, vases, cups as gifts, both meaningful and an interesting experience. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy5,
-                                imageAlt: 'gom bat trang',
-                            },
-                        ],
-
-                    },
-                ],
-
             },
         ],
     },
@@ -2480,385 +2283,263 @@ export const placesToGo = [
         name: 'Ninh Binh',
         imageSrc: NinhBinh12,
         description: [
-            'Still often referred to by its old name, Saigon, Ho Chi Minh City is a clamorous, chaotic sensory feast. Motorbikes honk in a tidal wave across clogged intersections, locals crouch on street corners slurping steaming hot bowls of Pho (noodle soup); and the sultry air is thick with exhaust fumes and exotic spices.',
-            `Ho Chi Minh City is Vietnam's commercial hub and largest city, and it's a place where old abuts new with striking contrast. Temples huddle amid skyscrapers and designer shops; locals cast bamboo fishing rods into the languorous Saigon River; and in places, the city feels almost European, with its elegant French colonial architecture and wide, tree-lined avenues.`,
-            `Adding to the fascinating cultural jolt is a clutch of intriguing tourist attractions, from the poignant War Remnants Museum and captivating water puppet shows to colorful markets and the time warp of the Reunification Palace.`,
+            ' About 100 km from Hanoi, Ninh Binh is a suitable choice for tourists who do not have much time but want to explore majestic nature. ',
+
         ],
         intro: [
             {
                 id: 1,
-                name: 'What is the most beautiful season in HaNoi? ',
+                name: 'What is the most beautiful season in Ninh Binh? ',
                 description: [
-                    `The best time to visit Hanoi is during the fall from August to November and in the spring from March to April. Autumn is often considered the most beautiful season in Hanoi, with clear blue skies, crisp winds, falling yellow leaves, and the faint scent of milk flowers. Spring brings warm weather, and the streets appear to be adorned in new attire as trees bud and flowers blossom.`,
+                    `Ninh Binh is a place you can visit at many times of the year.  However, you should come here in spring (January - March) when the weather is cool, there are many festivals, and summer (May - August) to see the golden rice fields or fragrant lotus ponds. `,
+
                 ],
 
-                images: [Hanoiw, Hanoiw2]
+                images: [NinhBinh13, NinhBinh14]
             },
             {
                 id: 2,
                 name: 'Move ',
                 description: [
-                    `Hanoi, the heart of Vietnam, offers various transportation options for visitors to reach the capital, including plane, train, bus, private car, or motorbike from nearby provinces.`,
+                    `From Hanoi, you can catch a bus at Giap Bat bus station or book a Limousine to Ninh Binh.  Ticket prices range from 100,000 - 150,000 VND, travel time is about 2 hours. `,
 
-                    `To explore the city, visitors can choose to travel by car, motorbike, or bicycle. However, for a more picturesque experience, one can opt to ride a cyclo and take in the beauty of the 36 streets. Alternatively, a tour on a three-wheeled motorbike or vintage Vespa is also highly recommended. Another option to consider is the double-decker bus, with ticket prices ranging from 130,000 to 599,000 VND.`,
+                    `If departing from the city.  HCM, tourists fly to Hanoi and take a bus to Ninh Binh with the above options.  Vietnamese airlines such as Vietnam Airlines, Vietjet Air, Jetstar, all operate flights from the city.  HCM to Hanoi.  Currently, ticket prices range from 900,000 - 1.3 million VND/way.`,
+                    `In addition, tourists from other provinces can come to Ninh Binh by train.  The Railway Corporation's website allows tickets to be booked in advance or customers can buy them at the station.  Ninh Binh train station is located right in the center. `,
+                    'If traveling by personal vehicle, from Hanoi, tourists follow Giai Phong street, pass Giap Bat bus station, turn onto Phap Van - Cau Gie highway, from there go towards Phu Ly to reach Ninh Binh. ',
+                    'To move around the city, visitors should rent a motorbike for 100,000 - 150,000 VND/day to be proactive because the attractions in Ninh Binh are quite far apart.  If traveling in a large group, visitors should call a taxi to save costs. ',
+
                 ],
 
-                images: [Hanoimove, Hanoimove2,]
+                images: [NinhBinh15, NinhBinh16,]
             },
             {
                 id: 3,
                 name: 'Accommodation  ',
                 description: [
-                    `Hanoi offers a variety of accommodation options for tourists, including affordable motels, homestays, hotels, and resorts that cater to different budgets and preferences. In the old town, you can find "Western backpacker" style beds with dormitory rooms for around 100,000 VND per night, as well as high-end hotels for 3,000,000 - 5,000,000 VND per night.`,
+                    `Tourists coming to Ninh Binh in couples, groups of friends or alone can choose to stay at homestays near attractions with green, peaceful space and friendly service.  Some popular and conveniently located addresses are: Ninh Binh Friendly Homestay, Hang Mua Ecolodge, Diep's House, Ninh Binh Palm Homestay, ChezBeo Homestay... With costs ranging around 200,000 VND/person/night. `,
+                    `To enjoy luxurious services and more amenities such as swimming pools, spas, gyms, bars... visitors can choose 4-5 star quality resorts such as Emeralda Resort Ninh Binh, Tam Coc  Garden Resort, Ninh Binh Hidden Charm Hotel And Resort, An's Eco Garden Resort, Aravinda Resort Ninh Binh... Room prices range from 1.7 - 6 million VND/night. `,
 
-                    `Some special hotels include Sofitel Legend Metropole Hanoi with French colonial architecture, just a few steps from the Opera House is Hilton Hanoi Opera, Apricot Hotel right on the banks of Hoan Kiem Lake, famous hotels.  With views of West Lake are Sheraton Hanoi and InterContinental Hanoi Westlake, Lotte Hotel Hanoi on the high floor of the 65-storey Lotte Center building... `,
                 ],
 
-                images: [HaNoi15, HaNoi16,]
+                images: [NinhBinh7, NinhBinh8,]
             },
         ],
 
         places: [
             {
                 id: 1,
-                name: 'Hoang Thanh Thang Long',
+                name: 'Tràng An',
                 description: [
-                    `The Thang Long Imperial Citadel, a world cultural heritage site, is situated in the center of Hanoi and boasts a rich history spanning over 1,300 years. This location is home to distinct artifacts and relics that showcase the history of Thang Long - Hanoi and the Vietnamese people across numerous periods. Its address is 19C Hoang Dieu, Dien Ban, Ba Dinh.`,
+                    `This place attracts tourists with majestic mountain scenery, small winding rivers, pristine valleys... Ticket price to visit Trang An is 250,000 VND for adults, children under 1.4 m are  100,000 VND.  The accompanying tour guide will cost 300,000 VND per tour. `,
+                    'Coming here, you can choose one of 3 boat tour routes to visit the caves.  Route one will take visitors through 9 caves, Trinh temple - Tran temple - Khong palace.  Route 2 passes through 4 caves and Cao Son holy temple - Vu Lam palace - Tran Suoi Tien temple.  Route 3 includes 3 caves, Trinh temple - Tran Suoi Tien temple - Vu Lam palace.  Each tour lasts 2 - 3 hours. ',
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi17,
-                        imageAlt: 'Hoang Thanh Thang Long',
+                        imageSrc: NinhBinh9,
+                        imageAlt: 'trang an',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: NinhBinh10,
+                        imageAlt: 'trang an',
+                    },
+                    {
+                        id: 3,
+                        imageSrc: NinhBinh1,
+                        imageAlt: 'trang an',
                     },
                 ],
             },
             {
                 id: 2,
-                name: '',
+                name: 'Tam Coc – Bich Đong',
                 description: [
-                    'Hoan Kiem is a natural freshwater lake in Hanoi, connecting the streets of Hang Ngang, Hang Dao, Cau Go, Luong Van Can, and Lo Su with the Western Quarter planned by the French over a century ago. The surrounding centuries include Bao Khanh, Nha Tho, Trang Thi, Hang Bai, Dinh Tien Hoang, and Trang Tien. Walking around the lake allows you to enjoy the natural surroundings in the middle of the city and visit Ngoc Son temple and the old town',
+                    `Coming here, tourists often first visit Bich Dong Pagoda - "Nam Thien II Dong" to be able to see the whole scene from above.  After that, visitors can take a boat down Ngo Dong river to explore Tam Coc.  Tam Coc means three caves: Ca cave, Hai cave and Ba cave.  Tam Coc is stunningly beautiful in the eyes of visitors with its towering limestone mountains, along with interesting formations in caves and golden rice fields on both sides.  Entrance fee is 120,000 VND/person, boat trip fee on Tam Coc route is 150,000 VND/trip. `,
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: HaNoi14,
-                        imageAlt: '',
+                        imageSrc: NinhBinh17,
+                        imageAlt: 'tam coc',
+                    },
+                    {
+                        id: 2,
+                        imageSrc: NinhBinh18,
+                        imageAlt: 'chua bich dong',
                     },
                 ],
             },
             {
                 id: 3,
-                name: 'Cau Long Bien',
+                name: 'Hang Mua ',
                 description: [
-                    'Long Bien Bridge not only spans the two banks of the Red River, but also serves as a connection between the present and the old memories of people who love Hanoi. Built in 1898, it is also known as Song Cai Bridge or Bo De Bridge because it spans Bo De wharf, Gia Lam, Hanoi. The bridge has a length of 1,682 m and an 896 m long approach bridge, divided into 9 frames, each 61 m long. The original design included a total of 19 steel beam spans placed on 20 pillars over 40 m high.',
+                    'About a 15-minute drive from Trang An, Hang Mua tourist area is located right at the foot of the mountain.  Entrance fee is 100,000 VND/adult.  This is a place tourists often check-in when visiting Ninh Binh.  To reach the top of Mua Cave, visitors will have to climb through about 500 stone steps. It is quite hot, so be sure to bring water.  From the top of Hang Mua, you will see the beautiful panorama of Ninh Binh with winding rivers, rice fields and majestic mountains.  Visitors can spend about 2 - 3 hours staying at the tourist area to visit and take photos. ',
+
                 ],
                 images: [
                     {
                         id: 1,
-                        imageSrc: Hanoi18,
-                        imageAlt: 'Cau Long Bien',
+                        imageSrc: NinhBinh2,
+                        imageAlt: 'hang mua',
                     },
                 ],
             },
             {
                 id: 4,
-                name: 'Chua Tran Quoc',
+                name: 'Hoa Lu ancient capital ',
                 description: [
-                    'Tran Quoc Pagoda, situated on an island to the east of West Lake, was once considered one of the most stunning pagodas globally. With a history of 1,500 years, it served as the Buddhist center of Thang Long capital during the Ly and Tran dynasties. Designated as a national historical and cultural relic in 1962, the pagoda also hosted the unveiling of the 15 m high, 11-storey Luc Do lotus stupa in 2003.',
+                    'Hoa Lu was the capital of Vietnam from 968 to 1010, spanning three dynasties: Dinh - Early Le - Early Ly.  This is one of the four core areas of the Trang An world heritage complex recognized by UNESCO.  Here, visitors visit the temples of King Dinh (Dinh Tien Hoang), King Le (Le Dai Hanh) and a museum storing memorabilia.  These two temples were built around the 17th century, surrounded by many green trees.  Visitors should sign up to listen to explanations during the tour to better understand the historical value of this place.  Entrance ticket per person is 20,000 VND.',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi19, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: NinhBinh19, imageAlt: 'co do hoa lu' },
                 ],
             },
             {
                 id: 5,
-                name: 'Van Mieu',
+                name: 'Bai Dinh Pagoda ',
                 description: [
-                    'This is the first university in Vietnam.  Today, visitors can visit the stone steles and solemn grounds with lotus ponds and gun ponds.  The Temple of Literature is a rare peaceful and quiet place in the middle of a bustling city.  Visitors will feel the harmony between ancient and modern times when coming here through the thousand-year-old walls. ',
-                    `The Temple of Literature was built in 1070 under the reign of King Ly Thanh Tong.  In 1076, King Ly Nhan Tong established Quoc Tu Giam House. `,
-                    `This place also preserves many precious artifacts and documents, especially 82 doctoral steles that have been recognized by UNESCO as "World Documentary Heritage".`,
+                    'Bai Dinh pagoda complex was built in 2003, has an area of ​​more than 500 hectares, surrounded by magnificent limestone mountain arcs.  The pagoda is divided into 2 areas: New pagoda and ancient pagoda.  Here, visitors can visit on foot or travel by electric car (price 30,000 VND/person/trip).  Some temples that tourists often visit when coming are Phap Chu Pagoda (consisting of 5 compartments, the middle compartment holds a 10m high, 100-ton Shakyamuni Buddha statue), Tam The Palace... or you can go up to the bell tower to admire the temple.  Dai Hong Chung threshold weighs 36 tons. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi20, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: NinhBinh3, imageAlt: 'bai dinh ' },
+                    { id: 2, imageSrc: NinhBinh4, imageAlt: 'bai dinh ' },
+                    { id: 3, imageSrc: NinhBinh5, imageAlt: 'bai dinh ' },
                 ],
             },
             {
                 id: 6,
-                name: 'Lang Bac ',
+                name: 'Am Tien Cave  ',
                 description: [
-                    'For Vietnamese people, this is one of the most important attractions in the country.  Tourists come to pay their respects to President Ho Chi Minh.  Visitors need to keep quiet, wear appropriate clothing and not take photos in prohibited areas. r Puppet Theatre is perfect for families with young children and anyone who enjoys light-hearted traditional entertainment. Water puppetry originated in rural villages in the Red River Delta and has been performed in Vietnam for more than 1,000 years.',
-                    `Attending the flag-raising ceremony in the morning is a special experience at President Ho Chi Minh's mausoleum.  If you miss it, you can rest assured to walk around the city and come back here to participate in the flag lowering ceremony at 9pm every day.  A solemn atmosphere enveloped Ba Dinh Square as the loudspeaker sounded to announce the upcoming flag-lowering ceremony.  People lined up neatly, watching the group of guards solemnly lower the National flag to the music of the song "Uncle still marches with us". `,
+                    'As a scenic spot belonging to the Hoa Lu ancient capital national relic complex, Am Tien cave is located in Truong Yen commune, Hoa Lu district, more than 10 km from Ninh Binh city center.  Surrounding the area are limestone mountains towering like citadels, in the middle is a cool blue lake.  This place is often commented by tourists as having poetic beauty but mixed with a bit of sadness and mystery.  Previously, the only way to get here was to climb the mountain, so Am Tien was nicknamed Tuyet Tinh Coc.  Today, visitors can go by tunnel through the mountain, then climb the mountain to visit the pagoda to offer incense, and admire the cave with magical stalactites.  Sightseeing ticket costs 20,000 VND/person. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi7, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: NinhBinh6, imageAlt: 'dong am tien' },
                 ],
             },
             {
                 id: 7,
-                name: 'Chua Mot cot',
+                name: 'Van Long lagoon ',
                 description: [
-                    'The building is one of the oldest temples in Hanoi.  The pagoda was built on a wooden trunk more than 1,000 years ago.  In the 1950s, the original wooden trunk rotted so it was replaced with a concrete column.  Western visitors should come here to walk around this area because the surrounding housing projects are among the most beautiful and impressive in Hanoi. ',
+                    `It is known as the "bay without waves", because when taking a boat on the lagoon, visitors will see a flat water surface without a ripple.  The water is not blue like sea water, but clear, clearly revealing layers of moss underneath.  This is also the place that owns two records from the Vietnam Record Book Center in 2010: Place with the largest number of white-rumped langurs and Place with the largest natural painting.  Sightseeing ticket 20,000 VND/person and boat ticket 60,000 VND/2 people. `,
+
                 ],
                 images: [
-                    { id: 1, imageSrc: HaNoi13, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: NinhBinh20, imageAlt: 'dam van long' },
                 ],
             },
             {
                 id: 8,
-                name: 'Pho co',
+                name: 'Thung Nham Bird Garden ',
                 description: [
-                    'Follow your feet to explore the vibrant and nostalgic streets of the capital. No need for a destination or predetermined route, simply turn right, left, or go straight. Each street offers unique discoveries, from toys to shoes, clothes, antiques, and even tombstones or motorbike parts.',
-                    `If you come here during off-hours, the experience will be even more interesting.  You must always be ready to avoid people and cars on the road.  Just like that, 1,000 years of Hanoi's history flows through the streets like blood flowing through each vein, breathing into life the breath of both the past and present. `,
+                    'Thung Nham Bird Park Ecological Area, about 12 km from Ninh Binh city, is home to many bird species, about 40 species and more than 50,000 birds.  The best time to watch flocks of birds return from foraging for food is around 5pm.  Entrance fee is 100,000 VND/person, boat ticket to visit the Bird Garden is 20,000 VND/person. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi21, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: NinhBinh11, imageAlt: 'vuon chim' },
                 ],
             },
             {
                 id: 9,
-                name: 'Bao Tang',
+                name: 'Phat Diem Stone Cathedral ',
                 description: [
-                    'Destinations not to be missed when coming to any city are the museums and historical sites.  One of the places most tourists check in is the Ethnology Museum.  The Museum of Ethnology currently stores and displays 15,000 artifacts, 42,000 documentaries, pictures and thousands of other documents about 54 Vietnamese ethnic groups. ',
-                    `Besides, tourists also go to the Vietnamese Women's Museum, Hanoi Museum, National History Museum or Hoa Lo Prison, Hanoi Flag Tower relic... to learn about culture and history.  of the city. `,
-                    `The outdoor sightseeing area at the Museum of Ethnology has 10 unique folk architectural works such as the communal house of the Bana people, the half-earth stilt house of the Dao people, the mass grave of the Giarai people...`,
+                    '28 km from Ninh Binh city.  Phat Diem Cathedral has unique architecture, although it is a Catholic building, it is modeled after traditional Vietnamese temples and pagodas with a curved boat-shaped roof.  Phat Diem church complex includes a large church and 5 small churches (including a church built entirely of natural stone, called a stone church);  Phuong Dinh (bell tower);  ponds and 3 artificial stone caves. ',
+
                 ],
                 images: [
-                    { id: 1, imageSrc: Hanoi22, imageAlt: 'water puppet show' },
+                    { id: 1, imageSrc: NinhBinh21, imageAlt: 'nha tho da' },
+                ],
+            },
+            {
+                id: 10,
+                name: 'Cuc Phuong National Park  ',
+                description: [
+                    `Belonging to Nho Quan district, Ninh Binh province, the garden is located at the border between three provinces of Ninh Binh, Hoa Binh and Thanh Hoa.  This is Vietnam's first national forest, with an area of ​​about 22,000 hectares, attracting a large number of tourists with diverse types of tourism, from eco-tourism, research, to adventure... Tourists  Coming to Cuc Phuong, you can explore primeval forests, caves with interesting shapes, caves containing long-standing historical and cultural evidence such as Trang Khuyet cave, Chua cave, Thuy Tien cave, Nguoi Xua cave...  In Cuc Phuong National Park, there are also hot springs, rich flora and fauna, ancient trees thousands of years old like the thousand-year-old bamboo tree, animal sanctuaries... `,
+
+
+                ],
+                images: [
+                    { id: 1, imageSrc: NinhBinh22, imageAlt: 'vuon quoc gia cuc phong' },
+                ],
+            },
+            {
+                id: 11,
+                name: 'Tam Diep pineapple hill  ',
+                description: [
+                    'Tam Diep is an emerging check-in destination, attracting tourists with its vast, green pineapple field scenery.  This place is about 20 km from Ninh Binh city.  Tourists should note that they should not break pineapples from people, there is no fee to visit and they should ask permission before entering to take photos. ',
+
+
+                ],
+                images: [
+                    { id: 1, imageSrc: NinhBinh23, imageAlt: 'nha tho da' },
                 ],
             },
         ],
         should_do: [
             {
                 id: 1,
-                name: 'What to see? ',
+                name: 'eat what ? ',
                 description: [
-                    `Visitors to Hanoi should not only visit scenic spots but also enjoy art shows that reflect the national identity.`,
-                    'Water puppetry: is a stage art that tourists should see when coming to Hanoi.  This art has a tradition of more than 1,000 years in Vietnam.  There are two addresses that many visitors visit: Thang Long Puppet Theater at 57B Dinh Tien Hoang and Vietnam Puppet Theater at 361 Truong Chinh. ',
-                    'Listen to Ca tru: Ca tru originated in the 11th century, the style bears many similarities to Japanese geisha ceremonies and opera performances.  Initially, Ca tru was considered entertainment for the nobility in the royal palace, then it entered the common cultural space of modern Hanoi.  Ca tru has five main performance spaces: Ca tru at the communal house (singing at the temple gate to worship gods), ca tru at the court (enjoying ca tru by the dignitaries), ca tru at home, ca tru singing thi, ca tru  cabaret.  Visitors can listen to Ca Tru at Hanoi Ca Tru Club at 42 Hang Bac, Ca Tru Thang Long 146 Tu Hoa. ',
-                    'Real-life show: Quintessence of the North is a real-life show on stage at Thay Pagoda, at the foot of Thay Mountain, Sai Son commune, Quoc Oai district, Hanoi.  The show takes place on a 4,300 square meter lake, taking visitors into the lives of Northern farmers through sound and light performances.  Most of the actors participating in the scene are farmers from Quoc Oai district. ',
-                    'In addition to the play, visitors can also directly experience traditional Northern culture outside the stage with shops selling banh gio, banh te, sticky rice cake, sticky rice wrapped in lotus leaves and banana leaves, peanut candy, and candies.  Hua.  Tourists can buy and eat on small chairs in the middle of the garden to the sound of mandarin music. '
+                    'Coming to Ninh Binh, you cannot miss the specialties of scorched rice, rare goat meat with lemon, stir-fried goat, grilled goat, roasted crab with lolot leaves, fish salad... ',
+                    'Goat meat is a favorite dish of many tourists coming here.  Goats in Ninh Binh are grazed on rocky mountains so their meat is firm and chewy.  To find reputable restaurants with standard mountain goats, diners should go to mountainous areas such as Hoa Lu, around Trang An and Tam Coc eco-tourism areas... Each portion of goat meat costs 100,000 - 250,000 VND  depending on the way of processing.  Suggested places to eat in Ninh Binh: ',
+                    '- Chinh Thu goat meat restaurant (Khe Thuong, Hoa Lu, Ninh Binh) ',
+                    '- Duc De Restaurant (446 Nguyen Hue, Ninh Binh City) ',
+                    '- Dung Pho Nui Restaurant (Ninh Xuan commune, Hoa Lu, Ninh Binh) ',
+                    `- Mrs. Phan's eel vermicelli (999 Tran Hung Dao, Ninh Binh city)`,
+                    ' - Bun Moc To Nhu (National Highway 10, Kim Son, Ninh Binh)',
+                    '- Thanh Hang sticky rice ice cream (Luong Van Tuy street, Ninh Binh city) ',
+
                 ],
 
-                images: [HanoiDo1, HanoiDo2, HanoiDo3, HanoiDo4,]
+                images: [NinhBinh24, NinhBinh25]
             },
-            {
-                id: 2,
-                name: 'Where to play?  ',
-                description: [
-                    `SUP on West Lake: Waking up when it's about to dawn, you can drive to West Lake and experience water games like SUP and kayaking.  The appropriate time is usually 5am-7pm, or late afternoon.  You can find boats and planks to rent at shops on Lac Long Quan, Au Co, Trich Sai streets... with prices from 250,000 VND per day. `,
 
-                    `See the panorama of Hanoi from above: Coming to Hanoi, you cannot miss the Lotte Observation Deck located on Lieu Giai Street, because this is the place where you can have a panoramic view of the Capital from the 65th floor.  Made from transparent glass so you can take creative check-in photos at any angle.  The observatory is open from 9am until the end of the day. `,
-                    `Walking street: Every week, Hoan Kiem Lake walking street opens from 6:00 p.m. Friday to Sunday, attracting a large number of both residents and foreign tourists.  This space has many fun and entertainment activities, including street art performances.  Don't forget to experience the "food tour" around the walking street. `,
-                    `Beer Street: In the old town, especially in Ta Hien, Bao Khanh, Luong Ngoc Quyen, there are always many places for you to drink beer or other attractively prepared drinks.  This is also one of the busiest nightlife places in the capital.`,
-                    `Going to the market: Not Dong Xuan market, Quang Ba flower market and Long Bien wholesale market are two addresses that Westerners whisper to each other that they must visit once if they have the opportunity to come to the capital.  The market mainly sells flowers and fruits, but visitors are required to stay up late and get up early to fully see the bustling, bustling atmosphere of a very different Hanoi when night falls. `,
-                    `Located right at the foot of Long Bien bridge, Long Bien wholesale market is bustling all year round, the most famous being the fruit wholesale flea market.  From 8:00 p.m. the market starts to bustle, getting busier as the night progresses.  The Quang Ba flower market is open all night but is most crowded at around 3-4 am, when buyers and sellers are busy.  Bouquets of flowers, large and small, piled on the cart, were bustling in and out. `,
-                ],
-
-                images: [HanoiDo5, HanoiDo6, HanoiDo7, HanoiDo8,]
-            },
         ],
         diffr: [
 
             {
                 id: 1,
-                name: 'Restaurant ',
+                name: 'Reference schedule  ',
                 description: [
-                    `Hanoi cuisine perfectly combines sour, spicy, salty, sweet flavors and represents the image of the city with a thousand years of civilization: vibrant, quiet, attractive and attractive.  You can easily enjoy Hanoi specialties at roadside sidewalk restaurants such as beef pho, bun cha, banh mi... `,
+
                 ],
                 eat_buy: [
                     {
                         id: 1,
-                        name: 'Phở',
+                        name: '',
                         description: [
-                            `When coming to Hanoi, you cannot miss pho, especially beef pho, which usually has two main types: cooked and rare.  Cooked beef is pieces of beef boiled in broth, while rare beef is pieces of meat that are thinly sliced ​​and quickly blanched in boiling water.  Then, the seller will put those slices of meat on pho noodles, pour broth and serve to diners.  Some reference addresses are Pho Thin, Bat Dan, Tu Lun, Pho Lam on Hang Vai Street, Pho Tram on Yen Ninh Street. `,
-                            'If you want to try other versions, suggested addresses are Nguyet restaurant No. 5 Phu Doan, Cham restaurant 63 Yen Ninh, Lan Ong mixed chicken pho or Ngu Xa pho roll. ',
+                            'Day 1: Ninh Binh City - Hang Mua - Trang An',
+                            ' Day 2: Bai Dinh Pagoda - Hoa Lu Ancient Capital - Am Tien Cave',
+                            'Or',
+                            ' Day 1: Ninh Binh City - Tam Coc - Bich Dong - Tam Diep pineapple hill',
+                            ' Day 2: Phat Diem Stone Cathedral - Thung Nham Bird Garden',
+                            'Or',
+                            ' Day 1: Hanoi - Cuc Phuong National Park',
+                            'Day 2: Cuc Phuong National Park - Van Long Lagoon ',
                         ],
                         images: [
                             {
                                 id: 1,
-                                imageSrc: Hanoieat1,
-                                imageAlt: 'pho ha noi',
+                                imageSrc: NinhBinh26,
+                                imageAlt: 'sunet in Nb',
                             },
                         ],
 
                     },
-                    {
-                        id: 2,
-                        name: 'Rice noodle Vietnamese',
-                        description: [
-                            `Hanoi people have many noodle dishes.  The most special ones are bun cha, bun thang, bun snail, bun moc, vermicelli noodles... `,
-                            'When talking about long-standing authentic specialties in Hanoi, we cannot help but mention bun thang.  Hanoi people have skillfully processed leftover food after Tet into an elaborate and sophisticated noodle dish.  A bowl of vermicelli noodles costs 30,000 - 50,000 VND.  Currently, in Hanoi there are only a few places that sell bun thang, such as Ba Duc restaurant (Cau Go), Ngoc Tuyen restaurant (Dao Tan), Thuan Ly restaurant (Hang Hom).. ',
-                            `Bun cha - a dish often eaten for lunch.  Similar to grilled meat vermicelli in the South and Central regions, but Hanoi's vermicelli noodles are marinated more elaborately.  Those who like old flavors can go to bun cha restaurants in Hang Ma and Hang Dong.  People who like bamboo vermicelli noodles should go to Buoi market and Dong Xuan market.  Or visit the noodle shops in Ngoc Khanh, Giang Vo, Le Van Huu, Hang Manh which are also famous restaurants in Hanoi.`,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat2,
-                                imageAlt: 'bun cha',
-                            },
-                        ],
 
-                    },
-                    {
-                        id: 3,
-                        name: 'Cha Ca La Vong ',
-                        description: [
-                            `La Vong grilled fish was born in 1871, invented by the Doan family.  From a rustic dish, grilled fish gradually became the quintessence of Hanoi cuisine to this day.  "Fish cake" is made from the most delicious fish, especially lentil fish.  "La Vong" is the image of an ancient general, a talented man with the will to wait for a great opportunity. `,
-                            `The fish meat is carefully deboned, sweet, fragrant and soaked in spices.  Dill and spring onions are cut into pieces and mixed into the hot fish pan.  When eaten combined with grilled rice paper, vermicelli and shrimp paste - indispensable ingredients that help create a rich flavor.  Some suggested addresses: La Vong Grilled Fish, No. 14, Cha Ca Street;  Thang Long fish cake at 21 Duong Thanh;  Lao Ngu fish cake at 171 Thai Ha... `,
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat3,
-                                imageAlt: 'cha ca',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Rolls',
-                        description: [
-                            `Thinly coated rice cakes stuffed with pork, wood ear mushrooms, minced onions, and dipped in sweet and sour fish sauce are always a suitable dish for hot summer days.  Walking on the streets, visitors will encounter many banh cuon shops open in the morning, with skillful and quick hands preparing the banh cuon.  Some suggested addresses are Banh Cuon Ba Hanh, 26B Tho Xuong;  Ba Xuan rice rolls, 16 Hoe Nhai slope and Long Bien market food area. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat4,
-                                imageAlt: 'banh cuon',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `In addition to famous dishes around the world, Hanoi also possesses a treasure trove of cakes such as pillow cakes, filled with pork, mushrooms, ground vermicelli and quail eggs... To balance the flavor, the greasy donuts  Served with dipping sauce of garlic, chili and herbs.  Located on Ly Quoc Su Street, Goc Da restaurant specializes in selling salty donuts and pillow cakes, open from 10am to 9:30pm. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat5,
-                                imageAlt: 'banh ran',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 6,
-                        name: 'Coffee',
-                        description: [
-                            `Coffee is a feature of Hanoi, with many long-standing shops in the old town.  Egg coffee is one of Hanoi's specialties made from whipped eggs mixed with Vietnamese coffee.  Egg coffee has a slightly yellow color in a small cup.  Diners always have an extra spoon to enjoy the cream foam on top like an "appetizer" before drinking the coffee below.  Famous delicious egg coffees include Dinh, Giang, Pho Co Coffee, Loading T, All Day Coffee... Price per cup starts from 25,000 VND. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoieat6,
-                                imageAlt: 'ca phe trung',
-                            },
-                        ],
-
-                    },
                 ],
             },
-            {
-                id: 2,
-                name: 'What to buy as a gift? ',
-                description: [
-                    `In addition to apricot blossoms, green rice cakes, and lotus tea, visitors to Hanoi can buy silk in Van Phuc village or Bat Trang pottery as gifts for relatives and friends. `,
-                ],
-                eat_buy: [
-                    {
-                        id: 1,
-                        name: 'dried plum.',
-                        description: [
-                            `With sour, spicy, salty, and sweet flavors that combine the quintessence of Hanoi cuisine, apricot fruit is a gift that many people choose to buy as a gift when leaving Hanoi.  The most famous address for this snack is Hang Duong street.  Visitors can find here their favorite apricot varieties such as apricots, plums, ginger, dracontomelon, star fruit, lemon, kumquat, persimmon, peach, toad, tamarind... However, if purchased as a gift for Southerners  , you should choose the alligator apricot fruit, because it has a sweet taste made from a sour fruit that is very typical of Hanoi.  Depending on the type, apricot costs about 100,000 - 150,000 per kg. `,
-                            'Nếu muốn thử những phiên bản khác, địa chỉ gợi ý là quán Nguyệt số 5 Phủ Doãn, quán Châm 63 Yên Ninh, phở gà trộn Lãn Ông hay phở cuốn Ngũ Xã.',
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy1,
-                                imageAlt: 'sau dam',
-                            },
-                        ],
 
-                    },
-                    {
-                        id: 2,
-                        name: 'green rice flakes',
-                        description: [
-                            `The scent of Vong village green rice has long created a unique charm for the capital's cuisine.  However, because it is only available in the fall, Hang Than green rice cake is a perfect alternative for many tourists.  The rice nuggets are sticky on the outside, with a layer of green bean filling mixed with greasy coconut on the inside, with a faint natural scent of grapefruit. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy2,
-                                imageAlt: 'com ',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 3,
-                        name: 'Lotus tea  ',
-                        description: [
-                            `Tay Ho lotus tea will definitely be a precious gift for relatives and friends after visiting Hanoi.  Because marinating lotus tea is an art that takes a lot of time and effort.  After being selected from the best, dried tea petals will be marinated 5-7 times with lotus rice (white seeds on the lotus head) to absorb the flavor.  The marinated lotus must be the type grown in lagoons in West Lake such as Nhat Tan and Quang Ba because it is fragrant and produces the most rice. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy3,
-                                imageAlt: 'tra sen ho tay',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 4,
-                        name: 'Van Phuc Silk ',
-                        description: [
-                            `Silk's popularity with tourists is due to its thin, soft, airy, colorfast, and wrinkle-free properties. Whether it's winter or summer, visitors can find and purchase a variety of silk items such as scarves, shirts, dresses, and bags. In addition to Van Phuc silk village (about 10 km from the center of Hanoi), silk can also be purchased at stalls on Hang Gai or Dinh Liet streets.`,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy4,
-                                imageAlt: 'lua van phuc',
-                            },
-                        ],
-
-                    },
-                    {
-                        id: 5,
-                        name: 'Donuts Vietnamese',
-                        description: [
-                            `If you have the opportunity to visit Bat Trang, don't forget to buy ceramic products from traditional craft villages.  With characteristic glaze colors and skilled craftsmanship, Bat Trang ceramics have a very unique beauty.  In addition to commonly used bowls, bowls, cups, and cups, there are also products dedicated as gifts such as wind chimes, statues, etc. Visitors to the pottery village can also make their own bowls.  , vases, vases, cups as gifts, both meaningful and an interesting experience. `,
-
-                        ],
-                        images: [
-                            {
-                                id: 1,
-                                imageSrc: Hanoibuy5,
-                                imageAlt: 'gom bat trang',
-                            },
-                        ],
-
-                    },
-                ],
-
-            },
         ],
     },
 ];
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 export const practicalities = [
     {
         id: 1,
