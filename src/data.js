@@ -1,19 +1,19 @@
 //place
 //1 Cat Ba
 import CatBa1 from './assets/img/PlaceImg/CatBa/Cat-Ba-13-1529492704-VnEx-5594-1560-6971-1652946528.jpg';
-import CatBa2 from './assets/img/PlaceImg/CatBa/CatBa-angelinadoan97-6668-1595-6213-8112-1652946536.jpg';
+// import CatBa2 from './assets/img/PlaceImg/CatBa/CatBa-angelinadoan97-6668-1595-6213-8112-1652946536.jpg';
 import CatBa3 from './assets/img/PlaceImg/CatBa/CatBa-Happy-Auer-4419-15958244-8355-3443-1652946533.jpg';
-import CatBa4 from './assets/img/PlaceImg/CatBa/CatBa-hecke61-6753-1595824433-7229-8317-1652946532.jpg';
-import CatBa5 from './assets/img/PlaceImg/CatBa/CatBa-hecke61-8564-1595824433-1795-2494-1652946532.jpg';
-import CatBa6 from './assets/img/PlaceImg/CatBa/CatBa-josepmarti-4581-15958026-8477-4629-1652946531.jpg';
+// import CatBa4 from './assets/img/PlaceImg/CatBa/CatBa-hecke61-6753-1595824433-7229-8317-1652946532.jpg';
+// import CatBa5 from './assets/img/PlaceImg/CatBa/CatBa-hecke61-8564-1595824433-1795-2494-1652946532.jpg';
+// import CatBa6 from './assets/img/PlaceImg/CatBa/CatBa-josepmarti-4581-15958026-8477-4629-1652946531.jpg';
 import CatBa7 from './assets/img/PlaceImg/CatBa/CatBa-Kris-Wiktor-2-7185-15958-3669-9370-1652946534.jpg';
 import CatBa8 from './assets/img/PlaceImg/CatBa/CatBa-LanHa-Supermop-7701-1595-4695-3513-1652946538.jpg';
 import CatBa9 from './assets/img/PlaceImg/CatBa/CatBa-maychimetravel-6908-1595-4896-1739-1652946539.jpg';
-import CatBa10 from './assets/img/PlaceImg/CatBa/CatBa-Milan-Rademakers-2281-15-4878-3701-1652946535.jpg';
+// import CatBa10 from './assets/img/PlaceImg/CatBa/CatBa-Milan-Rademakers-2281-15-4878-3701-1652946535.jpg';
 import CatBa11 from './assets/img/PlaceImg/CatBa/CatBa-Nina-Lishchuk-8705-15958-9523-5508-1652946529.jpg';
-import CatBa12 from './assets/img/PlaceImg/CatBa/CatBa-Sanga-Park-2890-15958244-9147-2471-1652946535.jpg';
+// import CatBa12 from './assets/img/PlaceImg/CatBa/CatBa-Sanga-Park-2890-15958244-9147-2471-1652946535.jpg';
 import CatBa13 from './assets/img/PlaceImg/CatBa/CatBa2-1648981692-9662-1648981737.jpg';
-import CatBa14 from './assets/img/PlaceImg/CatBa/Vinh-Lan-Ha-Pham-Huy-Trung-860-3828-1336-1652946528.jpg';
+// import CatBa14 from './assets/img/PlaceImg/CatBa/Vinh-Lan-Ha-Pham-Huy-Trung-860-3828-1336-1652946528.jpg';
 import CatBa15 from './assets/img/PlaceImg/CatBa/VnExpress-CatBa-TamLinh-9863-1-2741-6378-1652946537.jpg';
 import CatBa16 from './assets/img/PlaceImg/CatBa/mua-du-lich-cat-ba.jpg';
 import CatBa17 from './assets/img/PlaceImg/CatBa/mua-cat-ba-xinh-dep.jpg';
@@ -35,7 +35,7 @@ import CatBa32 from './assets/img/PlaceImg/CatBa/rest.jpg';
 
 //2 Dao Co To
 import Coto from './assets/img/PlaceImg/DaoCoto/co-to-island.jpg';
-import Coto1 from './assets/img/PlaceImg/DaoCoto/Bai-da-mong-rong-9800-1655807498.jpg';
+// import Coto1 from './assets/img/PlaceImg/DaoCoto/Bai-da-mong-rong-9800-1655807498.jpg';
 import Coto2 from './assets/img/PlaceImg/DaoCoto/bai-dong-Co-To-con-1476-1655807497.jpg';
 import Coto3 from './assets/img/PlaceImg/DaoCoto/bai-mong-rong-1-3381-1655807498.jpg';
 import Coto4 from './assets/img/PlaceImg/DaoCoto/bai-mong-rong-2-3944-1655807498.jpg';
@@ -43,13 +43,13 @@ import Coto5 from './assets/img/PlaceImg/DaoCoto/bai-mong-rong-4-2758-1655807498
 import Coto6 from './assets/img/PlaceImg/DaoCoto/bai-mong-rong-6-3009-1655807498.jpg';
 import Coto7 from './assets/img/PlaceImg/DaoCoto/bai-Nam-Co-To-con-4273-1655807497.jpg';
 import Coto8 from './assets/img/PlaceImg/DaoCoto/bai-van-chay-co-to-jpeg-8941-1656388398.jpg';
-import Coto9 from './assets/img/PlaceImg/DaoCoto/bien-co-to-5161-1655807497.jpg';
+// import Coto9 from './assets/img/PlaceImg/DaoCoto/bien-co-to-5161-1655807497.jpg';
 import Coto10 from './assets/img/PlaceImg/DaoCoto/bien-dao-co-to-5288-1655807497.jpg';
 import Coto11 from './assets/img/PlaceImg/DaoCoto/co-to-con-5816-1655807496.jpg';
 import Coto12 from './assets/img/PlaceImg/DaoCoto/Con-duong-tinh-yeu-4006-1655807498.jpg';
 import Coto13 from './assets/img/PlaceImg/DaoCoto/dao-Thanh-Lan-jpeg-9815-1656387716.jpg';
 import Coto14 from './assets/img/PlaceImg/DaoCoto/don-cao-8712-1655807498.jpg';
-import Coto15 from './assets/img/PlaceImg/DaoCoto/du-lich-co-to-2-2281-1655807496.jpg';
+// import Coto15 from './assets/img/PlaceImg/DaoCoto/du-lich-co-to-2-2281-1655807496.jpg';
 import Coto16 from './assets/img/PlaceImg/DaoCoto/du-lich-co-to-6981-1655807496.jpg';
 import Coto17 from './assets/img/PlaceImg/DaoCoto/hai-dang-Co-To-1443-1655807498.jpg';
 import Coto18 from './assets/img/PlaceImg/DaoCoto/images1007410_111.jpg';
@@ -71,7 +71,7 @@ import Coto33 from './assets/img/PlaceImg/DaoCoto/dao-Co-To-01-9882-1655807499.j
 
 
 //3 Ha Giang
-import HaGiang1 from './assets/img/PlaceImg/HaGiang/cot-co-Lung-Cu-8581-1648807019-3263-1657019236.jpg';
+// import HaGiang1 from './assets/img/PlaceImg/HaGiang/cot-co-Lung-Cu-8581-1648807019-3263-1657019236.jpg';
 import HaGiang2 from './assets/img/PlaceImg/HaGiang/dinh-thu-Vua-Meo-8543-16487185-3971-6207-1657019234.jpg';
 import HaGiang3 from './assets/img/PlaceImg/HaGiang/dinh-thu-Vua-Meo-Ha-Giang-01-9-4803-8513-1657019234.jpg';
 import HaGiang4 from './assets/img/PlaceImg/HaGiang/dinh-thu-Vua-Meo-Ha-Giang-02-5-4798-7044-1657019235.jpg';
@@ -79,15 +79,15 @@ import HaGiang5 from './assets/img/PlaceImg/HaGiang/du-lich-Ha-Giang-2-2585-1648
 import HaGiang6 from './assets/img/PlaceImg/HaGiang/du-lich-Ha-Giang-pho-cao-8631-7947-8475-1657019233.jpg';
 import HaGiang7 from './assets/img/PlaceImg/HaGiang/du-lich-Ha-Giang-VnExpress-589-9468-9310-1657019237.jpg';
 import HaGiang8 from './assets/img/PlaceImg/HaGiang/DV2-9165-1692085761.jpg';
-import HaGiang9 from './assets/img/PlaceImg/HaGiang/Ha-Giang-2-4139-1648807019-5144-1657019231.jpg';
-import HaGiang10 from './assets/img/PlaceImg/HaGiang/Ha-Giang-tam-giac-mach-2777-16-1591-9108-1657019229.jpg';
+// import HaGiang9 from './assets/img/PlaceImg/HaGiang/Ha-Giang-2-4139-1648807019-5144-1657019231.jpg';
+// import HaGiang10 from './assets/img/PlaceImg/HaGiang/Ha-Giang-tam-giac-mach-2777-16-1591-9108-1657019229.jpg';
 import HaGiang11 from './assets/img/PlaceImg/HaGiang/Hoang-Su-Phi-Ha-Giang-1196-164-6724-9210-1657019230.jpg';
-import HaGiang12 from './assets/img/PlaceImg/HaGiang/Meo-Vac-Ha-Giang-6830-16488070-5496-1277-1657019227.jpg';
+// import HaGiang12 from './assets/img/PlaceImg/HaGiang/Meo-Vac-Ha-Giang-6830-16488070-5496-1277-1657019227.jpg';
 import HaGiang13 from './assets/img/PlaceImg/HaGiang/mua-xuan-ha-giang-vnexpress-3-6189-6723-1657019228.jpg';
 import HaGiang14 from './assets/img/PlaceImg/HaGiang/mua-xuan-ha-giang-vnexpress-8-6887-3357-1657019228.jpg';
 import HaGiang15 from './assets/img/PlaceImg/HaGiang/pho-cao-2511-1648718523-6530-1657019232.jpg';
 import HaGiang16 from './assets/img/PlaceImg/HaGiang/pho-cao-ha-giang-8752-16487185-3640-9541-1657019231.jpg';
-import HaGiang17 from './assets/img/PlaceImg/HaGiang/song-Nho-Que-5465-1648718524-5086-1657019238.jpg';
+// import HaGiang17 from './assets/img/PlaceImg/HaGiang/song-Nho-Que-5465-1648718524-5086-1657019238.jpg';
 import HaGiang18 from './assets/img/PlaceImg/HaGiang/huong-dan-di-chuyen-den-ha-giang-tu-ha-noi-sieu-chi-tiet-03-1644123792.jpeg';
 import HaGiang19 from './assets/img/PlaceImg/HaGiang/324381486.jpg';
 import HaGiang20 from './assets/img/PlaceImg/HaGiang/16.11._quyen_luyen_moc_chau.jpg';
@@ -109,15 +109,15 @@ import HaGiang35 from './assets/img/PlaceImg/HaGiang/lap-xuong-gac-bep-tay-bac.j
 import HaGiang36 from './assets/img/PlaceImg/HaGiang/ttxvn_matongbacha_1.jpg';
 
 //4 Ha Long
-import HaLong1 from './assets/img/PlaceImg/HaLong/alessio-rinella-p_a0YkcsKLw-unsplash.jpg';
-import HaLong2 from './assets/img/PlaceImg/HaLong/andre-ouellet-cga32YQt0Kw-unsplash.jpg';
-import HaLong3 from './assets/img/PlaceImg/HaLong/Cau-Koi-Sun-World-Halong-Compl-4870-4551-1658113203.jpg';
+// import HaLong1 from './assets/img/PlaceImg/HaLong/alessio-rinella-p_a0YkcsKLw-unsplash.jpg';
+// import HaLong2 from './assets/img/PlaceImg/HaLong/andre-ouellet-cga32YQt0Kw-unsplash.jpg';
+// import HaLong3 from './assets/img/PlaceImg/HaLong/Cau-Koi-Sun-World-Halong-Compl-4870-4551-1658113203.jpg';
 import HaLong4 from './assets/img/PlaceImg/HaLong/cau-muc-dem-Ha-Long-jpeg-3399-8651-3173-1658113199.jpg';
-import HaLong5 from './assets/img/PlaceImg/HaLong/clement-chai-si7QbYHBI3c-unsplash.jpg';
+// import HaLong5 from './assets/img/PlaceImg/HaLong/clement-chai-si7QbYHBI3c-unsplash.jpg';
 import HaLong6 from './assets/img/PlaceImg/HaLong/du-thuyen-HaLong.jpg';
-import HaLong7 from './assets/img/PlaceImg/HaLong/nui-bai-tho.jpg';
-import HaLong8 from './assets/img/PlaceImg/HaLong/Sun-world-giam-gia-3-4565-1567-5872-3272-1658113201.jpg';
-import HaLong9 from './assets/img/PlaceImg/HaLong/Sun-World-Halong-Complex-9368-4826-9175-1658113201.jpg';
+// import HaLong7 from './assets/img/PlaceImg/HaLong/nui-bai-tho.jpg';
+// import HaLong8 from './assets/img/PlaceImg/HaLong/Sun-world-giam-gia-3-4565-1567-5872-3272-1658113201.jpg';
+// import HaLong9 from './assets/img/PlaceImg/HaLong/Sun-World-Halong-Complex-9368-4826-9175-1658113201.jpg';
 import HaLong10 from './assets/img/PlaceImg/HaLong/di-ha-long-mua-nao-la-hop-li-nhat.jpg';
 import HaLong11 from './assets/img/PlaceImg/HaLong/di-ha-long-mua-nao-la-hop-li-nhat2.jpg';
 import HaLong12 from './assets/img/PlaceImg/HaLong/xe-limousie-cao-cap-1.jpg';
@@ -148,18 +148,18 @@ import HaLong36 from './assets/img/PlaceImg/HaLong/pr1-nha-hang-phuong-nam.jpg';
 import HaLong37 from './assets/img/PlaceImg/HaLong/Sunrise-in-Ha-Long-Bay.jpg';
 
 //5 Ha Noi
-import HaNoi1 from './assets/img/PlaceImg/Hanoi/BatTrang.jpg';
-import HaNoi2 from './assets/img/PlaceImg/Hanoi/lang-gom-bat-trang-1.jpg';
-import HaNoi3 from './assets/img/PlaceImg/Hanoi/pexels-cuong-mat-16801315.jpg';
-import HaNoi4 from './assets/img/PlaceImg/Hanoi/pexels-flo-dahm-1483778.jpg';
-import HaNoi5 from './assets/img/PlaceImg/Hanoi/pexels-gorazd-nikoloski-12867482.jpg';
-import HaNoi6 from './assets/img/PlaceImg/Hanoi/pexels-hiep-nguyen-18715241.jpg';
+// import HaNoi1 from './assets/img/PlaceImg/Hanoi/BatTrang.jpg';
+// import HaNoi2 from './assets/img/PlaceImg/Hanoi/lang-gom-bat-trang-1.jpg';
+// import HaNoi3 from './assets/img/PlaceImg/Hanoi/pexels-cuong-mat-16801315.jpg';
+// import HaNoi4 from './assets/img/PlaceImg/Hanoi/pexels-flo-dahm-1483778.jpg';
+// import HaNoi5 from './assets/img/PlaceImg/Hanoi/pexels-gorazd-nikoloski-12867482.jpg';
+// import HaNoi6 from './assets/img/PlaceImg/Hanoi/pexels-hiep-nguyen-18715241.jpg';
 import HaNoi7 from './assets/img/PlaceImg/Hanoi/pexels-hugo-heimendinger-2973305.jpg';
-import HaNoi8 from './assets/img/PlaceImg/Hanoi/pexels-hugo-heimendinger-2977432.jpg';
-import HaNoi9 from './assets/img/PlaceImg/Hanoi/pexels-minh-duc-trinh-10764452.jpg';
-import HaNoi10 from './assets/img/PlaceImg/Hanoi/pexels-nguyễn-hiếu-11712728.jpg';
-import HaNoi11 from './assets/img/PlaceImg/Hanoi/pexels-quang-nguyen-vinh-6346788.jpg';
-import HaNoi12 from './assets/img/PlaceImg/Hanoi/pexels-quý-nguyễn-17098876.jpg';
+// import HaNoi8 from './assets/img/PlaceImg/Hanoi/pexels-hugo-heimendinger-2977432.jpg';
+// import HaNoi9 from './assets/img/PlaceImg/Hanoi/pexels-minh-duc-trinh-10764452.jpg';
+// import HaNoi10 from './assets/img/PlaceImg/Hanoi/pexels-nguyễn-hiếu-11712728.jpg';
+// import HaNoi11 from './assets/img/PlaceImg/Hanoi/pexels-quang-nguyen-vinh-6346788.jpg';
+// import HaNoi12 from './assets/img/PlaceImg/Hanoi/pexels-quý-nguyễn-17098876.jpg';
 import HaNoi13 from './assets/img/PlaceImg/Hanoi/pexels-quý-nguyễn-17177476.jpg';
 import HaNoi14 from './assets/img/PlaceImg/Hanoi/pexels-tu-nguyen-16036696.jpg';
 import HaNoi15 from './assets/img/PlaceImg/Hanoi/HotelMetropoleHanoi-1-2144-1652253984.jpg';
@@ -314,6 +314,52 @@ import tip3 from './assets/img/PlanYourTrip/tips/Etiquette Infographic_F1.png';
 import tip4 from './assets/img/PlanYourTrip/tips/Etiquette Infographic_F2.png';
 import tip5 from './assets/img/PlanYourTrip/tips/transport in vietnam (2)_2.jpg';
 import tip6 from './assets/img/PlanYourTrip/tips/transport in vietnam.jpg';
+
+///// wapthum
+import anhw1 from "./assets/img/PlanYourTrip/galley/homestay in vietnam.jpg";
+import anhw2 from "./assets/img/PlanYourTrip/galley/official vietnam e visa_6.jpg";
+import anhw3 from "./assets/img/PlanYourTrip/galley/responsible travel vietnam-5.jpg";
+import anhw4 from "./assets/img/PlanYourTrip/galley/Vietnam local culture guide-10.jpg";
+import anhw5 from "./assets/img/PlanYourTrip/galley/Vietnam Tourism - plan your trip.jpg";
+
+///// ThingtoDo/Insrpied
+import imgInsp1 from './assets/img/ThingToDo/Inspired/FOOD.png';
+import imgInsp2 from './assets/img/ThingToDo/Inspired/NATURE.png';
+import imgInsp3 from './assets/img/ThingToDo/Inspired/CULTURE.png';
+import imgInsp4 from './assets/img/ThingToDo/Inspired/CITIES.jpg';
+import imgInsp5 from './assets/img/ThingToDo/Inspired/BEACHES.png';
+import imgInsp6 from './assets/img/ThingToDo/Inspired/Adventure in Vietnam-2.jpg';
+import imgInsp7 from './assets/img/ThingToDo/Inspired/Vietnam spas.jpeg';
+import imgInsp8 from './assets/img/ThingToDo/Inspired/FAMILY.png';
+import imgInsp9 from './assets/img/ThingToDo/Inspired/vietnam best luxury resorts-2.jpg';
+import imgInsp10 from './assets/img/ThingToDo/Inspired/Golfing in Vietnam.jpg';
+
+////// thingtodo2
+import fabufood from './assets/img/ThingToDo/mon_an_2_WGMN.jpg';
+import strsce from './assets/img/ThingToDo/Hilltop_Village_Muong_Hoa_Valley_CCBule Sky Studio-1.jpg';
+import timelculture from './assets/img/ThingToDo/Culture Vietnam Tourism-2.jpg';
+import citis from './assets/img/ThingToDo/cities.jpg';
+import beach from './assets/img/ThingToDo/beaches.jpg';
+
+
+/////////thingtodo/foood
+import food1 from './assets/img/ThingToDo/food/bun-ca-ha-noi-3_1686916683_0.jpg';
+import food2 from './assets/img/ThingToDo/food/pho bo_0.jpg';
+import food3 from './assets/img/ThingToDo/food/100319-book-in-hands_0.png';
+import strik1 from './assets/img/ThingToDo/exfol/shutterstock_1218765286_0.jpg';
+import strik2 from './assets/img/ThingToDo/exfol/shutterstock_337356194_0.jpg';
+import strik3 from './assets/img/ThingToDo/exfol/188-Yên Bái-namhn1962@gmail.com-ve dep thac ba_0.jpg';
+import timels1 from './assets/img/ThingToDo/exfol/hn5_0.png';
+import timels2 from './assets/img/ThingToDo/exfol/303-Ninh Bình-nguyentungduong1987@gmail.com-nhung vi khach quoc te (1)_0.jpg';
+import timels3 from './assets/img/ThingToDo/exfol/shutterstock_1473883487_0.jpg';
+import cities1 from './assets/img/ThingToDo/exfol/shutterstock_1007728660_resize_0.jpg';
+import cities2 from './assets/img/ThingToDo/exfol/119167179_3696253487052897_5983382125114083906_n.jpeg';
+import cities3 from './assets/img/ThingToDo/exfol/shutterstock_576109399_0.jpg';
+import beach1 from './assets/img/ThingToDo/exfol/281-Kiên Giang-quangtuyen8018@yahoo.com_.vn-chieu phu quoc_1.jpg';
+import beach2 from './assets/img/ThingToDo/exfol/shutterstock_650536411_0.jpg';
+import beach3 from './assets/img/ThingToDo/exfol/Vung Tau holiday ideas-2.jpg';
+
+
 
 export const placesToGo = [
     {
@@ -2723,3 +2769,157 @@ export const inforgrapics = [
         images: tip6,
     },
 ];
+//////////////////// planyourtrip/warpthumb
+export const warpthumb = [
+    { id: 1, srcImg: anhw1, name: 'Item 1', description: [`What are the Vietnamese like?`,] },
+    { id: 2, srcImg: anhw2, name: 'Item 2', description: ['An guide to e-Visas in Vietnam',] },
+    { id: 3, srcImg: anhw3, name: 'Item 3', description: ['How to travel responsibly in Vietnam',] },
+    { id: 4, srcImg: anhw4, name: 'Item 4', description: [`Beginner's guide To Vietnam Now`,] },
+    { id: 5, srcImg: anhw5, name: 'Item 5', description: [`5 reasons to try as homestay in Vietnam`,] },
+];
+////////////////////thingtodo/innspried
+export const innspried = [
+    { id: 1, srcImg: imgInsp1, name: 'FOOD', description: [`FOOD`,] },
+    { id: 2, srcImg: imgInsp2, name: 'NATURE', description: ['NATURE',] },
+    { id: 3, srcImg: imgInsp3, name: 'CULTURE', description: ['CULTURE',] },
+    { id: 4, srcImg: imgInsp4, name: 'CITIES', description: [`CITIES`,] },
+    { id: 5, srcImg: imgInsp5, name: 'BEACHES', description: [`BEACHES`,] },
+    { id: 6, srcImg: imgInsp6, name: 'ADVENTURE', description: [`ADVENTURE`,] },
+    { id: 7, srcImg: imgInsp7, name: 'WELLNESS', description: [`WELLNESS`,] },
+    { id: 8, srcImg: imgInsp8, name: 'FAMILY', description: [`FAMILY`,] },
+    { id: 9, srcImg: imgInsp9, name: 'LUXURY', description: [`LUXURY`,] },
+    { id: 10, srcImg: imgInsp10, name: 'GOLF', description: [`GOLF`,] },
+];
+///////////////////////thingtodo element
+export const thingtodoP = [
+    {
+        id: 1,
+        name: 'FABULOUS FOOD',
+        srcImg: fabufood,
+        description: [
+            `If there’s one characteristic that unites Vietnamese food, it’s freshness. Pass by any Vietnamese market, you'll be amazed by the abundance of the sea and soil: feathery herbs, plump vegetables and flapping-fresh proteins. Freshness is where the fun begins. Vietnamese cooks enhance beautiful ingredients with aromatic herbs and contrasting textures for maximum delight. Simply put, it's one of the world’s healthiest and most delicious cuisines.`,
+
+        ],
+        elements: [
+            {
+                id: 1,
+                name: 'Ha Noi Food Guide: The best street food dishes to sample ',
+                img: food1,
+            },
+            {
+                id: 2,
+                name: 'Must-try noodles in Vietnam ',
+                img: food2,
+            },
+            {
+                id: 3,
+                name: 'The first Michelin Guide restaurants to be revealed on 6 June ',
+                img: food3,
+            },
+        ]
+
+    },
+    {
+        id: 2,
+        name: 'STRIKING SCENERY',
+        srcImg: strsce,
+        description: [
+            `Vietnam is chock-full of forested peaks, thundering waterfalls, and breezy coastline, so it’s no wonder the country is luring more and more outdoor enthusiasts. With so many options at your fingertips, you may need a second (or third) trip to take it all in. And while there are plenty of pulse-pounding activities, Vietnam also presents more leisurely ways to enjoy its vast natural attractions.`,
+
+        ],
+        elements: [
+            {
+                id: 1,
+                name: 'Explore the Bay of Dragons on a Halong Bay cruise',
+                img: strik1,
+            },
+            {
+                id: 2,
+                name: 'A World of Water-Based Wonders',
+                img: strik2,
+            },
+            {
+                id: 3,
+                name: 'Thac Ba Lake - The emerald of Yen Bai',
+                img: strik3,
+            },
+        ]
+    },
+    {
+        id: 3,
+        name: 'TIMELESS CULTURE',
+        srcImg: timelculture,
+        description: [
+            `In a country like Vietnam, the word ‘culture’ has a thousand meanings. It might mean the red and gold gilded doors of the Hue Citadel, or the tin-filter drip coffee served on every street corner. It might mean the sensitive watercolours hanging in a contemporary gallery, or the throaty cry of Ca Trù sung poetry. It could even encompass the embroidered costumes of the Flower Hmong, or the subtle lines of the áo dài. Past and present, hand-in-hand, are what makes Vietnamese culture so compelling.`,
+        ],
+        elements: [
+            {
+                id: 1,
+                name: 'Sacred Night - Unbroken Vietnamese Spirit: A Prisoner’ life at Hoa Lo',
+                img: timels1,
+            },
+            {
+                id: 2,
+                name: 'Big News! Vietnam approves extending e-visas to 90 days',
+                img: timels2,
+            },
+            {
+                id: 3,
+                name: 'Moc Chau: Your One-Stop Nature Escape',
+                img: timels3,
+            },
+        ]
+    },
+    {
+        id: 4,
+        name: 'CHANGING CITIES',
+        srcImg: citis,
+        description: [
+            `Spend a few days in its urban centres, and you'll see why so many travellers are taken with Vietnam's captivating energy. In the streets and you'll encounter chaotic markets and colonial-era cafes, sparkling malls, hip rooftop lounges, and tidy boutiques. At least once in your stay, do as the locals do and enjoy an evening of barbecue and beer on the sidewalk, or chat over a cup of tea in the shade of a city park.`,
+
+        ],
+        elements: [
+            {
+                id: 1,
+                name: `Hoi An's Top 5 Most Instagrammable Spots`,
+                img: cities1,
+            },
+            {
+                id: 2,
+                name: 'Shopping in Hanoi - Markets and Malls',
+                img: cities2,
+            },
+            {
+                id: 3,
+                name: 'Guided tours to take before, during, or after the SEA Games',
+                img: cities3,
+            },
+        ]
+    },
+    {
+        id: 5,
+        name: 'BLISSFUL BEACHES',
+        srcImg: beach,
+        description: [
+            `Vietnam is a country with a long, curving coastline. Scattered offshore are dozens of beautiful islets, teeming with sea life and blessed with pristine shores. Vietnam’s coastal cities are packed with activities and on-the-water adventures, while its fishing villages still hold their simple, seaside charms. Wherever you choose, chilled coconuts, basket boats, and seafood dinners are guaranteed.`,
+
+        ],
+        elements: [
+            {
+                id: 1,
+                name: 'Sunset in Phu Quoc ',
+                img: beach1,
+            },
+            {
+                id: 2,
+                name: 'Phu Quoc Island: A Laid back, Leisure Getaway ',
+                img: beach2,
+            },
+            {
+                id: 3,
+                name: '5 ways to enjoy Vung Tau as a family',
+                img: beach3,
+            },
+        ]
+    },
+]
