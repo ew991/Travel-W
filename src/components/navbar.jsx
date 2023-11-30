@@ -9,7 +9,9 @@ const Textnav = styled.a`
     font-size: 19px;
     letter-spacing: 0.3px;
     font-weight: 500;
+    text-shadow: 2px 2px 2px rgba(0,0,0,.75);
     &:hover{
+        text-shadow: none;
         color: #227C70;
     }
     cursor: pointer;

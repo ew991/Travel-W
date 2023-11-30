@@ -10,6 +10,7 @@ const TextSpotLight = styled.div`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-shadow: 2px 2px 2px rgba(0,0,0,.75);
 `;
 
 const SingelInspired = () => {

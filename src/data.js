@@ -342,7 +342,7 @@ import citis from './assets/img/ThingToDo/cities.jpg';
 import beach from './assets/img/ThingToDo/beaches.jpg';
 
 
-/////////thingtodo/foood
+/////////thingtodo/efo
 import food1 from './assets/img/ThingToDo/food/bun-ca-ha-noi-3_1686916683_0.jpg';
 import food2 from './assets/img/ThingToDo/food/pho bo_0.jpg';
 import food3 from './assets/img/ThingToDo/food/100319-book-in-hands_0.png';
@@ -359,6 +359,124 @@ import beach1 from './assets/img/ThingToDo/exfol/281-Kiên Giang-quangtuyen8018@
 import beach2 from './assets/img/ThingToDo/exfol/shutterstock_650536411_0.jpg';
 import beach3 from './assets/img/ThingToDo/exfol/Vung Tau holiday ideas-2.jpg';
 
+/////////thingtodo/efo/1
+import efo1_1 from './assets/img/ThingToDo/exfol/1/vogue5.jpg';
+import efo1_2 from './assets/img/ThingToDo/exfol/1/bun-oc-ha-noi-3_1680710757.jpg';
+import efo1_3 from './assets/img/ThingToDo/exfol/1/lau3.jpg';
+import efo1_4 from './assets/img/ThingToDo/exfol/1/bun-ca-ha-noi-3_1686916683.jpg';
+import efo1_5 from './assets/img/ThingToDo/exfol/1/mien-luon-ngon-ha-noi-12.jpg';
+import efo1_6 from './assets/img/ThingToDo/exfol/1/banh-da-tron-ha-noi-1_1691139297.jpg';
+import efo1_7 from './assets/img/ThingToDo/exfol/1/banh-tom-ho-tay-1_1674606357.jpeg';
+import efo1_8 from './assets/img/ThingToDo/exfol/1/banh-goi-ha-noi 6_1683991959.jpg';
+import efo1_9 from './assets/img/ThingToDo/exfol/1/gatan.jpg';
+import efo1_10 from './assets/img/ThingToDo/exfol/1/1200-1200x676-93.jpg';
+import efo1_11 from './assets/img/ThingToDo/exfol/1/che-thap-cam-23_1631870868.jpg';
+
+/////////thingtodo/efo/2
+import efo2_1 from './assets/img/ThingToDo/exfol/2/pho bo.jpg';
+import efo2_2 from './assets/img/ThingToDo/exfol/2/bun-cha-ha-noi-01.jpg';
+import efo2_3 from './assets/img/ThingToDo/exfol/2/mi quang.jpg';
+import efo2_4 from './assets/img/ThingToDo/exfol/2/bun-bo-hue-14_1628648639_vipearl.jpg';
+import efo2_5 from './assets/img/ThingToDo/exfol/2/banh canh cua.jpg';
+
+/////////thingtodo/efo/3
+import efo3_1 from './assets/img/ThingToDo/exfol/3/shutterstock_1874517850_1.jpg';
+import efo3_2 from './assets/img/ThingToDo/exfol/3/100319-book-in-hands_0.png';
+
+/////////thingtodo/efo/4
+import efo4_1 from './assets/img/ThingToDo/exfol/4/shutterstock_1218765286.jpg';
+import efo4_2 from './assets/img/ThingToDo/exfol/4/shutterstock_1218764578.jpg';
+import efo4_3 from './assets/img/ThingToDo/exfol/4/Capella-cruise-banner.jpg';
+import efo4_4 from './assets/img/ThingToDo/exfol/4/Serenity-Cruises-in-night.jpg';
+
+/////////thingtodo/efo/5
+import efo5_1 from './assets/img/ThingToDo/exfol/5/shutterstock_303245771.jpg';
+import efo5_2 from './assets/img/ThingToDo/exfol/5/shutterstock_337356194.jpg';
+import efo5_3 from './assets/img/ThingToDo/exfol/5/shutterstock_1712757295.jpg';
+import efo5_4 from './assets/img/ThingToDo/exfol/5/shutterstock_1719785668.jpg';
+import efo5_5 from './assets/img/ThingToDo/exfol/5/shutterstock_1041373195.jpg';
+import efo5_6 from './assets/img/ThingToDo/exfol/5/shutterstock_1910003098.jpg';
+import efo5_7 from './assets/img/ThingToDo/exfol/5/shutterstock_283983629.jpg';
+import efo5_8 from './assets/img/ThingToDo/exfol/5/shutterstock_1495322996.jpg';
+import efo5_9 from './assets/img/ThingToDo/exfol/5/shutterstock_1305566977.jpg';
+import efo5_10 from './assets/img/ThingToDo/exfol/5/shutterstock_1471323158.jpg';
+
+/////////thingtodo/efo/6
+import efo6_1 from './assets/img/ThingToDo/exfol/6/188-Yên Bái-namhn1962@gmail.com-ve dep thac ba.jpg';
+
+/////////thingtodo/efo/7
+import efo7_1 from './assets/img/ThingToDo/exfol/7/hn5.png';
+import efo7_2 from './assets/img/ThingToDo/exfol/7/316107533_1077676276201255_3274535126941273775_n.jpeg';
+import efo7_3 from './assets/img/ThingToDo/exfol/7/315888845_1077676302867919_2007386725192464108_n.jpeg';
+import efo7_4 from './assets/img/ThingToDo/exfol/7/315438487_1077676526201230_8268377341282268030_n.jpeg';
+import efo7_5 from './assets/img/ThingToDo/exfol/7/297695561_1009091426393074_6241233838780591692_n.jpeg';
+import efo7_6 from './assets/img/ThingToDo/exfol/7/295268942_998274840808066_6426150883935564472_n.jpeg';
+import efo7_7 from './assets/img/ThingToDo/exfol/7/e5971ebf508788d9d196.jpg';
+
+/////////thingtodo/efo/8
+import efo8_1 from './assets/img/ThingToDo/exfol/8/303-Ninh Bình-nguyentungduong1987@gmail.com-nhung vi khach quoc te (1).jpg';
+
+/////////thingtodo/efo/9
+import efo9_1 from './assets/img/ThingToDo/exfol/9/shutterstock_167856188.jpg';
+import efo9_2 from './assets/img/ThingToDo/exfol/9/shutterstock_1473883487.jpg';
+import efo9_3 from './assets/img/ThingToDo/exfol/9/shutterstock_1341749009.jpg';
+import efo9_4 from './assets/img/ThingToDo/exfol/9/shutterstock_2224258965.jpg';
+import efo9_5 from './assets/img/ThingToDo/exfol/9/dinh-pha-luong-cao-bao-nhieu-10.jpg';
+import efo9_6 from './assets/img/ThingToDo/exfol/9/hang-doi-moc-chau-2-1536x864.jpg';
+import efo9_7 from './assets/img/ThingToDo/exfol/9/kinh-nghiem-du-lich-rung-thong-ban-ang-2.jpg';
+import efo9_8 from './assets/img/ThingToDo/exfol/9/shutterstock_2164332411_0.jpg';
+import efo9_9 from './assets/img/ThingToDo/exfol/9/shutterstock_531607204.jpg';
+
+/////////thingtodo/efo/10
+import efo10_1 from './assets/img/ThingToDo/exfol/10/shutterstock_1007728660_resize.jpg';
+import efo10_2 from './assets/img/ThingToDo/exfol/10/shutterstock_1506184586_resize_0.jpg';
+import efo10_3 from './assets/img/ThingToDo/exfol/10/shutterstock_2055104366.jpg';
+import efo10_4 from './assets/img/ThingToDo/exfol/10/shutterstock_1273433461_resize.jpg';
+
+/////////thingtodo/efo/11
+import efo11_1 from './assets/img/ThingToDo/exfol/11/Hang-Gai-Street.jpeg';
+import efo11_2 from './assets/img/ThingToDo/exfol/11/shutterstock_331906727.jpg';
+import efo11_3 from './assets/img/ThingToDo/exfol/11/shutterstock_1234672294.jpg';
+import efo11_4 from './assets/img/ThingToDo/exfol/11/241226819_4741587422540820_3492684271021238592_n_0.jpeg';
+import efo11_5 from './assets/img/ThingToDo/exfol/11/45467638_1059116814261323_6904457771417075712_n.jpeg';
+import efo11_6 from './assets/img/ThingToDo/exfol/11/tired-city-bao-khanh.jpeg';
+import efo11_7 from './assets/img/ThingToDo/exfol/11/Hinh-anh-cac-thuong-hieu-o-Vincom-Ba-Trieu-so-1_1632322535.jpeg';
+import efo11_8 from './assets/img/ThingToDo/exfol/11/cong-vien-nuoc-royal-city.jpeg';
+
+/////////thingtodo/efo/12
+import efo12_1 from './assets/img/ThingToDo/exfol/12/shutterstock_576109399.jpg';
+import efo12_2 from './assets/img/ThingToDo/exfol/12/shutterstock_1336544783.jpg';
+import efo12_3 from './assets/img/ThingToDo/exfol/12/shutterstock_749781001.jpg';
+import efo12_4 from './assets/img/ThingToDo/exfol/12/shutterstock_1922032619.jpg';
+import efo12_5 from './assets/img/ThingToDo/exfol/12/shutterstock_1096062560.jpg';
+import efo12_6 from './assets/img/ThingToDo/exfol/12/shutterstock_562038733.jpg';
+import efo12_7 from './assets/img/ThingToDo/exfol/12/shutterstock_521781394.jpg';
+import efo12_8 from './assets/img/ThingToDo/exfol/12/shutterstock_166705652.jpg';
+import efo12_9 from './assets/img/ThingToDo/exfol/12/shutterstock_1277786407.jpg';
+import efo12_10 from './assets/img/ThingToDo/exfol/12/shutterstock_363488357.jpg';
+import efo12_11 from './assets/img/ThingToDo/exfol/12/shutterstock_664435132.jpg';
+
+/////////thingtodo/efo/13
+import efo13_1 from './assets/img/ThingToDo/exfol/13/6Z3A1674_resize.jpg';
+import efo13_2 from './assets/img/ThingToDo/exfol/13/IMG 942_resize.jpg';
+import efo13_3 from './assets/img/ThingToDo/exfol/13/IMG 595_resize.jpg';
+import efo13_4 from './assets/img/ThingToDo/exfol/13/where-to-stay-at-an-thoi-islands-raredelights.jpg';
+
+/////////thingtodo/efo/14
+import efo14_1 from './assets/img/ThingToDo/exfol/14/du-lich-phu-quoc-thang-10-.jpeg';
+import efo14_2 from './assets/img/ThingToDo/exfol/14/shutterstock_650536411.jpg';
+import efo14_3 from './assets/img/ThingToDo/exfol/14/shutterstock_65696410.jpg';
+import efo14_4 from './assets/img/ThingToDo/exfol/14/shutterstock_1659992902.jpg';
+import efo14_5 from './assets/img/ThingToDo/exfol/14/shutterstock_1153572613.jpg';
+import efo14_6 from './assets/img/ThingToDo/exfol/14/23164076_154641118478369_4628768615192068096_n-1.jpeg';
+import efo14_7 from './assets/img/ThingToDo/exfol/14/gio-mo-cua-bao-tang-coi-nguon.jpeg';
+
+/////////thingtodo/efo/15
+import efo15_1 from './assets/img/ThingToDo/exfol/15/things to do Vung Tau families-2.jpg';
+import efo15_2 from './assets/img/ThingToDo/exfol/15/vung tau family activities.jpg';
+import efo15_3 from './assets/img/ThingToDo/exfol/15/things to do Vung Tau families-5.jpg';
+import efo15_4 from './assets/img/ThingToDo/exfol/15/vung tau holiday ideas (2).jpg';
+import efo15_5 from './assets/img/ThingToDo/exfol/15/things to do Vung Tau families-3.jpg';
 
 
 export const placesToGo = [
@@ -2605,7 +2723,6 @@ export const practicalities = [
             `HSBC: 5 million VND,`,
             `Commonwealth: 10 million VND`,
 
-
         ],
 
     },
@@ -2621,8 +2738,6 @@ export const practicalities = [
             `Vietnam has modern, efficient taxi services to help you get around. To avoid scams and haggling, we recommend sticking with the reputable Vinasun and Mai Linh taxis only. There are plenty of these taxis in Vietnam’s tourism destinations. Other taxi companies you can take are Hanoi Taxi Group and SaigonTourist. `,
             `Whichever taxi company you take, always ask to use the metre. In most cities, you can also use call the operator numbers for Vinasun or Mai Linh taxis for a pickup from your location. `,
             `Ride-sharing applications such as Grab are also available for cars and motorbikes in Vietnam's main cities. You will need a local SIM card to use these apps. Click here for more information about transport in Vietnam.`,
-
-
 
         ],
 
@@ -2640,7 +2755,6 @@ export const practicalities = [
             `You can find a full list of public holidays in Vietnam here, and a round-up of Vietnam’s best festivals here.`,
             `Government agencies work eight hours a day from 8am to 5pm, with a one-hour lunch break. Working days are from Monday to Friday. `,
             `Most banks in Vietnam open from 7:30am or 8am to 4:30pm, with a break for lunch. Some banks are open on Saturday mornings from 8am to 11:30pm.`,
-
 
         ],
 
@@ -2744,7 +2858,6 @@ export const practicalities = [
             `Embassies and consulates of foreign countries in Vietnam can be found in the cities of Hanoi and Ho Chi Minh. For easy reference, below is a link list of embassies in Vietnam and Vietnamese embassies abroad.`,
             `https://s.net.vn/gGLw`,
 
-
         ],
 
     },
@@ -2803,16 +2916,19 @@ export const thingtodoP = [
         elements: [
             {
                 id: 1,
+                route: 'Ha-Noi-Food-Guide',
                 name: 'Ha Noi Food Guide: The best street food dishes to sample ',
                 img: food1,
             },
             {
                 id: 2,
+                route: 'Must-try-noodles-in-Vietnam',
                 name: 'Must-try noodles in Vietnam ',
                 img: food2,
             },
             {
                 id: 3,
+                route: 'The-first-Michelin-Guide',
                 name: 'The first Michelin Guide restaurants to be revealed on 6 June ',
                 img: food3,
             },
@@ -2830,16 +2946,19 @@ export const thingtodoP = [
         elements: [
             {
                 id: 1,
+                route: 'Explore-the-Bay-of-Dragons',
                 name: 'Explore the Bay of Dragons on a Halong Bay cruise',
                 img: strik1,
             },
             {
                 id: 2,
+                route: 'A-World-of-Water-Based-Wonders',
                 name: 'A World of Water-Based Wonders',
                 img: strik2,
             },
             {
                 id: 3,
+                route: 'Thac-Ba-Lake-The-emerald-of-Yen-Bai',
                 name: 'Thac Ba Lake - The emerald of Yen Bai',
                 img: strik3,
             },
@@ -2855,16 +2974,19 @@ export const thingtodoP = [
         elements: [
             {
                 id: 1,
+                route: 'Sacred-Night-Unbroken-Vietnamese-Spirit:-A-Prisoner’-life-at-Hoa-Lo',
                 name: 'Sacred Night - Unbroken Vietnamese Spirit: A Prisoner’ life at Hoa Lo',
                 img: timels1,
             },
             {
                 id: 2,
+                route: 'Big-News!-Vietnam-approves-extending-e-visas-to-90-days',
                 name: 'Big News! Vietnam approves extending e-visas to 90 days',
                 img: timels2,
             },
             {
                 id: 3,
+                route: 'Moc-Chau:-Your-One-Stop-Nature-Escape',
                 name: 'Moc Chau: Your One-Stop Nature Escape',
                 img: timels3,
             },
@@ -2881,16 +3003,19 @@ export const thingtodoP = [
         elements: [
             {
                 id: 1,
+                route: `Hoi-An's-Top-5-Most-Instagrammable-Spots`,
                 name: `Hoi An's Top 5 Most Instagrammable Spots`,
                 img: cities1,
             },
             {
                 id: 2,
+                route: 'Shopping-in-Hanoi-Markets-and-Malls',
                 name: 'Shopping in Hanoi - Markets and Malls',
                 img: cities2,
             },
             {
                 id: 3,
+                route: 'Guided-tours-to-take-before,-during,-or-after-the-SEA-Games',
                 name: 'Guided tours to take before, during, or after the SEA Games',
                 img: cities3,
             },
@@ -2907,19 +3032,1100 @@ export const thingtodoP = [
         elements: [
             {
                 id: 1,
-                name: 'Sunset in Phu Quoc ',
+                route: 'Sunset-in-Phu-Quoc',
+                name: 'Sunset in Phu Quoc',
                 img: beach1,
             },
             {
                 id: 2,
+                route: 'Phu-Quoc-Island:-A-Laid-back,-Leisure-Getaway',
                 name: 'Phu Quoc Island: A Laid back, Leisure Getaway ',
                 img: beach2,
             },
             {
                 id: 3,
+                route: '5-ways-to-enjoy-Vung-Tau-as-a-family',
                 name: '5 ways to enjoy Vung Tau as a family',
                 img: beach3,
             },
+        ]
+    },
+]
+export const ThingtodoElm = [
+    {
+        id: 1,
+        route: 'Ha-Noi-Food-Guide',
+        name: 'Ha Noi Food Guide: The best street food dishes to sample ',
+        img: food1,
+        intro: 'Vietnamese food is highly regional. Although some of the Vietnamese food in Ha Noi may also be found in other cities, many dishes remain unique to the capital. Vietnamese is becoming one of the all-time favourites of worldwide food lovers. No need for fancy dresses with the requirement of standard etiquette at luxury restaurants, everything to eat in Ha Noi has been shown on the street, in every corner of the city, with the friendly and warm smile of the people. All you need to prepare is a loving stomach and a little bit of adventure.',
+        infor: [
+            {
+                id: 1,
+                title: 'Bánh cuốn (Steamed rice rolls)',
+                description: ['One of the traditional breakfasts in the capital city of Vietnam, Ha Noi, is Bánh cuốn. There are some versions of this dish, one with minced pork (banh cuon nhan thit), mushroom, eggs or mix. Bánh cuốn is usually served with fried shallot, sweet and sour fish sauce (nuoc mam chua ngot), a variety of fresh herbs, and lime-based sauce on the side.',
+                ],
+                srcimg: efo1_1,
+            },
+            {
+                id: 2,
+                title: 'Bún Ốc (Snail rice vermicelli soup)',
+                description: ['Snail rice vermicelli soup is one of Hanoi’s classic comfort foods. A standard bowl comes with rice vermicelli (bún), other toppings include beef and crab meat, and a heaping plate of herbs that accompany most Vietnamese dishes. Key ingredients in the broth are tomatoes, wine vinegar, and pepper, giving it a nice kick.',
+                ],
+                srcimg: efo1_2,
+            },
+            {
+                id: 3,
+                title: 'Lẩu (Vietnamese hot-pot)',
+                description: ['Gather around the bubbling pot and drop in a huge amount of fresh vegetables, meat and seafood to your liking. It might seem intimidating at first, yet hot pot is the truest way to experience street food life in the city. Who knows, you might make some new friends during your cheering beer session.',
+                ],
+                srcimg: efo1_3,
+            },
+            {
+                id: 4,
+                title: 'Bún cá (Fish rice vermicelli soup)',
+                description: [
+                    `This dish is commonly enjoyed at lunch. One of the soups uses bún (rice vermicelli) with fried fish pieces. The broth is prepared with green vegetables often including a variant of 'morning glory' - a popular vegetable commonly stir-fried or boiled. A combination of aromatic herbs, including cilantro and dill, make the taste unique.`,
+                ],
+                srcimg: efo1_4,
+            },
+            {
+                id: 5,
+                title: 'Miến xào lươn (Stir-fried glass noodles with eel)',
+                description: ['It is an uncommon ingredient in everyday meals but worth trying. Crispy eel is mixed with stir-fried glass noodles, egg, and bean sprouts. Other options include mien tron (noodles tossed with eel, cucumber, and herbs) and chao luon (eel porridge).',
+                ],
+                srcimg: efo1_5,
+            },
+            {
+                id: 6,
+                title: 'Bánh đa trộn (Mixed flat rice noodles)',
+                description: ['Taking a leisure walk along the Old Quarter area, you will encounter a woman on the side of the street with a carrying pole and two baskets: one holds a steaming pot and the other is filled with raw ingredients. These two baskets carry one of Ha Noi’s specialties - Banh da tron. Thick, flat noodles topped with sausage, fried fish cakes, tofu, peanuts and leafy vegetables. Thin glass noodles called mien are another option. The taste of this unique local food will probably awe every diner.',
+                ],
+                srcimg: efo1_6,
+            },
+            {
+                id: 7,
+                title: 'Bánh tôm (Ha Noi shrimp cakes)',
+                description: ['These snacks are originally from Ho Tay, the West Lake area from shrimps caught locally. Banh tom is made from battered sweet potatoes and prawns, with sweet and sour fish sauce and papaya on the side. You can order a glass of iced soy milk to wash down the grease of oil.',
+                ],
+                srcimg: efo1_7,
+            },
+            {
+                id: 8,
+                title: 'Bánh gối (Crispy “pillow” cake)',
+                description: ['Another battery snack for the active afternoon to explore Ha Noi, banh goi - a pillow shaped pastry holding minced pork, black fungus, vermicelli noodles and a quail egg. For more fried goodies, ha cao (fried dumpling), Pho mai que (fried cheese stick) and nem chua ran (fried fermented sausage) are also sold along with banh goi.',
+                ],
+                srcimg: efo1_8,
+            },
+            {
+                id: 9,
+                title: 'Mỳ gà tần (herbal braised chicken noodles)',
+                description: [`Some of you might find this dish a bit “weird” but intimidating. The dish is hearty and fulfilling with braised chicken and egg noodles. Diners have two options: the 'regular' chicken, or a miniature (and slightly more expensive) black chicken, named for its black skin.
+                The chickens are stuffed into empty soda and beer cans with aromatic herbs including mugwort. The cans are placed over heat, allowing the meat to soak up the flavours while it simmers. Egg noodles (mỳ trứng) are added to the stew.`,
+                ],
+                srcimg: efo1_9,
+            },
+            {
+                id: 10,
+                title: 'Bánh đúc nóng (Vietnamese hot steamed rice cake)',
+                description: ['Coming to Ha Noi in the days of winter, don’t forget to have a bowl of hot Banh duc - a steamed rice cake made from plain rice and tapioca flour, this dish is processed in a sophisticated and meticulous manner, to cook and stir the ingredients with reasonable consistency and flexibility. The filling includes black fungus, meat, fried shallots, and is served with chilli garlic fish sauce and herbs. The hot, soft, delicious banh duc, fragrant with onions and meat, are always the ideal choice for an afternoon snack on a cold day.',
+                ],
+                srcimg: efo1_10,
+            },
+            {
+                id: 11,
+                title: 'Chè (Colourful sweet  dessert soup)',
+                description: ['There’s always empty places for desserts. Something sweet and fragrant with fruits and flowers are the best to finish off a cuisine exploration day in Ha Noi. Che - a “sweet soup” made of layers including red bean and mung bean pastes, glutinous rice balls in starch and herbal jelly cubes, topped with syrup and coconut shreds. The mixed che thap cam with the town-famous jasmine syrup is highly recommended.',
+                ],
+                srcimg: efo1_11,
+            },
+
+        ]
+    },
+    {
+        id: 2,
+        route: 'Must-try-noodles-in-Vietnam',
+        name: 'Must-try noodles in Vietnam ',
+        img: food2,
+        intro: 'Vietnam is a rising star in the world’s tourism map not only for its amazing natural landscape, great heritage values, but also its excellent food. Being a cradle of wet rice culture, rice is the ionic symbol and an irreplaceable food in Vietnamese’s daily life. From rice, people can create tons of delicious feast. And one of the delicacies that is made from this magical food is noodles. The transparency and chewy texture of the noodles have captured many hearts and become one of their favs once they are in Vietnam.',
+        infor: [
+            {
+                id: 1,
+                title: 'Phở',
+                description: ['It’s obvious, Phở is in no.1 in the list since it has been the most famous noodle soup dish of Vietnam. It’s warm, tasty, flavourful and above all, it contains all the quintessence of Vietnamese gastronomy. ',
+                    `Vietnamese Phở is a noodle soup made with rice noodles, beef or chicken clear broth, and various herbs and spices. For the most savoury flavour broth, beef or chicken will simmer in a noodle soup for many hours along with dried spices such as cinnamon, star anise, cloves, cardamom, and coriander. Then, slices of beef or chicken, lime wedges, and fresh herbs, including cilantro, basil, and mint, will frequently be added to the bowl of phở.`,
+                    `Vietnamese people often have Phở as breakfast, it is a truly simple but great food to start your day. `
+                ],
+                srcimg: efo2_1,
+            },
+            {
+                id: 2,
+                title: 'Grilled Pork Meatballs with Vermicelli Noodles (Bún chả)',
+                description: [`Fragrant and greasy grilled pork, served with soft vermicelli, herbs such as mint and coriander, and a rich dipping sauce (also known as nước chấm) creating a blend of texture and flavour that makes diners crave for more. Bún chả is a real delight for both locals and international visitors looking for an authentic Vietnamese dining experience. Bún chả holds cultural significance as a symbol of Ha Noi's vibrant street food culture and the spirit of communal dining in Vietnam. Visitors can enjoy Bún chả with Crab spring rolls (Nem cua bể) - a perfect accompaniment to bún chả, will be a great extra added to this flavourful dish. Crispy, greasy fried spring rolls, in the filling are full with attractive pieces of white crab meat.`,
+                ],
+                srcimg: efo2_2,
+            },
+            {
+                id: 3,
+                title: 'Quang-Style Noodles (Mì Quảng)',
+                description: ['Rice noodle dishes appear in all of Vietnam. Quang noodle bowl is a famous one that originates in Central Vietnam. This Vietnamese classic consists of a combination of flat yellow or white rice noodles that are served with a small amount of flavorful meat broth and crispy fresh vegetables and herbs such as banana blossoms, lettuce, cilantro, scallions, and Vietnamese coriander.',
+                    'The dish is incredibly versatile and usually comes topped with pork belly, chicken, shrimps, fish, boiled eggs, roasted peanuts.',
+                ],
+                srcimg: efo2_3,
+            },
+            {
+                id: 4,
+                title: 'Bún Bò Huế (Hue Spicy beef noodle soup)',
+                description: [
+                    `Hue - a city in Central Vietnam, used to be the seat of Nguyen Dynasty emperors and once the national capital. The city is famous for its unique cuisine inherited from royal families. Bún bò Huế consists of pork and beef bones broth, bun (vermicelli), lemongrass, shrimp paste, lime juice, and a variety of herbs. It is a spicy soup dish and its flavour is often described as rich and complex. You might find some slight variations of Bún bò Huế but the usual additions will have sliced brisket or crab meat balls.`,
+                ],
+                srcimg: efo2_4,
+            },
+            {
+                id: 5,
+                title: 'Bánh canh (Vietnamese Thick Noodle Soup)',
+                description: ['The thick noodles are made from tapioca or rice flour, while the soup is prepared with different kinds of ingredients such as pork trotters (bánh canh giò heo), snakehead fish (bánh canh cá lóc), or crab (bánh canh cua). You will find the noodle soup is thicker than other Vietnamese noodle soups and the noodles are also chewier. The liquid is more similar to a gravy than a brothy soup. The base is typically made from pork bones or sometimes chicken.',
+                    'This dish is a typical snack of Southern people. You can find Bánh canh in any corner of the street in Ho Chi Minh City.',
+                    'Other noodle dishes include Cao Lau of Hoi An, Bun mam, Bun quay of Phu Quoc...',
+                ],
+                srcimg: efo2_5,
+            },
+        ]
+    },
+    {
+        id: 3,
+        route: 'The-first-Michelin-Guide',
+        name: 'The first Michelin Guide restaurants to be revealed on 6 June ',
+        img: food3,
+        intro: 'The MICHELIN Guide is set to host the inaugural edition of the MICHELIN Guide Ceremony Hanoi & Ho Chi Minh City in the capital of Vietnam, Hanoi, on Tuesday 6 June 2023. The MICHELIN Guide Ceremony is revealing the full selection of restaurants through a physical ceremony held in Hanoi. The event promises to be a celebration of Hanoi and Ho Chi Minh City gastronomic scenes, with renowned chefs, restaurateurs, media and food enthusiasts in attendance',
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: ['“We have been looking at Vietnam’s gastronomic scene for quite a long time and we are delighted to finally announce the first ever restaurant selection of the MICHELIN Guide for Hanoi and Ho Chi Minh City,” said Gwendal Poullennec, International Director of the MICHELIN Guide. “Ho Chi Minh City is not only the largest city of Vietnam, but also a bustling and rapid growing one, whose gastronomic scene is not only vibrant, but also full of energy and opportunities. With no limitation to culinary origins, scale, and cuisine type, this city is not short from outstanding flavour and memorable dining experience. On the other hand, Hanoi offers a very laid back, relaxing vibe, with small shops and restaurants found mostly in the Old Quarter of the city. Our inspectors have been delighted to discover many hidden gems, that present authentic cooking with expressive flavour.”',
+
+                ],
+                srcimg: efo3_1,
+            },
+            {
+                id: 2,
+                title: '',
+                description: [`The MICHELIN Guide debut in Vietnam is supported by Sun Group, a conglomerate whose mission is to promote and preserve Vietnam’s unique beauty and culture, since its creation in 2007. Mr. Dang Minh Truong, Chairman of Sun Group said: “The inaugural edition of the MICHELIN Guide Hanoi & Ho Chi Minh City marks a significant milestone for the Vietnamese culinary scene. Through this opportunity, we hope to recognize the dedication and hard work of the destination’s top chefs and restaurants, and to celebrate the diversity and complexity of Vietnamese cuisine. We believe that the MICHELIN Guide will inspire and drive innovation and excellence in the industry, and I am excited to see how it will shape the culinary landscape in Vietnam in the years to come. With the first edition of the MICHELIN Guide in Vietnam, we hope that this will promote international tourism, and spread the love for the delicious local cuisine that both Hanoi and Ho Chi Minh City has to offer.”`,
+                    'The MICHELIN Guide conveys its restaurant reviews through an extensive system of distinctions, the most famous of which are its globally renowned MICHELIN Stars awarded to the best culinary experiences within the Guide’s restaurant selection. Alongside the coveted Star ratings, the selection will also include the popular Bib Gourmand category, a distinction awarded to restaurants that provide the best value-for-money meals.',
+                    'All establishments are chosen by the anonymous inspectors of the MICHELIN Guide following multiple tests and according to the same five criteria used around the world: quality of the ingredients; mastery of cooking techniques; the harmony of the flavours; expression of the chef’s personality in the cuisine; and consistency, both over time and across the entire menu. Location, décor, service and available facilities are not part of the selection criteria, even if they might be highlighted if of particular interest.',
+                    `The full selection will be available exclusively in digital format on all the MICHELIN Guide's official platforms: website, mobile application, and social networks.`,
+                ],
+                srcimg: efo3_2,
+            },
+        ]
+    },
+    {
+        id: 4,
+        route: 'Explore-the-Bay-of-Dragons',
+        name: 'Explore the Bay of Dragons on a Halong Bay cruise',
+        img: strik1,
+        intro: 'Halong Bay is the sparkling emerald in the crown of Vietnam’s tourism. If you’ve cruised in this world-famous bay, you’ll understand why it’s a top attraction.',
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    `The otherworldly bay is about a two-hour drive from Hanoi – perfect for travellers wanting a break from the bustling capital. It’s 1,553 km², stretches along 120 km of coastline and includes a plethora of islets. So, plenty to explore. `,
+                    'The UNESCO World Heritage Site has won heaps of accolades. Recently, CNN placed it on their 2023 list of “25 of the world’s most beautiful places”, saying: “With 1,969 islets of hulking limestone and deep, green waters that are home to myriad floating villages, this is a place where time slows to a standstill”.',
+
+
+                ],
+                srcimg: efo4_1,
+            },
+            {
+                id: 2,
+                title: 'Bay of dragons and natural riches',
+                description: [
+
+                    '“Halong” translates to “descending dragon”. These are the giant limestone karsts standing like sentries, of which the core of the Bac Bo Gulf has an area of 335 km² with a density of 775 islands.',
+                    `Halong Bay has a rich archaeological history and impressive biodiversity. Ancient civilisations are believed to have lived here as far back as 3,500-5,000 years ago. Its natural ecosystems include over 1,000 plant species, 232 species of coral and 91 types of seaweed. Wildlife includes deer, bats, squirrels, eagles, monkeys and langurs.                    `,
+
+                ],
+                srcimg: efo4_2,
+            },
+            {
+                id: 3,
+                title: 'Why take a Halong Bay cruise?',
+                description: [
+
+                    'Be awed by the towering limestone cliffs covered in verdant greenery, which formed around three million years ago. Gliding between these ethereal peaks is truly magical. ',
+                    `Overnight on a cruise to appreciate the unique landscape throughout the day. US magazine Travel+Leisure named this as one of Asia's most stunning places for sunrise and sunset. `,
+                    'Popular activities include islet hopping by kayak; exploring caves and beaches; doing a cooking class; sunrise yoga; and squid fishing.',
+
+                ],
+                srcimg: efo4_3,
+            },
+            {
+                id: 4,
+                title: 'Cruises to consider',
+                description: [
+
+                    'With so many options, choosing a cruise can be overwhelming, from luxury, mid-range to budget cruises. While itineraries differ, normally, cruises offer a 3-day 2-night or 2-day 1-night or a full day cruising,  popular tourist attractions include Trong Mai and Dinh Huong Islets, Dark and Bright, Sung Sot, Thien Cung, Dau Go caves, Ba Trai Dao Beach and Viet Hai fishing village. Cruises operate year round, but the best times are between March and April, and September to November. Prices vary according to the season, boat, and how you book. You can use an agent, book directly on the boats’ websites, or use booking sites.',
+                    'While cruising, full services are offered on luxury ones such as swimming pool; spa treatments; minigolf and yoga sessions... Common services like Tai Chi sessions and cooking class are offered in most of cruises.',
+
+                ],
+                srcimg: efo4_4,
+            },
+        ]
+    },
+    {
+        id: 5,
+        route: 'A-World-of-Water-Based-Wonders',
+        name: 'A World of Water-Based Wonders',
+        img: strik2,
+        intro: 'The south of Vietnam seems like a water-based wonderland. From the ocean’s beaches and islands, to its mountains, waterfalls and streams, to the majesty of the Mekong Delta. Here are a few gems for your consideration:',
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    `Nha Trang is a beachcomber’s paradise, also the capital of Khanh Hoa Province, located on the South Central Coast of Vietnam. You can spend an entire vacation beach-hopping. You’ll find fulfillment and a new location every day. Here are a few suggestions:`,
+                    'Bai Doc Let, about 49 km from Nha Trang to the South, is a paradise of white sand, dunes, turquoise water and palm thatched beach umbrellas. Bai Doc Let is 8 kilometers of swimming, snorkeling, parasailing and jet skiing. Boat rentals are available for exploring the nearby fishing villages or discovering the wonders of the small islands. You can rent a tent and campout overnight or opt for the creature comforts of the numerous lodgings provided (from modest to resort).',
+
+                ],
+                srcimg: efo5_1,
+            },
+            {
+                id: 2,
+                title: '',
+                description: [
+
+                    'Ninh Van Bay is an alluring little cutout about 60 km from Nha Trang by road. The quickest way to reach the bay is via speedboat from Nha Trang which takes about 20 minutes to reach the bay. The bay itself is tranquility personified—coral reefs, exotic sea life, palm trees and white sands.',
+                    `A couple of fabulous spas and retreats are available to enrich the experience or you can find a simple homestay. Ninh Van Bay is a place to escape the hubbub and immerse in blissful relaxation.`,
+
+                ],
+                srcimg: efo5_2,
+            },
+            {
+                id: 3,
+                title: '',
+                description: [
+
+                    'Hon Tre (Bamboo Island), located 5 kilometers east of Nha Trang’s city center, is accessible by either speedboat, ferry or aerial cable car. The island juxtaposes laid back beaches with entertainment galore. Visitors can swim, snorkel, scuba dive or kayak—catch breathtaking sunrises and sunsets. ',
+
+                ],
+                srcimg: efo5_3,
+            },
+            {
+                id: 4,
+                title: '',
+                description: [
+
+                    'There is also a world class amusement park with over 100 activities, as well as The World Garden (a collective of garden habitats from around the globe). The island’s accommodations are first rate.'
+
+                ],
+                srcimg: efo5_4,
+            },
+            {
+                id: 5,
+                title: '',
+                description: [
+
+                    'Nha Trang Beach is the city’s shorefront. Buffered by parks, sculpture gardens and a well-groomed tree line, Nha Trang Beach is the perfect place for strolling or bicycling (and it’s walking distance to iconic Tran Phu Street). The beach itself is ideal for swimming, diving, snorkeling and even hot air balloon rides. There’s also a vibrant nightlife—bars, clubs, rooftop dining. Convenient and easily accessible. If digging your toes into the sand is what you seek, Nha Trang Beach is at your fingertips. '
+
+                ],
+                srcimg: efo5_5,
+            },
+            {
+                id: 6,
+                title: 'Cruise Cai Rang floating market in the Mekong Delta:',
+                description: [
+
+                    'The Mekong Delta resembles a water-based Casbah bazaar. Small vessels pack the river. Your soundtrack is the hawking and bartering of buyers and sellers mixed with the ambient sound of paddles slogging the water’s surface. There are hundreds of boats, a cavalcade of oars and conical hats and myriad buying opportunities. It’s a well-managed maze, where you can marvel at generations of delta dwellers, many of whom live on the boats where they conduct their businesses.'
+
+                ],
+                srcimg: efo5_6,
+            },
+            {
+                id: 7,
+                title: 'Discover Breathtaking Waterfalls in Da Lat: ',
+                description: [
+
+                    'Da Lat is known by many names: The City of Thousand Flowers, City of Eternal Spring and City of Love (to name a few). But it’s best known for its waterfalls thanks to its pleasant weather and stunning landscape. ',
+                    'There are no less than ten magnificent waterfalls to behold namely Datanla, Hang Cop, Cam Ly, Prenn, Bao Dai, Elephant, Dambri,… each with its own backstory. While hiking and exploring these waterfalls, it’s easy to see why visitors flock to soak themselves in the midst of mountains and falls.',
+                    'Pongour Waterfall is a majestic, seven level cascade (locally known as the 7-storey waterfall).  40 meters (at its highest point), the falls pour through terraced stones and are surrounded by forest and lush vegetation. There’s a nearby lake (Dai Ninh) which is ideal for fishing. Like other waterfalls in Da Lat, Pongour is a ideal place to set up a campsite and BBQ parties on the campus area. In the first month of lunar calendar, visitors can enjoy the unique and amusing festival of the locality – a perfect opportunity to discover the local culture.',
+
+                ],
+                srcimg: efo5_7,
+            },
+            {
+                id: 8,
+                title: '',
+                description: [
+
+                    `Prenn Waterfall is a modest 10 meters in height but its mystifying spray, said to resemble the hair of angels, creates a heavenly like visage. Prenn Waterfall was designated a National Scenic Monument in 1998 and has been named one of the top five waterfalls in Vietnam. The waterfall and its surroundings provide an abundance of entertaining opportunities: an aerial cable car, paddle boats, wild animals zoo. There’s a suspension bridge, stilt houses, tree houses and the Au Lac Temple complex. Visitors can immerse in native folklore and enjoy traditional music and dance performances.`,
+                ],
+                srcimg: efo5_8,
+            },
+            {
+                id: 9,
+                title: '',
+                description: [
+
+                    'The lore of Elephant Waterfall is as melancholy as the falls are mesmerizing. It involves the heart-wrenching death of a singing princess, the ensuing silence of birds, the turning to stone of a pack of loyal elephants and an earth-shattering explosion. Over 30 meters in height and a designated national landscape relic, the falls have a unique feature—145 stone steps (carved out of the mountain) which leads from the foot of the falls to the top. Other highlights of Elephant Falls include Hang Gio (Wind Cave) and Linh An pagoda. The 50-meter-deep “Wind Cave” is found beneath the falls, hidden behind vines and dense foliage. Linh An pagoda mixes astonishing architecture, giant statues, acres of flowers and trees and is an active spiritual center. '
+
+                ],
+                srcimg: efo5_9,
+            },
+            {
+                id: 10,
+                title: '',
+                description: [
+
+                    `Dambri Waterfall is not only the highest of the province’s waterfalls, but it’s shrouded in a tropical forest setting with myriad unique blooms and wildlife. You can trek the 138 steps to reach the top, opt for the viewing-elevator, or take a 1,650-meter-long alpine roller coaster. There are walking bridges over the stream and you can visit the village of the Chau Ma highland people (enjoying their culture, wine, music and dance). There are also wooden treehouses available for overnight stays. Dambri Waterfall and its environs are a nature lover's dreamscape, as well as a family-friendly point of interest.`,
+
+                ],
+                srcimg: efo5_10,
+            },
+
+        ]
+    },
+    {
+        id: 6,
+        route: 'Thac-Ba-Lake-The-emerald-of-Yen-Bai',
+        name: 'Thac Ba Lake - The emerald of Yen Bai',
+        img: strik3,
+        intro: 'Mu Cang Chai might be the first destination that pops up in your mind when mentioning Yen Bai. This small rural district of Northwestern Vietnam with its rice paddy terraces, spectacular views of Water Pouring Season and the famous paragliding festival in Khau Pha, has left a deep impression in visitors’ minds. However, there is another place in Yen Bai where travellers can go green and go to peace. That’s the Thac Ba Lake.',
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    'Thac Ba Lake is one of the three largest man-made lakes in Vietnam that were formed during the construction of Thac Ba Hydropower Plant. The lake is located in two districts of Yen Binh and Luc Yen. Covering nearly 20,000 hectares of water surface, including more than 1,300 large and small green islands, and a beautiful cave system hidden deep in the heart of limestone mountains. Being surrounded by lush green mountains and stunning limestone cliffs, Thac Ba Lake is now a fresh new destination for travel lovers to explore besides Mu Cang Chai. ',
+                    'There are about 13 ethnic minority groups, including Tay, Nung, Mong, Dao, Phu La, and Cao Lan, all of which live on the mountainside or along the lake. In addition to activities such as fishing, boating, visitors can visit local villages to learn about the traditions, festivals, traditional homes and way of life of the ethnicities.',
+                    'Feel free to visit Thac Ba Lake at any time of the year since the climate here has four clear seasons and the temperature is quite stable. For festival goers, January is the perfect time to enjoy the great festival of Thac Ba Temple. Thac Ba Lake is also a great destination for a day trip or weekend getaway.',
+                    'The lake is located about 130 km from Hanoi, travelling from Hanoi to Thac Ba Lake is a relatively straightforward journey. The most convenient way to reach the destination is by car. Alternatively, visitors can take a bus, taxi or motorbike.',
+
+                ],
+                srcimg: efo6_1,
+            },
+            {
+                id: 2,
+                title: 'Boat trip',
+                description: [
+                    'A boat ride around the lake is the best way to take in the stunning scenery and spot wildlife. There are also several islands in the lake, which can be explored by boat. During the boat trip, don’t forget to visit Thac Ba Hydropower Plant, which is the first hydroelectric project of Vietnam. Boats can be arranged in the village of Huong Lu in Yen Binh',
+
+                ],
+                srcimg: '',
+            },
+            {
+                id: 3,
+                title: 'Get a special viewpoint',
+                description: [
+
+                    'For those looking for a more active experience, Thac Ba Lake offers a variety of activities. Swimming, kayaking, and fishing in the lake or taking a hike on. several hiking trails around the lake, admiring stunning views of the surrounding landscape. ',
+                    'Embracing a bunch of islands in its body, Thuy Tien cave is a must-visit in Thac Ba Lake. Located on an island in the middle of the lake, the cave offers a beautiful view over the lake. Another place where you can enjoy the panorama of the lake is in Cao Bien Mountain - the highest mountain surrounding Thac Ba. Take a 3.5-hour hike to the top and here you are, a panoramic view over the green islands in Thac Ba lake.',
+
+
+                ],
+                srcimg: '',
+            },
+            {
+                id: 4,
+                title: 'A cultural walk at Ngoi Tu Village',
+                description: [
+
+                    'A home to 5 ethnic groups (mainly the Dao people of the white pants), visitors will experience a relaxed life under the roofs of stilts hidden in the palm forest, learn the traditional craft of knitting shrimp baskets, and watch the red-cheeked Dao girls in brilliant traditional costumes.',
+                    'When night falls, be a local, sit by the fire camp, listen to folk songs echo the whole village and enjoy Lam sticky rice, forest banana flower salad, chicken cooked with sour bamboo shoots or fish salad, shrimp salad…',
+                    'All these experiences might seem too touristy but if you truly enjoy them by yourself, go with the flow and be the travellers, they are worth your time.'
+
+                ],
+                srcimg: '',
+            },
+
+        ]
+    },
+    {
+        id: 7,
+        route: 'Sacred-Night-Unbroken-Vietnamese-Spirit:-A-Prisoner’-life-at-Hoa-Lo',
+        name: 'Sacred Night - Unbroken Vietnamese Spirit: A Prisoner’ life at Hoa Lo',
+        img: timels1,
+        intro: '',
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    'With the recent advent of an immersive night tour, visitors are given a new window into Hanoi’s legendary Hoa Lo Prison which brings them closer to the experiences of its prisoners than ever before. Recognized as a historical monument by the Ministry of Culture, Sports, and Tourism in 1997, Hoa Lo is a prison with many names and many chapters in a story that has been interwoven with the fate of Vietnam since its construction.',
+
+
+                ],
+                srcimg: efo7_1,
+            },
+            {
+                id: 2,
+                title: '',
+                description: [
+                    'First built during the French Colonial Era and named “Maison Centrale”, it incarcerated Vietnamese revolutionaries and political dissidents, a crucible through which many leaders of the Vietnamese resistance passed. The name Hoa Lo, which translates as “stove,” “fire kiln,” or “fiery furnace” comes from a village name, specializing in making all kinds of casserole, portable earthen stove… later on being occupied by the French to build up the prison and court as being seen today. Now, the remaining structures of the prison have been converted into a museum, and the night tour “Sacred Night - Glorious Vietnamese Spirit” has given new life to its mission of preserving the history of this famous site.',
+                    'Launched in July 2020, the tour runs on Friday, Saturday, and Sunday, starting from 7 PM and lasting 90 minutes. The main focus of both the museum and the night tour is on highlighting the experience of the Vietnamese revolutionaries incarcerated here during the French Colonial Era.',
+                    'At the beginning of the tour, each visitor is given their own pair of headphones, allowing them to hear the guide’s instructions and be immersed in their own personal journey.  After a general briefing on the history of Hoa Lo, visitors enter the gate, where they are shown a model reconstruction of the prison at its height. Past this point, the experience begins in earnest. The tour utilizes a carefully crafted landscape of lights and sounds to bring visitors inside the life of the prison, with dark lighting and ambient sounds creating a brooding, oppressive atmosphere. This gives visitors a small taste of the harsh conditions and suffering endured by the prisoners who would become Vietnamese national heroes, and a chance to marvel at their resilience and strong spirits.',
+
+                ],
+                srcimg: efo7_2,
+            },
+            {
+                id: 3,
+                title: '',
+                description: [
+
+                    'Visitors are brought to the cell block for male prisoners, a single room of bare concrete with a bucket latrine in the corner, where prisoners were shackled in two rows on long slab tables. With only 15 minutes a day provided for them to move around and wash, this room may as well have been the entire world for the revolutionaries who spent their days bound at the ankle and sandwiched between their comrades. The room is filled with life-sized replicas of these prisoners, lit up by the only bright lights to be found, on whose ceramic faces the ravages of starvation and torture are evident.',
+
+
+                ],
+                srcimg: efo7_3,
+            },
+            {
+                id: 4,
+                title: '',
+                description: [
+
+                    `This strength of will is further attested to by a series of escapes from the prison, the most famous of which has a special place in the tour. In 1951, 17 death-row prisoners cut through prison bars to escape through tunnels into the sewer. Upon exiting the sewer, they encountered a patrol of soldiers, and only 5 survived to join the resistance. Visitors on the night tour are given a chance to see the tunnels through which they escaped, complete with a replica of inmate Vo Duc Chinh cutting through the bars.`,
+
+                ],
+                srcimg: efo7_4,
+            },
+            {
+                id: 5,
+                title: '',
+                description: [
+
+                    `Tourgoers will also visit the solitary confinement cells, where the most troublesome of prisoners were punished. In the female cell block, they are given a chance to learn about the life of martyr Nguyen Thi Quang Thai, the first wife of General Vo Nguyen Giap, who was held in prison until her death.`,
+                ],
+                srcimg: efo7_5,
+            },
+            {
+                id: 6,
+                title: '',
+                description: [
+
+                    `It is with a feeling of relief that visitors will emerge from the darkness into the prison courtyard, where they are treated to the performance of a musical piece composed by famed musician and artist Do Nhuan to commemorate the prisoners of Hoa Lo. Other highlights of the tour include a preserved French guillotine used to execute inmates, and a tropical almond tree (Bang) from which prisoners gathered almonds, made medicine, and carved flutes and chopsticks. The final destination of the tour is a memorial space dedicated to the prisoners who sacrificed their lives for Vietnam, where visitors can offer incense and sit for a moment of silent contemplation.`,
+
+                ],
+                srcimg: efo7_6,
+            },
+            {
+                id: 7,
+                title: '',
+                description: [
+
+                    `After the tour, visitors will be offered a cup of tea, a pastry and a jello made from Bang leaves to refresh the emotion.`,
+
+                ],
+                srcimg: efo7_7,
+            },
+
+        ]
+    },
+    {
+        id: 8,
+        route: 'Big-News!-Vietnam-approves-extending-e-visas-to-90-days',
+        name: 'Big News! Vietnam approves extending e-visas to 90 days',
+        img: timels2,
+        intro: 'From 15th August 2023, e-visas duration will be increased from 30 days to 90 days, valid for multiple entry to meet the demands of international tourists. This is a new policy approved by the National Assembly of Vietnam to facilitate international visitors to Vietnam.',
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    'Thereby, upon being granted an e-visa, a foreigner can enter and exit an unlimited number of times within 90 days, without having to go through procedures for obtaining a new visa.',
+                    'Another good news! Citizens of countries that are unilaterally exempted from visas by Vietnam will be granted temporary residence for 45 days (up from 15 days) and can be considered for visa issuance and temporary residence extension according to regulations.',
+                    'Now pack your luggage, come and live fully in Vietnam!',
+
+                ],
+                srcimg: efo8_1,
+            },
+        ]
+    },
+    {
+        id: 9,
+        route: 'Moc-Chau:-Your-One-Stop-Nature-Escape',
+        name: 'Moc Chau: Your One-Stop Nature Escape',
+        img: timels3,
+        intro: `Need a quick “Green'' fix? Then a few days in Moc Chau is just what the doctor ordered. Crowned “World’s Leading Regional Nature Destination'' by the 2022 World Travel Awards, Moc Chau provides a year-round, weather accommodating bounty. Located in the northern province of Son La (about 200km from Hanoi), Moc Chau is known as the “Green Pearl.”`,
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    '',
+                ],
+                srcimg: efo9_1,
+            },
+            {
+                id: 2,
+                title: '',
+                description: [
+                    'Situated on a massive plateau (80km long, 25km wide and rising over 1,000 meters above sea level), the “Green Pearl” delivers a host of nature’s wonders: mountains, rivers, waterfalls, caves, an abundance of flowers and breathtaking blooms of apricot, plum and peach blossoms. ',
+                    'Living harmoniously with this natural wonderland are 12 indigenous ethnic groups, their cultural practices very much on display (in daily life and through myriad festivals).',
+                    'You’ll find community-based green attractions such as Ang Village, Doi Village and Vat Village. These villages actively embrace eco-tourism as a way of promoting sustainability. You can also visit Moc Chau Island which was created in a concerted effort to embellish and preserve Moc Chau’s eco-friendly status. ',
+
+                ],
+                srcimg: efo9_2,
+            },
+            {
+                id: 3,
+                title: '',
+                description: [
+                    'Below are a few suggestions for your Moc Chau/Green Pearl experience:',
+                    'You hear Dai Yem waterfall before you see it. As you meander through the dense forest along the winding road that leads to the falls, you begin to feel the rumble—to hear the roar as it joins in harmonious chorus with the birds and cicadas. Dai Yem is divided into two shelves. From the top, the drop is over 100 meters, while the lower shelf provides visitors the convenience of exploration and swimming in the pond just below the lower ledge. A benefit of visiting Dai Yem is the opportunity to cross the red painted Love Glass Bridge (Cau Kinh Tinh Yeu). This ornately carved transparent glass bridge offers a unique view of Dai Yem itself.',
+
+                ],
+                srcimg: efo9_3,
+            },
+            {
+                id: 4,
+                title: '',
+                description: [
+                    `With about 3000 hectares of tea fields, Moc Chau is the largest tea growing region in all of Vietnam. These sprawling waves of green tea leaves are found in an area mostly inhabited (and worked) by the Hmong and Thai ethnic groups. Conical hats and colorful costumes bob amongst the blanket of green as they go about their cultivating practices, creating a visual feast. Visitors can mingle and take photographs. Bicycle and motorbike rentals are available for deeper exploration. You can also visit the Moc Suong eco-tourism area to experience the ancient tea ceremony and witness the processing of this most valuable crop.`,
+
+                ],
+                srcimg: efo9_4,
+            },
+            {
+                id: 5,
+                title: '',
+                description: [
+                    'It requires quite a bit of uphill hiking to reach Pha Luong Peak, dubbed “The Roof of Moc Chau,” (2,000 meters above sea level) but it’s worth every step. As you ascend, you’ll find the mountainside draped in rice terraces. The simple path takes you through dense forest as you continue your hike upwards. Bordering Vietnam and Laos, the views from the top are unapparelled. The icing on the cake—the rock ledge overhang where bucket-list photo ops have become tradition. ',
+
+                ],
+                srcimg: efo9_5,
+            },
+            {
+                id: 6,
+                title: '',
+                description: [
+                    'Dong Doi (Bat Cave) has an area of over 7,000 square meters, 100m in height and 930m long. Follow the 240-steps to the entrance of this National historical and cultural site. The interior of this impressive limestone cave is wonderous in its riches—from the twinkling, multi-colored stalactites (which eerily resemble Buddhas, elephants, tigers, eagles…), to the dry lake located in the center of the cave.',
+
+                ],
+                srcimg: efo9_6,
+            },
+            {
+                id: 7,
+                title: '',
+                description: [
+                    'Ang Pine Tree Village is a bucolic vision—traditional stilt houses under verdant green canopies with a lake surrounded by pine forests. The nearby hills are cloaked in green tea leaves while the pine forest is speckled with blossoming flowers and blooms. A pleasant option is exploring the area on horseback. Ang Village is home to the Thai ethnic people whose culture is very much alive and evident in their housing, farming, costumes, customs, music and dance. Visitors are welcomed and encouraged to experience both nature and culture. Dine on traditional Thai food and try the homemade rice wine, which is drunk from a gourd with a long narrow bamboo tube.',
+
+                ],
+                srcimg: efo9_7,
+            },
+            {
+                id: 8,
+                title: '',
+                description: [
+                    'The past and future blend seamlessly on Moc Chau Island (with nature being the bond that holds both together). It starts with Bach Long Bridge (White Dragon Bridge) - the world’s longest glass bridge. Spanning two mountains and providing breathtaking visuals from every angle. This epic crossing also has a cliff-side path that slithers along the mountainside. ',
+
+                ],
+                srcimg: efo9_8,
+            },
+            {
+                id: 9,
+                title: '',
+                description: [
+                    'Once across the bridge you’ll find Chim Than (God Bird) cave with its natural stalactites, ponds and stone sculptures. While not surrounded by water, Moc Chau Island is truly an island unto itself. There’s Central Park Lake with its performing arts water-stage, artificial beaches, amusement parks (ziplines, air slides et al), bike paths and swimming area. The resort park farming area (with regulated humidity and clean water source), is a place where visitors can stroll through fields or fish in streams. The natural culture area and rural tourism ethnic zone showcase traditional ethnic villages, hosting ethnic festivals and offering crafts and cuisine of the indigenous peoples. There’s just so much to experience on Moc Chau Island: The Ecology Tea Garden, The Grasslands Tourism Area, Experimental Gardens and Flower Park. There are also eco-friendly, hyper-modern accommodations available, as well as the open-aired, TaBamboo restaurant, built entirely of bamboo and covered with a thatched roof.',
+
+                ],
+                srcimg: efo9_9,
+            },
+            {
+                id: 10,
+                title: '',
+                description: [
+                    'If it’s an environmentally friendly, outdoor experience you seek, then open the oyster that is Moc Chau and embrace Vietnam’s “Green Pearl” …'
+
+                ],
+                srcimg: '',
+            },
+        ]
+    },
+    {
+        id: 10,
+        route: `Hoi-An's-Top-5-Most-Instagrammable-Spots`,
+        name: `Hoi An's Top 5 Most Instagrammable Spots`,
+        img: cities1,
+        intro: [`Hoi An has captivated the imaginations of artists and photographers for hundreds of years. In the 18th Century, Hoi An was one of the most important trading ports in the South China Sea. Languages of the world were spoken in its alleyways, artisans swapped materials and inspiration, and Hoianese handcrafts like ceramics were traded as far away as Egypt and Portugal. The ancient town has preserved this dynamic legacy in structures like the Japanese Bridge and Chinese Temples, its architecture a living memory of Japanese and Chinese and European roots.`,
+            'Hoi An was declared a UNESCO World Heritage Site in 1999, and it retains the weight and heartbeat of its centuries of commerce and culture and dreams. There is something about the city that transforms every guest into an artist or photographer. Here are some of its most photogenic and Instagram-worthy sites and scenes.',
+        ],
+        infor: [
+            {
+                id: 1,
+                title: 'Japanese Covered Bridge',
+                description: [
+                    'The Japanese Covered Bridge was built in the 16th century to connect the Chinese and Japanese quarters of the Vietnamese city. It is now such an iconic landmark of Hoi An City and Vietnam itself that it features on the 20,000 VND note. A temple on the north side is dedicated to the Taoist God of weather, lending the bridge its Vietnamese name: Chùa Cầu, the temple bridge.',
+                    'Visit early in the morning to beat the crowds and cross the bridge without paying a fee. Photos of the inside are historically interesting, with its Chinese script and its monkey and dog statue guardians. Photos of the bridge’s outside captured the delicate beauty of its architecture. During the daytime you can get good pictures of its fine details: carved dark wood trimmed with red lacquer and gold and stretched between two shorelines of sunshine-yellow walls. At night, the bridge glows with diffuse colored lighting, casting a crisp reflection into the water below.',
+
+                ],
+                srcimg: efo10_1,
+            },
+            {
+                id: 2,
+                title: 'Yellow Walls of Hoi An',
+                description: [
+                    'It is possible to spend hours wandering through the bewitching butter-yellow buttresses of the city, enchanted by goldenrod and canary, sunflower and saffron-hued Hoi An. Hoi An burns itself into the memories and photographs of visitors in this hypnotizing shade of yellow. Get lost in narrow alleys between ancient buildings that wind endlessly through the converging cityscape. Blue and green doors and windows bloom open from French balconies. The wear and tear of the paint add charm and character where it reveals raw walls beneath.',
+                    'There are lots of opportunities in the narrow maze between buildings to play with scale and perspective and contrast. Wear a poppy-red dress to pose brightly against the yellow. Find a pretty spot to sit where you can set up a frame. From here, wait for bicycles or women in ao dai to ride or walk across the golden gallery walls for a truly classic cultural shot.',
+
+                ],
+                srcimg: efo10_2,
+            },
+            {
+                id: 3,
+                title: 'Temples in Old Town Hoi An',
+                description: [
+                    'Hoi An is rife with ornate temples built in a collage of architectural influences. All of them offer opportunities for beautiful photography. Pop in and out of garden courtyards, ducking under strings of lanterns and past gold and red Chinese calligraphy and engravings. Some temples require a ticket to enter, but many are free. Keep an eye out for Buddhist drums and gongs; for Daoist cosmological symbols and trigrams; ornate gates, engraved altars, and painted doorways; and for carved wooden statues of spirits and dragons.',
+                    'Some of these buildings date back as far as the 14th and 15th centuries, before Japan, before China, and before Hoi An was even a Vietnamese city. The Hindu-influenced fingerprint of the Champa empire lingers in architectural examples like the My Son Sanctuary.',
+
+                ],
+                srcimg: '',
+            },
+            {
+                id: 4,
+                title: 'Hoi An Lanterns',
+                description: [
+                    'Perhaps more than anything else, strings of silk lanterns are the most iconic symbols of Hoi An. Imported by the Japanese, who inherited them from the Chinese, these traditional lanterns are now a solidly Vietnamese tradition that has been handcrafted in Hoi An for hundreds of years. During the daytime, they dangle in bright colors from doorways or stretch across in the glass windows of shopfronts, the antique city’s signature accessory.',
+                    'Take a picture during the day to capture different shapes, colors, and patterns pressed against yellow walls, but the lanterns really come alive at night. Head to Old Town just before sunset to see everything softly illuminated, pedestrians padding by underway, everyone’s eyes to the sky. When true darkness falls the lanterns glow in high contrast. Early dusk is the magic hour for catching photos of faces illuminated by the lanterns without losing the background to silhouette and shadow.',
+
+
+                ],
+                srcimg: efo10_3,
+            },
+            {
+                id: 5,
+                title: 'Faifo Coffee',
+                description: [
+                    'Most of the best shots of Hoi An happen at the street level, but Faifo Coffee shop is a delightful exception. This cafe is one of the only buildings in Hoi An with a rooftop terrace, so the expansive view it offers across the rooftops of the city is truly unique. On a bright and sunny day, the yellow buildings with their brown roofs ripple-like sharp and triangular waves against the blue sky, all the way out to the horizon.',
+                    'The coffee is thankfully as good as the views, so it’s worth waiting for the perfect shot. The rooftop can get crowded with people posing for their own selfies, so be patient and enjoy the atmosphere and the view while you wait for your own photoshoot. That’s the point, anyway, isn’t it?',
+
+                ],
+                srcimg: efo10_4,
+            },
+
+        ]
+    },
+    {
+        id: 11,
+        route: 'Shopping-in-Hanoi-Markets-and-Malls',
+        name: 'Shopping in Hanoi - Markets and Malls',
+        img: cities2,
+        intro: [
+            'Hanoi is a  shopaholic’s paradise, and the best places to browse are in the street. There are plenty of Western-style malls selling international brands, which also double as air-conditioned entertainment centers with cinemas, cafes, and restaurants. But every savvy shopper knows that the best bargains and coolest options are found in the markets, whether it’s souvenirs, street food, or silk. ',
+
+        ],
+        infor: [
+            {
+                id: 1,
+                title: 'Old Quarter ',
+                description: [
+                    'The Old Quarter of Hanoi is known as the “36 Streets”, most of which are named after craft guilds and industries. These streets date back hundreds of years and are the center point around which the capital city expanded. Far from outdated, the 36 Streets of the Old Quarter are still a whirlwind of trade and activity, an economic hub crosshatched by tiny alleys and powerlines. ',
+                    'Head to Hang Bac or Silver Street where artisans have melted and hammered silver into jewelry for hundreds of years. Some of the manufacturing technology has changed, but much has remained the same. Old-style pagodas and red-roofed communal houses still line the street.',
+                    '“Shoe Street” is on Hang Dau. Here you’ll find knockoff brand names and handcrafted leather sandals. Dress shoes, shower shoes, flip flops, stilettos… it’s all here, but in Vietnamese sizes. Best of luck to Western feet!',
+                    'Hang Gai is Silk Street, teeming with tailors and boutiques selling some of the highest-quality silk in the city. In the French Colonial period, Hang Dao was referred to as the “Silk Road”, where sellers specialized in pink- and red-dyed fabrics, including silk. Today, all the silk is sold on Hang Gai, and Hang Dao sells mostly clothes and trinkets, but remains a historical hub.',
+                ],
+                srcimg: efo11_1,
+            },
+            {
+                id: 2,
+                title: 'Markets',
+                description: [
+                    'Upgrade from individual streets selling single specialized crafts to the labyrinthine grabbag of a Vietnamese market. Start at nearby Dong Xuan Market in the heart of the Old Quarter, a large wholesale market selling anything from fabric, shoes, and clothes to toys, souvenirs, and candies. The alleys around Dong Xuan are as much a part of the market as is the building itself, selling everything from bedding to glassware. ',
+
+                ],
+                srcimg: efo11_2,
+            },
+            {
+                id: 3,
+                title: '',
+                description: [
+                    'Next up is Long Bien Market, one of the most important markets in Hanoi. Long Bien is the wholesale produce market for the entire city. Households, restaurants, and smaller market sellers all source their fruits, vegetables, and meat here. Produce trucks are unloaded here well after dark, shipped from other parts of the country in time to unload fresh for the early morning rush. ',
+                    'While midnight truckers unload tomatoes at Long Bien Market, others are unloading heaps of flowers in every color at Quang Ba Market. Between midnight and 3am, this market and its surrounding streets transform into a natural perfume factory. Cut blossoms are unpacked still-damp from the field, wrapping the world in fragrance.',
+                    'For any and all meals and meal-related inquiries, head directly to Nghia Tan Market. This is perhaps the most famous food market in all of Hanoi city, a veritable paradise for snacks and street foods. If it’s a dish served in Hanoi, it’s probably served in Nghia Tan market, freshly made and absurdly affordable. ',
+                    'Head with a full belly to Phung Khoan Market, which sells everything and sells it cheap. Like Nghia Tan, the price point of Phung Khoan Market makes it popular with young people. Clothes and home goods like bedsheets and kitchen equipment are all sold here, perfect for university students, expats, and long-term travelers who need to stock up and decorate their new flats.',
+
+                ],
+                srcimg: efo11_3,
+            },
+            {
+                id: 4,
+                title: 'Local Souvenirs & Handcrafts ',
+                description: [
+                    'Hanoia exists to honor the ancient Vietnamese art of lacquerware by carrying it into the international market. The traditional art form of lacquerware dates back many thousands of years, and was originally used as a practical means of adding durability to functional items. Now, Hanoia seeks to bring the artform to new heights. Working with a dedicated team of craftsmen from a historical village in Binh Duong Province that has been producing lacquer art since the 14th century, Hanoia sells contemporary versions of traditional art for a variety of products, from home decor to jewelry.',
+
+                ],
+                srcimg: efo11_4,
+            },
+            {
+                id: 5,
+                title: 'Collective Memories ',
+                description: [
+                    'This strange shop of tchotchkes and curios was founded by a travel writer and a photographer who fell in love with their own country while traveling on assignment. The founders strongly value cultural individuality and hyper-local identity, and seek to use their shop as a counterbalance to the homogenization of globalization.  Collective Memories offers an eclectic assortment of goods: hand-stitched and painted clothing, wood-fired cups, board games, art prints, chili sauce, magnets… it’s a veritable treasure trove, the kind of place a curious or sentimental traveler can lose an entire afternoon too. The stock is curated and rotates regularly like a museum or a gallery, allowing a varying talent pool of craftsmen to be platformed for an international audience. ',
+
+                ],
+                srcimg: efo11_5,
+            },
+            {
+                id: 6,
+                title: 'Tired City ',
+                description: [
+                    'Tired City sells original artwork from young Vietnamese artists and illustrators in the form of prints, apparel, tote bags, and stationary. It’s the modern art scene’s answer to a traditional crafts shop like Hanoia: everything here is 100% original artwork, and all sales directly support a local Vietnamese artist’s career. In addition to financially supporting artists’ careers, Tired City is the founder of Vietnam Local Artists Group, a digital gathering place for creative collaboration and community.',
+
+
+                ],
+                srcimg: efo11_6,
+            },
+            {
+                id: 7,
+                title: 'Shopping Malls ',
+                description: [
+                    'For a change of pace – or to find Western sizes! –  head to a shopping mall.',
+
+                ],
+                srcimg: efo11_7,
+            },
+            {
+                id: 8,
+                title: '',
+                description: [
+                    'Vincom Center on Ba Trieu street is a good default for an in-and-out shopping operation. They’ve got all the standard international brands on offer, and the mall is easy to navigate. Vincom Mega Mall Royal City offers many of the same options, plus much more on the entertainment spectrum. In addition to 800 shops, Royal City also features a massive rainforest-themed indoor water park (the largest in all of Southeast Asia) as well as an ice skating rink, an aquarium, and a cinema. The Vincom Mega Mall is part of the Royal City complex, designed to function as a “miniature Western city” and absolutely earns its slogan: “one destination – all needs – many options.” ',
+
+                ],
+                srcimg: efo11_8,
+            },
+        ]
+    },
+    {
+        id: 12,
+        route: 'Guided-tours-to-take-before,-during,-or-after-the-SEA-Games',
+        name: 'Guided tours to take before, during, or after the SEA Games',
+        img: cities3,
+        intro: [
+            'Got some free time on your travel itinerary? There are a plethora of guided tours to choose from, whether you have a night, a half-day, or a full week free to explore... ',
+
+        ],
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    'With the COVID-19 pandemic currently under control, tourism activities in and around the capital are ramping up, giving those visiting the city for the 31st SEA Games plenty to see and do. ',
+                    'As the cultural heart of Vietnam, Hanoi has long offered visitors a range of tourism opportunities. Popular activities that were put on hold during the pandemic have resumed. Plus, a whole new range of travel products has been introduced, with a focus on culture, crafts, and unique experiences.',
+                    'Here’s some of what the thousands of international athletes, officials, and sports fans can choose from during down-time before, after, or between the SEA Games 31 events. ',
+
+                ],
+                srcimg: efo12_1,
+            },
+            {
+                id: 2,
+                title: 'What’s new?',
+                description: [
+                    '“Footprint in Bat Trang Ancient Village”: This tour, takes visitors to the ancient Bat Trang craft village. Here, they’ll get to see what goes into pottery-making and enjoy a lavish Vietnamese lunch at the Bat Trang communal house.',
+
+
+                ],
+                srcimg: efo12_2,
+            },
+            {
+                id: 3,
+                title: '',
+                description: [
+                    '"Deciphering the Thang Long Imperial Citadel": This night tour is a must for those interested in ancient civilizations. Shimmering lights will reveal relics and remains of this ancient Imperial city, which dates back some 1,300 years.',
+
+
+                ],
+                srcimg: efo12_3,
+            },
+            {
+                id: 4,
+                title: '',
+                description: [
+                    '“Bác Cổ − Bombax ceiba Flower Season”: Take a breather by admiring the kapok blossoms on the grounds of The National Museum of Vietnamese History. These flowers, which herald the start of summer in Hanoi, are also steeped in the fascinating folklore of North Vietnam.',
+
+                ],
+                srcimg: efo12_4,
+            },
+            {
+                id: 5,
+                title: '',
+                description: [
+                    '"French Architecture in the Heart of Hanoi": A distinctive aspect of Hanoi is its architecture dating back to the French Indochina period. Learn more about it on this walking tour, newly launched by the Vietnam National Museum of History. The tour reveals fascinating details about key French architectural sites. You’ll get an audio guide via App, so you can take it at your own pace.',
+
+                ],
+                srcimg: efo12_5,
+            },
+            {
+                id: 6,
+                title: '',
+                description: [
+                    '“Sacred Night Tours at the Hoa Lo Prison Relic": Prepare for a moving experience when you take one of the three-night tours of this historic prison. Titled “1st Sacred night: Shining Vietnamese Spirit”, “2nd Sacred night: Living like Flowers” and “3rd Sacred Night: Youthful Fire”, these tours are a testament to the resilience of Vietnamese revolutionaries throughout history.',
+                    'In addition to these experiences, special events are being hosted to accelerate the post-pandemic recovery of the tourism sector. These include the Hanoi Tourism Festival (from 13-15 May) and the Hanoi Cuisine and Craft Village Tourism Festival (from 12-23 May 2022). ',
+
+
+                ],
+                srcimg: efo12_6,
+            },
+            {
+                id: 7,
+                title: 'Short tours in the city',
+                description: [
+                    'Short on time to explore Hanoi? No worries. There are many short guided tours you can take advantage of to learn more about this fascinating historic city. ',
+                    'It starts with your hotel pick-up at 8 am, and ends on the same day at 4 pm. As you visit key sites via minivan and electric car, a guide will give you snapshots of Hanoi’s history. The places you visit depend on which day of the week you book for, but all tours include stops at the Ho Chi Minh Mausoleum, the Tran Quoc Buddhist pagoda, and the Ngoc Son Temple − the picturesque Temple of the Jade Mountain on the Jade Islet in Hoàn Kiếm Lake. A delicious Vietnamese lunch is included.',
+
+
+                ],
+                srcimg: efo12_7,
+            },
+            {
+                id: 8,
+                title: 'Something for everyone',
+                description: [
+                    'Foodies will love the three-hour street-food experience and the cooking classes that teach you how to make local specialties. Cyclists wanting to head out of the city can cycle around the countryside on the outskirts of Hanoi. Artsy types will relish the chance to be spellbound by an authentic water-puppet show. Got a full day? Why not head out of the city to see some of the stunning scenery Vietnam is known for. Round trips to Ninh Binh or Halong Bay take 11 hours. ',
+
+                ],
+                srcimg: efo12_8,
+            },
+            {
+                id: 9,
+                title: 'Overnight tours from Hanoi',
+                description: [
+                    'If you have a few days free on your travel itinerary, consider booking a combo tour that takes you from Hanoi to popular domestic destinations. ',
+                    'In need of some sun, sea, and sand? Many travel agents offer short overnight trips to beachy destinations including Nha Trang, Qui Nhon, Phu Quoc Island, and Co To Island. ',
+                    'If you have five to seven days free, consider heading north. A tip to either Sapa or Ha Giang will reward you with epic mountain scenery and the chance to learn more about Vietnam’s minority cultures.',
+
+
+                ],
+                srcimg: efo12_9,
+            },
+            {
+                id: 10,
+                title: 'For the peace of mind',
+                description: [
+                    'Wondering where to start your Vietnam travel plan? ',
+                    'Make sure to pay a visit to Ho Chi Minh Mausoleum, Hoan Kiem Lake, and the ever-bustling Old Quarter when you’re in Hanoi.',
+
+                ],
+                srcimg: efo12_10,
+            },
+            {
+                id: 11,
+                title: '',
+                description: [
+                    'Got a few more days to spare? Please your eyes with Phu Quoc’s breathtaking beach and sunset view, explore island hopping and experience the awesome underwater through sea walker. ',
+                    'Keen to learn more about Vietnam’s culture or indulge yourself with the famous bánh mi, bánh xèo, or rose dumplings street food? Da Nang is the perfect place for the My Son Sanctuary Tour & Cultural Ceremony',
+                    'Get your trip in order and travel to see the beauty of Vietnam, follow the amazing 31st SEA games, and tour the stunning cities that Vietnam has to offer. Enjoy your travel with maximum comfort through new digital features (Hotel Voucher, Free Reschedule Flight, Pay Upon Check-in, etc.) You can check out more information on travel apps, for example, the Traveloka app ...',
+
+                ],
+                srcimg: efo12_11,
+            },
+        ]
+    },
+    {
+        id: 13,
+        route: 'Sunset-in-Phu-Quoc',
+        name: 'Sunset in Phu Quoc',
+        img: beach1,
+        intro: [
+            'Phu Quoc is a long, heart-shaped island with a 20-kilometer beach aptly named “Long Beach” trailing up its western coast. This particular geography has made Long Beach the most popular sunset destination on the island, and with good reason. The beach strip is backed by cool cafes and bars that often host DJs or live bands, and good food is abundant.',
+
+        ],
+        infor: [
+            {
+                id: 1,
+                title: 'Ganh Dau Cape',
+                description: [
+                    'Ganh Dau Cape sits on the northern tip of Phu Quoc’s western coast, the remote and unpretentious counterpart to Long Beach’s bustle and accessibility. The first ripples of the mountain range begin to rise steeply just behind the sand, enclosing the calm and shallow water in a protective ring of thick jungle foliage. This topographically-created secrecy, the lack of nearby construction, and the lack of significant visitor numbers all collaborate to make this tucked-away beach an exceptional patch of peace.',
+                    'Ganh Dau Cape is the closest you can get to Cambodia on the Phu Quoc Island land mass, and from here you can see the ridged blue backs of Cambodian islands bubbling up out of the sea. Moored fishing boats bob serenely in the empty glass-blue space between the beach and the country across the ocean.',
+                    'The sunsets in saturated colors, dialing up the contrast of the world and solidifying the fishing boats into solid black forms that rise and fall to punctuate the pinking horizon line.',
+
+                ],
+                srcimg: efo13_1,
+            },
+            {
+                id: 2,
+                title: 'Dinh Cau Cape',
+                description: [
+                    'Dinh Cau shrine sits on a sliver of an islet, jutting straight out into the estuary where Duong Dong River meets the sea. Dinh Cau is still used as a spiritual site, where fishermen come to pray for successful trips into calm water.',
+                    'When sunset begins to kiss the cape, head up the 29 stone steps to the temple grounds. The pink and orange hues will begin to mix with the ink blot of an ocean ahead. To the left, Dinh Cau beach trails off into a horizon point between the coconut trees. To the right, the current rocks hundreds of moored boats like a lullaby. As the sun touches the waterline and true darkness begins to take hold of the sky, the tiny lights of squid-fishing boats blink on and twinkle like stars.',
+
+
+                ],
+                srcimg: efo13_2,
+            },
+            {
+                id: 3,
+                title: 'Ong Lang Beach',
+                description: [
+                    'Just north of Duong Dong town and its busy harbor, Ong Lang Beach curves along the coast, the crescent-moons of its sandy bays separated by slabs of black volcanic rock. The fine, white-sand coastline here is thin and backed by fertile earth, from which orchards and gardens bloom. Palm trees and leafy green jungle plants sprout happily from the tropical soil to shade hip cafes and restaurants. The area has developed enough to make it comfortable and accessible to tourists – roads are paved, Western food is readily available, bars are comfortable, and serve cocktails. And yet, without high-rise buildings, it has retained its grassroots ambiance and low-key serenity.',
+                    'Enjoy the sunset from the sand while the world fades into darkness and the beach is embraced on all sides by nature – trees to the east, volcanic rock to the north and south, and the endless ocean straight out west. Follow a tiny path to the Nguyen Trung Truc shrine, where locals leave incense to scent the breeze like an olfactory prayer.',
+
+
+                ],
+                srcimg: efo13_3,
+            },
+            {
+                id: 4,
+                title: 'An Thoi Archipelago',
+                description: [
+                    'The An Thoi Archipelago is a chain of islands to the south of Phu Quoc, each with its own sunset-lovely shoreline. Take a tour boat to hop between them, settling into a west-facing beach to watch the sunset over the ocean, which wraps these tiny islands in its expansiveness. Sunset on any of the An Thoi islands will swallow you in color, as the water reflects the sky and there is a little landmass in any direction to distract from the sight.',
+                    'Dam Ngang Island is perhaps the most interesting sunset viewpoint in the archipelago. Dam Ngang is surrounded by strange rock formations jutting out of the water that cut bizarre shapes in dark silhouettes against the color-painted sky, lending a surreal look to the landscape.',
+                    'Take the cable car back to the main island after sunset or, for an unconventional but stunning viewpoint, hop on the cable car right as the sun is setting and watch it sink into the ocean from high above the horizon as you make your way home to Phu Quoc Island.',
+
+                ],
+                srcimg: efo13_4,
+            },
+
+        ]
+    },
+    {
+        id: 14,
+        route: 'Phu-Quoc-Island:-A-Laid-back,-Leisure-Getaway',
+        name: 'Phu Quoc Island: A Laid back, Leisure Getaway ',
+        img: beach2,
+        intro: [
+            '',
+        ],
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    'Phu Quoc Island has long been Vietnam’s popular beach getaway for foreign tourists and well-heeled Vietnamese alike. But Phu Quoc has a fabulous duality which makes its appeal alluring to visitors with multiple agendas. While it has all the amenities of a full-fledged resort—pristine white-sand beaches, clear-blue waters, a hip nightlife, high-end hotels, palm trees and stunning sunsets. Half the island is a UNESCO-protected National Park—mountains, lush jungle, hiking trails, wildlife and waterfalls. Simply put, Phu Quoc checks all the boxes, from relaxation to adventure—from nature to nightlife…'
+                ],
+                srcimg: efo14_1,
+            },
+            {
+                id: 2,
+                title: '',
+                description: [
+                    'The island paradise is located off the southwestern coast of Vietnam. Local culture is very much part of its draw—from the thriving night market to fishing villages to pagodas and pepper plantations. So, while Phu Quoc Island is a bounty for beachgoers, there really is something for everybody—leisure being the underlying theme.',
+                    'With 150 kilometers of coastline, beaches abound. Sao Beach (aka Star Beach) offers swimming, snorkeling, coral reefs and a vast array of sea life. Long Beach is also popular for those who like to laze, lounge and indulge in water activities. To the north, you’ll find more remote stretches of tree-lined beaches, accessed by dirt roads and pockets with hidden-away resorts. Beaches such as Ganh Dau and Bai Thom manage to maintain a certain anonymity. ',
+
+
+                ],
+                srcimg: efo14_2,
+            },
+            {
+                id: 3,
+                title: '',
+                description: [
+                    'Beneath a dense jungle canopy, visitors can trek to Tranh Waterfall. The falls spill gently from numerous ledges of rock shelves. It’s a small fall: surrounded by flowers, foliage and streams—an idyllic spot for swimming. ',
+
+
+                ],
+                srcimg: efo14_3,
+            },
+            {
+                id: 4,
+                title: '',
+                description: [
+                    'While there are multiple fishing villages on Phu Quoc Island, the most famous (and one of the oldest in all of Vietnam) is Ham Ninh. Set against the backdrop of the majestic Ham Ninh Mountain, this thriving fishing village allows visitors to indulge in the freshest of seafoods while witnessing ancient seafaring practices in action.',
+                    'From sea to air: Phu Quoc Island also offers the world’s longest aerial cable car. The ride takes fifteen minutes and overlooks the turquoise gulf, numerous islets and the lush green canopy of the island itself. Travelers are deposited on Hon Thom Island (Pineapple Island), where you’ll find a nature reserve, beaches and a waterpark. ',
+
+                ],
+                srcimg: efo14_4,
+            },
+            {
+                id: 5,
+                title: '',
+                description: [
+                    'There are a few foodie-type excursions to tantalize and titillate. As you traverse the island, you’re bound to notice lots of pepper plantations. Phu Quoc pepper is known as the best in all of Asia. And you are speaking of spicing up your life. Wherever you dine in Vietnam, you will experience its famous fish sauce: nuoc mam. The sauce is on every table, at every meal—it’s the country’s signature dip. Phu Quoc’s version is in such demand that it’s exported globally. You can visit a factory—see how it’s made, fermented and bottled. Buy some and take it home.',
+
+                ],
+                srcimg: efo14_5,
+            },
+            {
+                id: 6,
+                title: '',
+                description: [
+                    'There is so much to see and experience in Phu Quoc that renting a motorbike is a good option for puttering around. Rentals can be procured at almost every hotel or at any number of dedicated bike-rental businesses. For multiple island exploration (after all, Phu Quoc is just one of many in the gulf), there are island-hopping excursions—and they’re inclusive, with food, swimming and snorkeling options.  ',
+                    'Nightlife is very much a part of the Phu Quoc experience—everything from drinking in the sunsets to strolling the night market to catching and feasting on squid…',
+                    'The bustling Phu Quoc night market offers over 100 stalls, serving traditional cuisine, seafood delectables, street food and souvenirs. It’s a lively, colorful carnival vibe—quintessential Vietnam.',
+
+                ],
+                srcimg: efo14_6,
+            },
+            {
+                id: 7,
+                title: '',
+                description: [
+                    'Another popular nightly pastime is squid fishing. Visitors can experience the age-old practice and savor their fresh catch right onboard the boat. ',
+                    'Of course, if it’s a night of liquid relaxation you’re after (having swum, hiked, snorkeled and biked), Phu Quoc provides an abundance of options. You can find some of the most notable roof-top and beachview bars and pubs here. ',
+                    'For a more cerebral experience, Phu Quoc also offers a few museum options. Phu Quoc Prison (Coconut Tree Prison) was built by the French in 1948, it’s now an historical site and open to the public—a macabre reminder of a heroic and unbroken Vietnamese spirit.',
+
+                ],
+                srcimg: efo14_7,
+            },
+            {
+                id: 8,
+                title: '',
+                description: [
+                    'The Coi Nguon Museum features artifacts and antiques dating as far back as the 15th century. The collection includes a vast array of traditional paintings, ceramics, stone axes, important historical documents... ',
+                    'Phu Quoc has earned its reputation as Vietnam’s premiere island getaway—rich in culture, history and especially for its breathtaking natural attributes—white-sand beaches, forests and jungles. Phu Quoc provides visitors with a chance to chill, be pampered and explore. Phu Quoc Island offers the ultimate in leisure travel.',
+
+                ],
+                srcimg: '',
+            },
+        ]
+    },
+    {
+        id: 15,
+        route: '5-ways-to-enjoy-Vung-Tau-as-a-family',
+        name: '5 ways to enjoy Vung Tau as a family',
+        img: beach3,
+        intro: [
+            'The laid-back beach town of Vũng Tàu does little to advertise itself. Yet local families from Ho Chi Minh City have been coming here for a quick beach break since the 1980s. A smooth two-hour drive will take you out of the city buzz and into the serenity of a sun-drenched stay by the ocean. Here are five ideas for a family holiday in Vũng Tàu.',
+        ],
+        infor: [
+            {
+                id: 1,
+                title: 'Visit an amazing museum',
+                description: [
+                    'Vietnam’s only private weapons museum, the Robert Taylor Worldwide Arms Museum, has fascinated both adults and kids since 2016. An extensive collection of military uniforms and weapons that date back centuries will keep everyone entertained for hours. For an overview of Vũng Tàu, head to the town’s newly renovated provincial museum nearby.',
+                    'TIP: Vũng Tàu experiences its best weather during the dry season from November to April. Plan your trip from December to January when the beaches are breezy and most pleasant.',
+
+                ],
+                srcimg: efo15_1,
+            },
+            {
+                id: 2,
+                title: 'Dine on local delicacies',
+                description: [
+                    'Vũng Tàu is the birthplace of one, much-loved Vietnamese dish: bánh khọt. Crispy cakes with a plump shrimp in the centre, rolled with lettuce and herbs and dunked in fish sauce are a fantastic seaside snack. For dinner, gather the family around a stingray hot pot with forest bamboo shoots, or slurp up a bowl of bánh canh (tapioca noodles) topped with flower crab.',
+
+
+                ],
+                srcimg: efo15_2,
+            },
+            {
+                id: 3,
+                title: 'Stay on the beach in Ho Tram',
+                description: [
+                    'High-end resorts further along the coastline have claimed some of Vũng Tàu’s best sandy beaches, where families can enjoy extra privacy and five-star service. Glide down the waterslides at the Grand Ho Tram Strip, or spend an enjoyable weekend in one of the Melia Ho Tram’s gorgeous beachfront villas. ',
+                    'TIP: The Melia Ho Tram Kids’ Club offers workshops, playground activities, cooking classes, pool games and cultural endeavours to keep children happily occupied.',
+
+
+                ],
+                srcimg: efo15_3,
+            },
+            {
+                id: 4,
+                title: 'Have a real-life history lesson ',
+                description: [
+                    'Take the teenagers on a field trip and learn about Vietnam’s colonial history. Untended military outposts, set up to protect the mouth of the Saigon River from invaders, remain outfitted with cannons and other military equipment. On another hillside, Villa Blanche is a mansion originally built for the French governor, and an interesting look into the domestic life of the colonialists. ',
+
+                ],
+                srcimg: efo15_4,
+            },
+            {
+                id: 5,
+                title: 'Take an adventure around town  ',
+                description: [
+                    'For a soft adventure, traverse the nearby Phước Bửu Nature Reserve or dip your feet in the mineral streams at Bình Châu hot spring. Families can ride bicycles to Small Mountain and hike up to see the view from Vung Tau’s famous Jesus Christ statue. End your route on Front Beach at sunset to watch the skies turn scarlet and purple. ',
+
+                ],
+                srcimg: efo15_5,
+            },
+
         ]
     },
 ]
