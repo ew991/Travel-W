@@ -22,7 +22,7 @@ const InforGrapic = () => {
         }
     };
     return (
-        <div>
+        <div className=' mt-20'>
             <h1 className='center-h '>EXPERIENCES</h1>
             <p className=' center-p'>See outstanding travel products from our partners</p>
             <div className='flex justify-center items-center '>

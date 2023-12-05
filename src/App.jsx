@@ -10,6 +10,7 @@ import ScrollToTop from './components/ScrollToTop';
 import ThingToDo from './pages/ThingsToDo';
 import SingelInspired from './pages/SingelInspried';
 import SingelElm from './pages/SingelElm';
+import SingelTra from './pages/SingelTra';
 const App = () => {
   return (
     <>
@@ -25,6 +26,8 @@ const App = () => {
               <Route path='/PlaceToGo' element={<PlacesToGo />}></Route>
               <Route path="/PlaceToGo/places/:id" element={<BestPlaceTG />}></Route>
               <Route path='/PlanYourTrip' element={<PlanYourTrip />}></Route>
+              <Route path="/PlanYourTrip/TravelTip/:id" element={<SingelTra />}></Route>
+
 
             </Route>
           </Routes>

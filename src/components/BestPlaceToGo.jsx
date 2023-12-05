@@ -11,9 +11,20 @@ const TextSpotLight = styled.div`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-shadow: 2px 2px 2px rgba(0,0,0,.75);
-`;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.75);
 
+    @media (max-width: 768px) {
+        font-size: 40px; // Thay đổi kích thước font cho màn hình nhỏ hơn 768px
+    }
+
+    @media (min-width: 769px) and (max-width: 1024px) {
+        font-size: 60px; // Thay đổi kích thước font cho màn hình từ 769px đến 1024px (md)
+    }
+
+    @media (min-width: 1025px) {
+        font-size: 80px; // Thay đổi kích thước font cho màn hình lớn hơn hoặc bằng 1025px (lg)
+    }
+`;
 const BestPlaceTG = () => {
     const { id } = useParams();
     const place = placesToGo.find(p => {

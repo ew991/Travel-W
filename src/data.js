@@ -322,6 +322,19 @@ import anhw3 from "./assets/img/PlanYourTrip/galley/responsible travel vietnam-5
 import anhw4 from "./assets/img/PlanYourTrip/galley/Vietnam local culture guide-10.jpg";
 import anhw5 from "./assets/img/PlanYourTrip/galley/Vietnam Tourism - plan your trip.jpg";
 
+
+//////////////planYourTrip/traveltip
+import iconT1 from './assets/img/PlanYourTrip/traveltips/icons8-airport-100.png';
+import iconT2 from './assets/img/PlanYourTrip/traveltips/icons8-asian-hat-100.png';
+import iconT3 from './assets/img/PlanYourTrip/traveltips/icons8-fiat-500-100.png';
+import iconT4 from './assets/img/PlanYourTrip/traveltips/icons8-history-100.png';
+import iconT5 from './assets/img/PlanYourTrip/traveltips/icons8-lantern-100.png';
+import iconT6 from './assets/img/PlanYourTrip/traveltips/icons8-payment-100.png';
+import iconT7 from './assets/img/PlanYourTrip/traveltips/icons8-rain-cloud-100.png';
+import iconT8 from './assets/img/PlanYourTrip/traveltips/icons8-route-100.png';
+import iconT9 from './assets/img/PlanYourTrip/traveltips/icons8-safety-100.png';
+import iconT10 from './assets/img/PlanYourTrip/traveltips/icons8-visa-100.png';
+
 ///// ThingtoDo/Insrpied
 import imgInsp1 from './assets/img/ThingToDo/Inspired/FOOD.png';
 import imgInsp2 from './assets/img/ThingToDo/Inspired/NATURE.png';
@@ -477,6 +490,85 @@ import efo15_2 from './assets/img/ThingToDo/exfol/15/vung tau family activities.
 import efo15_3 from './assets/img/ThingToDo/exfol/15/things to do Vung Tau families-5.jpg';
 import efo15_4 from './assets/img/ThingToDo/exfol/15/vung tau holiday ideas (2).jpg';
 import efo15_5 from './assets/img/ThingToDo/exfol/15/things to do Vung Tau families-3.jpg';
+
+/////////PlanYourTrip/TravelTip/Visa
+import visa_1 from './assets/img/PlanYourTrip/traveltips/visa/vietnam visa exemptions_0.jpg';
+import visa_2 from './assets/img/PlanYourTrip/traveltips/visa/1345.jpg';
+import visa_3 from './assets/img/PlanYourTrip/traveltips/visa/visaall_0.jpg';
+
+/////////PlanYourTrip/TravelTip/transport
+import transp1 from './assets/img/PlanYourTrip/traveltips/transport/transport-in-vietnam.jpg';
+import transp2 from './assets/img/PlanYourTrip/traveltips/transport/transport-in-vietnam-5.jpg';
+import transp3 from './assets/img/PlanYourTrip/traveltips/transport/transport-in-vietnam-2.jpg';
+import transp4 from './assets/img/PlanYourTrip/traveltips/transport/transport-in-vietnam-3.jpg';
+import transp5 from './assets/img/PlanYourTrip/traveltips/transport/transport-in-vietnam-4.jpg';
+import transp6 from './assets/img/PlanYourTrip/traveltips/transport/transport-in-vietnam-6.jpg';
+import transp7 from './assets/img/PlanYourTrip/traveltips/transport/Transport in Vietnam.jpg';
+
+/////////PlanYourTrip/TravelTip/transport
+import weath1 from './assets/img/PlanYourTrip/traveltips/weather/Vietnam Weather and Climate banner_0.jpg';
+import weath2 from './assets/img/PlanYourTrip/traveltips/weather/vietnam weather guide-7.jpg';
+import weath3 from './assets/img/PlanYourTrip/traveltips/weather/vietnam weather guide-2.jpg';
+import weath4 from './assets/img/PlanYourTrip/traveltips/weather/Vietnam Weather and Climate-4_0.jpg';
+import weath5 from './assets/img/PlanYourTrip/traveltips/weather/vietnam weather guide-4.jpg';
+import weath6 from './assets/img/PlanYourTrip/traveltips/weather/vietnam weather guide.jpg';
+import weath7 from './assets/img/PlanYourTrip/traveltips/weather/Vietnam Weather and Climate-3_0.jpg';
+import weath8 from './assets/img/PlanYourTrip/traveltips/weather/vietnam weather guide-3.jpg';
+
+/////////PlanYourTrip/TravelTip/Safety
+import safety1 from './assets/img/PlanYourTrip/traveltips/Safe/vietnam-tourism-travel-guide-2.jpg';
+import safety2 from './assets/img/PlanYourTrip/traveltips/Safe/safety in vietnam.jpg';
+import safety3 from './assets/img/PlanYourTrip/traveltips/Safe/health advice vietnam tourism.jpg';
+import safety4 from './assets/img/PlanYourTrip/traveltips/Safe/1016 AJS Vietnam TAB Hanoi-18.jpg';
+import safety5 from './assets/img/PlanYourTrip/traveltips/Safe/health advice for traveling vietnam.jpg';
+import safety6 from './assets/img/PlanYourTrip/traveltips/Safe/safety travel vietnam.jpg';
+
+/////////PlanYourTrip/TravelTip/history
+import history1 from './assets/img/PlanYourTrip/traveltips/history/History of Vietnam Banner.jpg';
+import history2 from './assets/img/PlanYourTrip/traveltips/history/History of Vietnam Thumbnail-2.jpg';
+import history3 from './assets/img/PlanYourTrip/traveltips/history/history vietnam body copy (1).jpg';
+import history4 from './assets/img/PlanYourTrip/traveltips/history/history vietnam body-5.jpg';
+import history5 from './assets/img/PlanYourTrip/traveltips/history/History of Vietnam-2.jpg';
+import history6 from './assets/img/PlanYourTrip/traveltips/history/history vietnam body-6.jpg';
+import history7 from './assets/img/PlanYourTrip/traveltips/history/history vietnam body-2 (1).jpg';
+import history8 from './assets/img/PlanYourTrip/traveltips/history/History of Vietnam-4.jpg';
+
+/////////PlanYourTrip/TravelTip/airpot
+import aripot1 from './assets/img/PlanYourTrip/traveltips/airpot/Vietnam airport Hanoi.jpg';
+import aripot2 from './assets/img/PlanYourTrip/traveltips/airpot/Vietnam airport guide.jpg';
+import aripot3 from './assets/img/PlanYourTrip/traveltips/airpot/Vietnam airport guide-4.jpg';
+import aripot4 from './assets/img/PlanYourTrip/traveltips/airpot/Vietnam airport guide-3.jpg';
+import aripot5 from './assets/img/PlanYourTrip/traveltips/airpot/Vietnam airport guide-2.jpg';
+
+/////////PlanYourTrip/TravelTip/festival
+import fest1 from './assets/img/PlanYourTrip/traveltips/festivals/top festivals and events in Vietnam.jpg';
+import fest2 from './assets/img/PlanYourTrip/traveltips/festivals/Tet holiday Vietnam.jpg';
+import fest3 from './assets/img/PlanYourTrip/traveltips/festivals/Hue Festival Vietnam.jpg';
+import fest4 from './assets/img/PlanYourTrip/traveltips/festivals/best Vietnamese festivals.jpg';
+import fest5 from './assets/img/PlanYourTrip/traveltips/festivals/Vietnam National Independence Day.jpg';
+import fest6 from './assets/img/PlanYourTrip/traveltips/festivals/Vietnamese Mid-autumn Festival.jpg';
+import fest7 from './assets/img/PlanYourTrip/traveltips/festivals/New Year Eve in Vietnam.jpg';
+
+/////////PlanYourTrip/TravelTip/ETIQETTE
+import etiq1 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/etiquette in vietnam.jpg';
+import etiq2 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/vietnamesecustoms.jpg';
+import etiq3 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/vietnamtips.jpg';
+import etiq4 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/basic etiquette in vietnam-5.jpg';
+import etiq5 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/basic etiquette in vietnam.jpg';
+import etiq6 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/Vietnam etiquette.jpg';
+import etiq7 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/basic etiquette in vietnam-3.jpg';
+import etiq8 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/vietnametiquette.jpg';
+import etiq9 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/basic etiquette in vietnam-4_0.jpg';
+import etiq10 from './assets/img/PlanYourTrip/traveltips/ETIQETTE/basic etiquette in vietnam-6.jpg';
+
+/////////PlanYourTrip/TravelTip/PAYMENTS
+import pay1 from './assets/img/PlanYourTrip/traveltips/payment/vietnam currency guide-4.jpg';
+import pay2 from './assets/img/PlanYourTrip/traveltips/payment/vietnam currency-5.jpg';
+import pay3 from './assets/img/PlanYourTrip/traveltips/payment/vietnam shopping tips.jpg';
+import pay4 from './assets/img/PlanYourTrip/traveltips/payment/credit cards vietnam.jpg';
+import pay5 from './assets/img/PlanYourTrip/traveltips/payment/vietnam currency-2.jpg';
+import pay6 from './assets/img/PlanYourTrip/traveltips/payment/vietnam currency.jpg';
+import pay7 from './assets/img/PlanYourTrip/traveltips/payment/how much do things cost in Vietnam.jpg';
 
 
 export const placesToGo = [
@@ -4124,6 +4216,890 @@ export const ThingtodoElm = [
 
                 ],
                 srcimg: efo15_5,
+            },
+
+        ]
+    },
+];
+
+export const traveltipicon = [
+    { id: 1, srcImg: iconT10, name: 'VISA', description: [``,] },
+    { id: 2, srcImg: iconT3, name: 'TRANSPORT', description: ['',] },
+    { id: 3, srcImg: iconT7, name: 'WEATHER', description: ['',] },
+    { id: 4, srcImg: iconT9, name: 'SAFETY', description: [``,] },
+    { id: 5, srcImg: iconT4, name: 'HISTORY', description: [``,] },
+    { id: 6, srcImg: iconT1, name: 'AIRPORTS', description: [``,] },
+    { id: 7, srcImg: iconT8, name: 'ITINERARIES', description: [``,] },
+    { id: 8, srcImg: iconT5, name: 'FETIVALS', description: [``,] },
+    { id: 9, srcImg: iconT2, name: 'ETIQETTE', description: [``,] },
+    { id: 10, srcImg: iconT6, name: 'PAYMENTS', description: [``,] },
+];
+
+export const PlanYourTripTra = [
+    {
+        id: 1,
+        route: 'VISA',
+        name: 'Vietnam Visa Requirements',
+        img: visa_1,
+        intro: '',
+        infor: [
+            {
+                id: 1,
+                title: 'New policies from 15th August 2023',
+                description: [
+                    'Vietnam grants e-visas for citizens of all countries and territories with 90-day stay duration and valid for multiple entry.',
+                    'Citizens of 13 coutries enjoying unilateral visa exemption can stay in Vietnam up to 45 days.',
+                    `Vietnam's new visa policy effective from 15th August 2023 extends stay duration for 13 countries enjoying unilateral visa exemption from 15 days to 45 days, regardless of passport type and entry purpose. The 13 coutries include: Germany, France, Italy, Spain, the UK, Russia, Japan, Republic of Korea, Denmark, Sweden, Norway, Finland and Belarus.`,
+
+                ],
+                srcimg: visa_2,
+            },
+            {
+                id: 2,
+                title: 'Below is the full list of 25 countries +Kazakhstan that are exempted from visa requirement:',
+                description: ['Brunei, Myanmar, Belarus, Denmark, Finland, France, Germany, Italy, Japan, Norway, Russia, South Korea, Spain, Sweden, The UK, The Philippines, Cambodia, Indonesia, Kyrgyzstan, Laos, Malaysia, Singapore, Thailand, Chile, Panama.',
+                ],
+                srcimg: '',
+            },
+            {
+                id: 3,
+                title: 'VIETNAM ELECTRONIC VISA (E-VISA) ',
+                description: ['From 15th August 2023, Vietnam grants e-visas for citizens of all countries and territories with 90-day stay duration and valid for multiple entry.',
+                ],
+                srcimg: visa_3,
+            },
+            {
+                id: 4,
+                title: 'Here is the list of border gates that allowed foreigners enter and exit Vietnam by E-visa.',
+                description: [
+                    `13 international airports: Noi Bai (Ha Noi), Tan Son Nhat (Ho Chi Minh City), Cam Ranh (Khanh Hoa), Da Nang, Cat Bi (Hai Phong), Can Tho, Phu Quoc (Kien Giang), Phu Bai (Thua Thien Hue), Van Don (Quang Ninh), Tho Xuan (Thanh Hoa), Dong Hoi (Quang Binh), Phu Cat (Binh Dinh), Lien Khuong (Lam Dong).`,
+                    '16 land border gates: Tay Trang (Dien Bien), Mong Cai (Quang Ninh), Huu Nghi (Lang Son), Lao Cai, Na Meo (Thanh Hoa), Nam Can (Nghe An), Cau Treo (Ha Tinh), Cha Lo (Quang Binh), La Lay and Lao Bao (Quang Tri), Bo Y (Kon Tum), Moc Bai and Xa Mat (Tay Ninh), Tinh Bien and Vinh Xuong (An Giang), Ha Tien (Kien Giang).',
+                    '13 sea border gates: Hon Gai and Cam Pha (Quang Ninh), Hai Phong, Nghi Son (Thanh Hoa), Vung Ang (Ha Tinh), Chan May (Thua Thien Hue), Da Nang, Nha Trang (Khanh Hoa), Quy Nhon (Binh Dinh), Dung Quat (Quang Ngai), Vung Tau (Ba Ria - Vung Tau), Ho Chi Minh City, Duong Dong (Kien Giang).',
+
+                ],
+                srcimg: '',
+            },
+
+
+        ]
+    },
+    {
+        id: 2,
+        route: 'TRANSPORT',
+        name: 'Transport within Vietnam',
+        img: transp1,
+        intro: 'Just like the diversity of its landscapes, Vietnam offers a variety of ways to get around. You may favour windswept motorbike rides, fly straight from point to point, or take the overland routes of trains and buses, soaking in the sights along the way. ',
+        infor: [
+            {
+                id: 1,
+                title: 'Flights in Vietnam',
+                description: [
+                    `For those short on time, flying is the most convenient way to see several destinations within Vietnam. Many travellers underestimate the distance (and state of the roads) between cities and opt for buses or trains instead of flying. It's good to note that train rides from Hanoi to Ho Chi Minh City can run up to 30 hours, and from Central Vietnam to either point, 16 hours is quite common. In light of this, it makes a lot of sense to opt for a one- or two-hour plane ride and spend more time in your destination. Prices for domestic tickets are surprisingly reasonable, and there are daily flights to all of the country's top destinations. `,
+
+
+                ],
+                srcimg: transp2,
+            },
+            {
+                id: 2,
+                title: '',
+                description: [
+                    'Vietnam Airlines is the national carrier and has the most flights daily, while Vietjet, Bamboo Airways and Pacific Airlines both offer affordable deals for short hops around the country.',
+
+                ],
+                srcimg: transp7,
+            },
+            {
+                id: 3,
+                title: 'Trains in Vietnam',
+                description: [
+                    `Averaging about 40km an hour, Vietnam's trains are an insightful and relaxing way to journey through the country. The North and South are connected by a single, 2,600km-track network managed by Vietnam Railways. The track snakes through the country from Ho Chi Minh City all the way to the Chinese border. Spring for the soft seats and four-berth cabins for a little extra comfort, or splurge on one of the private tourist sleeping cars that are now available for several key routes. The railroad line is undergoing renovations as much of the existing tracks date back to colonial times, so be sure to research before you go.`,
+                    `Hanoi Train Station Address: 120 Lê Duẩn, Cửa Nam, Hoàn Kiếm, Hà Nội, Vietnam`,
+                    `Ho Chi Minh City Train Station Address: 1 Nguyễn Thông, phường 9, Quận 3, Hồ Chí Minh, Vietnam`,
+                    'Buying train tickets in Vietnam',
+                    `You can buy your train tickets at counters in Vietnam's train stations days or months in advance of your trip, depending on the route. Train tickets are also sold through many travel agencies and online through Vietnam's official train ticketing website. `,
+                    'Children above 5 years old are charged the full ticket price. ',
+                    'All trains have western and squat toilets on both ends of every carriage.',
+                    'Luggage transport and freight forward service is available on Reunification Express Trains (see below.)',
+                    `"If you're traveling during Vietnamese holidays and peak times, be sure to book your train tickets well in advance. On ordinary days it's still a good idea to buy your tickets a few days early. If you're trying to buy tickets for same-day travel, you can expect the faster trains and best seats to be taken. "`,
+                    'The Reunification Express',
+                    `The Reunification Express isn’t really a train. It's a line connecting Hanoi and Ho Chi Minh City, completed by the French in 1936. The 36-hour scenic ride makes stops in Hue, Danang, Nha Trang, and Phan Thiet. A slow but memorable journey, five Reunification Express services run daily (7:30PM; 10PM; 6AM; 9AM; 1:10PM) from both Hanoi and Ho Chi Minh City. There are four classes to choose from: hard seat, soft seat, hard sleeper, and soft sleeper. The cabins are divided into four berths with simple bedding provided. `,
+
+                ],
+                srcimg: transp4,
+            },
+            {
+                id: 4,
+                title: 'Buses in Vietnam',
+                description: [
+                    `Open-tour buses are an increasingly popular service for budget travelers, especially in Vietnam's southern and central regions. Buses run regularly and reliably between top destinations such as Hanoi, Hue, Hoi An, Nha Trang, Da Lat, Mui Ne, and Ho Chi Minh City. Most open tour buses are sleeper buses, or have deep reclining chairs. A simple Google search will bring up the most reputed open-tour bus companies. We recommend booking one or two days ahead, unless you're travelling on a Vietnamese holiday: then you'll want to book seats at least two weeks in advance. `,
+
+                ],
+                srcimg: transp5,
+            },
+            {
+                id: 5,
+                title: 'Motorbikes in Vietnam',
+                description: [
+                    `Vietnam's quintessential mode of transport, motorbikes are the most convenient way to travel short distances. Independent travellers may like to try long-distance motorbiking for the adventure and spectacular views. Novice motorists should be careful on Vietnam's streets and observe the local style of driving, which is more ebb and flow than 'follow the rules'. You’ll find motorbike rental shops in almost every city. Prices depend on the quality of the bike, ranging from 150,000 to 300,000 VND/day for scooters and mopeds. You can expect to leave a deposit or your passport if you're renting for more than a week. When in Vietnam, never park your motorbike unattended, always wear a helmet, and be sure to check the ticket number if you leave it in a parking lot.`,
+
+                ],
+                srcimg: transp6,
+            },
+            {
+                id: 6,
+                title: 'Cycling in Vietnam',
+                description: [
+                    `Whether you're an avid cyclist or just enjoy a little pedal now and then, Vietnam will reawaken your love for this mode of transport. Although it's possible to cycle in the cities, Vietnam's small towns and beach destinations are perfect for two-wheeled excursions. Some of the country's best guided tours are in fact bicycle tours. You'll find these in the Mekong Delta and in Central Vietnam. In towns such as Hoi An and Hue, it's possible to get to almost everywhere you want to go by bicycle (many of the locals do.) Rentals are usually about 20,000 to 30,000 VND per day (about 1$.) `,
+
+                ],
+                srcimg: transp3,
+            },
+        ]
+    },
+    {
+        id: 3,
+        route: 'WEATHER',
+        name: 'Weather and climate in Vietnam',
+        img: weath1,
+        intro: 'Vietnam’s unique geography creates a range of weather patterns, with both tropical and temperate zones. While March to May offers the best weather countrywide, there is no bad time to visit Vietnam, as there is always some part of the country with holiday skies. Below is a guide to climate of Vietnam’s major regions and destinations, so you know what to expect during your trip.',
+        infor: [
+            {
+                id: 1,
+                title: 'Weather in Halong Bay',
+                description: [
+                    'December - March: cool to cold, misty, cloudy',
+                    'April - June: warm to hot, clear skies, sunny',
+                    'June - August: stormy, hot, humid',
+                    'September - November: mix of sun and clouds, warm to cool',
+                    `If you’re coming to Halong Bay, try to visit from April to June or September to November. You’ll have a better chance of enjoying sunny skies and pleasant temperatures. Other times of year, downpour or heavy mist is common, and  tropical storms can sometimes cause cruise cancellations. However, if you’re on the water during this time you can experience a more mystical side of Halong Bay, with its famous karsts shrouded in mist. Temperatures in January can be frigid, so be sure to bring warm layers.`,
+
+                ],
+                srcimg: weath2,
+            },
+            {
+                id: 2,
+                title: 'Weather in Hanoi',
+                description: [
+                    `December - March: cool to cold, misty, cloudy`,
+                    `April - June: warm to hot, clear skies, sunny`,
+                    `June - August: hot, humid, rainy`,
+                    `September - November: cool, clear skies, sunny`,
+                    'The best time to visit Hanoi is usually from April to June or from September to December. From April the days are normally hot, occasionally above 30 degrees with clear skies. September to November sees cooler temperatures of around 25 degrees and sunny skies -- perfect for exploring the capital.',
+                    'If you’re coming to Hanoi in June, expect soaring temperatures with humidity highs of 40 degrees, and the rainy season is full swing (June to August). December is cool, misty and atmospheric, however from late December until March temperatures are surprisingly cold with lows of 10 degrees. You’ll want to bundle up.',
+
+                ],
+                srcimg: weath3,
+            },
+            {
+                id: 3,
+                title: 'Weather in Sapa',
+                description: [
+                    `December - March: chilly, misty, cloudy`,
+                    `April - June: warm, clear skies, sunny`,
+                    `June - August: stormy, warm, humid`,
+                    `September - November: cool, clear skies, dry`,
+                    'Vietnam’s Northern destinations such as Sapa have a much cooler climate than the rest of the country, particularly from late December until March. Sapa sees the occasional snowfall in January, so be prepared. Hotels in the area are equipped with heated blankets and local spas offer herbal baths for you to soak in and warm up.',
+                    'Sapa is near-perfect in late April, as flowers bloom and skies are clear. Early October is also lovely, as its impressive tiered rice paddies turn golden just before harvest.',
+
+                ],
+                srcimg: weath4,
+            },
+            {
+                id: 4,
+                title: 'Weather in Huế',
+                description: [
+                    `September-February: cool to cold, rainy, cloudy`,
+                    `March-August: warm to hot, sunny, clear skies`,
+                    'Huế, home of Vietnam’s last reigning dynasty, has a late rainy season, with storms and days that are wet and cool from September to February. Look out for occasional flooding from September to November. In the early months of the year, temperatures go down to 15 degrees, and January often sees a bit of mist. The rest of the year is dry, and in July you’ll have perfect beach weather, with highs of 35 degrees.',
+
+                ],
+                srcimg: weath5,
+            },
+            {
+                id: 5,
+                title: 'Weather in Hội An',
+                description: [
+                    `September - January: rainy, cool, cloudy`,
+                    `February - August: warm to hot, sunny, clear skies`,
+                    'Hội An is one of the country’s picture-perfect places, but starting in September, tropical storms hit Central Vietnam hard. March is an excellent time to see Hội An when the fields, gardens and streets are awash in bright blossoms and soothing greens. From May to August, the town can be hot, and you’ll want to head to the beach to cool off. In the late months of the year, from September to November, Hội An sees a lot of rain and even a few small floods. The temperatures begin to dip and reach their coldest point in January, warming up just before the Vietnamese new year.',
+
+                ],
+                srcimg: weath6,
+            },
+            {
+                id: 6,
+                title: 'Weather in Nha Trang',
+                description: [
+                    `September to December: cool, rainy, cloudy`,
+                    `January - August: hot, sunny, clear skies`,
+                    'Nha Trang gets the more than 300 days of sunshine per year, the most out of the whole country. Some monsoons hit between September and December, but in general Nha Trang has the shortest rainy season in Vietnam. Most of the year, the city has a pleasant temperature, with cooling sea breezes, although you should expect lots of sun and hot days from July until August. ',
+                ],
+                srcimg: weath7,
+            },
+            {
+                id: 7,
+                title: 'Weather in Da Lat',
+                description: [
+                    `April - October: rainy, warm to hot, cloudy`,
+                    `November - May: cool to cold, dry, clear skies`,
+                    'Nestled in the central highlands, this charming mountain city is appreciated for its temperate climate. The air in Da Lat is always fresh and crisp. The mountains provide consistent cool temperatures and pleasant breeze, making it a great spot to escape the heat of the cities. Da Lat’s rainy season is from April until October. Temperatures are generally consistent with lows of 20 degrees in January and highs of 30 degrees in July.',
+
+                ],
+                srcimg: weath8,
+            },
+        ]
+    },
+    {
+        id: 4,
+        route: 'SAFETY',
+        name: 'Health and Safety',
+        img: safety1,
+        intro: 'Vietnam has been ranked one of the safest countries in the world for travellers, however it always pays to be prepared. These health and safety tips will help you travel Vietnam with greater peace of mind. Also below is a list of public and private hospitals for easy reference. ',
+        infor: [
+            {
+                id: 1,
+                title: 'HEALTH TIPS FOR TRAVELLING VIETNAM',
+                description: [
+                    'Before you go',
+                    'Before traveling to Vietnam, be sure to purchase insurance for your trip. Two months before you leave, you should also consult your doctor or local travel clinic for the latest information on health risks in Vietnam and to receive any vaccinations you may need. ',
+                    'Pregnant women should consult their doctors for specialised advice. Anti-malarial drugs and many diarrhoea treatments are not completely safe during pregnancy.',
+                    'If you have a medical condition or allergy of which requires particular attention, carry a doctor’s letter with you that describes the nature of the condition and treatment needed. We also recommend you pack a medical kit with:',
+                    'DEET-based insect repellent',
+                    'Paracetemol or ibuprofen for pain relief',
+                    'Anti-itch ointment, such as hydrocortison',
+                    'Sunscreen',
+                    'Antihistamine for allergy treatment, such as zertec, benadryl',
+                    'Bacitracin for wound care, such as neosporin',
+                    'Diarrhoea treatment, such as imodium',
+                    `"Some medications can be difficult to find in Vietnam: be sure you travel with a full supply of any prescribed medicine you need."`,
+                    'Hospitals in Vietnam',
+                    'Major cities such as Hanoi, Danang, and Ho Chi Minh City have a number of state-owned and private hospitals with English-speaking staff. While small pharmacies are common in almost any Vietnamese city, in the rural areas you may be far from the nearest pharmacy or hospital. ',
+
+
+                ],
+                srcimg: safety2,
+            },
+            {
+                id: 2,
+                title: 'COMMON HEALTH ISSUES IN VIETNAM ',
+                description: [
+                    'Pollution in Vietnam',
+                    'Air pollutants may aggravate asthma and allergy symptoms. Symptoms include scratchy throat and nasal drip. For anyone with respiratory ailments, invest in a small mask while travelling around metropolitan areas, or plan to spend more time in the countryside if possible.',
+                    'Mosquito-borne diseases',
+                    'The risk of contracting malaria is heightened in the rural highlands. Consider taking anti-malarial medication if you plan to travel to any remote destinations in Vietnam. Dengue fever has become increasingly problematic in Southeast Asia and occurs mostly in the Mekong Delta, including Ho Chi Minh City. With no vaccines available, the best preventive measure is to wear bug spray during the hours of sunrise and sunset.',
+
+
+
+                ],
+                srcimg: safety3,
+            },
+            {
+                id: 3,
+                title: 'Heat concerns',
+                description: [
+                    `Vietnam tends to be hot and humid year round. Don’t underestimate the strength of the sun. Sunburn can happen quickly: it's best to wear sunscreen throughout the day. Be vigilant with reapplication, especially at beachside destinations. Dehydration is another concerns, as well as heat exhaustion, which may show up in symptoms such as headaches and irritability. Drink plenty of water. Heatstroke is a more serious consequence of overexposure to sun and may require hospital treatment. If you're feeling weak, dizzy, nauseous, and have a temperature of over 41°C, get medical help immediately`,
+                    'Food-related illnesses',
+                    'Traveller’s diarrhoea is a common concern when in new countries. Stick to bottled water and avoid ice in rural areas. To avoid contracting bacteria, look for restaurants with a high turnover of customers and those that prepare freshly cooked food. Generally street food in Vietnam is quite safe, but always use your own judgement when choosing from vendors. If you experience stomach upsets or diarrhoea, take rehydration salts and stay hydrated. If the problems persist, seek medical attention.',
+                    'Critter bites ',
+                    `These are sometimes an issue when when staying in hostels and other shared dormitories, and sometimes even in hotels. Seek help at the nearest clinic if you're suffering from the bites of fleas, bed bugs, and/or lice. Be on the lookout for rabies when in contact with animals, wild or domesticated. Avoid the monkeys on Cat Ba Island when touring Ha Long Bay. When jungle trekking, be wary of ticks, leeches and poisonous snakes lurking in the undergrowth. Seek medical assistance immediately if bitten.`,
+
+
+                ],
+                srcimg: safety4,
+            },
+            {
+                id: 4,
+                title: 'SAFETY TIPS FOR TRAVELLING VIETNAM',
+                description: [
+                    'Petty theft',
+                    'Vietnam is a relatively safe country, however petty theft is a legitimate concern, especially in the big cities. Refrain from extending cameras and cellphones on busy streets and corners: most robberies are drive-by snatchings. When taking pictures on sidewalks, keep your camera close to your body and away from the flow of traffic.',
+                    'Women in particular should be warned to keep a tight grip on their bags and purses when walking in Ho Chi Minh City. When riding a motorcycle, place your bags in the seat compartment or hook them in the front of the bike. Bags carried around the shoulder or in bike baskets can easily be snatched.',
+                    'When staying in hotels and guesthouses, place your valuables in the safe or lock them in your bags before leaving your room. It is a good idea in general to be mindful of your valuables, keep a close eye on your bags and not to flaunt large amounts of cash or expensive gadgets in rural areas.',
+                    'Unfortunately, if you find yourself the victim of theft, little can be done by law enforcement to recover stolen belongings.',
+
+
+
+                ],
+                srcimg: safety5,
+            },
+            {
+                id: 5,
+                title: '',
+                description: [
+                    'Taxi scams',
+                    `Taxi scams in Vietnam take the form of rigged meters, overcharging, confusing currency and fixed prices. Two trusted companies you can rely on are Mai Linh and Vinasun. Both of these taxi companies have new vehicles and sealed metres, they also have a pick-up service that works in most Vietnamese towns and cities. You can look for them as soon as you land in Vietnam's international airports.`,
+
+                ],
+                srcimg: safety6,
+            },
+            {
+                id: 6,
+                title: '',
+                description: [
+                    'Tourist Scams',
+                    `Vietnam is constantly improving its tourism services, however there are still some agents and independent operators who flout the rules. When booking cruises on Halong Bay, always go with reputed companies. For tours around Vietnam, book with vetted travel agents as opposed to hole-in-the-wall establishments to avoid being scammed`,
+                    'For Female Travellers',
+                    `Vietnam is generally a safe country to travel and female travellers will find themselves welcome. The Vietnamese are still quite conservative, so it's best to respect the local culture by not baring too much skin. Solo female travellers can expect to be approached with questions about why they are travelling alone. The enquiries are usually harmless and borne out of curiousity. Crime against women is uncommon in Vietnam. Nonetheless it's wise to not be alone on the streets late at night, and to take a taxi if you're heading back late. `,
+
+
+                ],
+                srcimg: '',
+            },
+        ]
+    },
+    {
+        id: 5,
+        route: 'HISTORY',
+        name: `Vietnamese history A primer`,
+        img: history1,
+        intro: 'Vietnam is a country founded in legends. Millennia of invasions and conflicts have shaped Vietnamese culture into what you see today. To help you fully appreciate the attractions and culture you’ll encounter in Vietnam, here’s a brief overview of the notable time periods and figures in the nation’s history, as well as specific suggestions for deeper exploration during your trip.',
+        infor: [
+            {
+                id: 1,
+                title: 'Dynastic Rules (2nd to 15th centuries)',
+                description: [
+                    'Throughout its history, many dynasties ruled over Vietnam in between periods of Chinese occupation. There are four main dynasties to note: the Ly, the Tran, the Le, and the Nguyen. First, the Ly Dynasty drove out the Chinese, ending a thousand year-long rule, and set up a centralized the government in Hanoi. Then came the Tran Dynasty, which repelled a Mongol attack in the Red River Delta under the command of general Tran Hung Dao. These two dynasties helped build the foundation of Vietnam, as people with long-standing love for their land.',
+                    'Places to discover:',
+                    'Thang Long Citadel (Hanoi) - To unearth more about the dynastic history of Vietnam, explore the ruins of this royal enclosure, originally built during the Ly Dynasty. ',
+
+                    'Temple of Literature (Hanoi) - Take a stroll through the city’s first university, established in 1070. This serene and historic structure is located just west of the Old Quarter.',
+
+                    'One Pillar Pagoda (Hanoi) - This sacred monument was erected by an emperor in gratitude for the birth of his son.'
+                ],
+                srcimg: history2,
+            },
+            {
+                id: 2,
+                title: 'The Le Dynasty Pushes South (15th to 17th centuries)',
+                description: [
+
+                    'China invaded Vietnam again at the turn of the 15th century, but this period did not last nearly as long as the previous occupation. Le Loi, a wealthy landowner, managed to lead a resistance and reclaim Vietnam. This established the Le Dynasty, which succeeded in expanding southward, gaining control over the former Champa Kingdom. The Cham were an ethnic group from the Indian sub-continent, that lived in central and southern Vietnam from the 2nd century. A strong kingdom with mercantile skills, they were eventually defeated and driven into the depths of the Mekong Delta.',
+                    'Places to discover:',
+                    'Cham towers and complexes (Central Vietnam) - Discover the vast and fascinating ruins of My Son sanctuary a few kilometres outside of Hoi An. Visit the Po Nagar towers in central Nha Trang or the Po Shanu towers a short drive from Mui Ne town.',
+                    'Museum of Cham Sculpture (Da Nang) - Founded during the French colonial rule, this charming building hosts incredible displays of Cham relics and sculptures.',
+                ],
+                srcimg: history3,
+            },
+            {
+                id: 3,
+                title: 'The Last Dynasty (19th Century)',
+                description: [
+                    'The Nguyens came into power during a divisive civil conflict that had left Vietnam fractured. Under the leadership of Emperor Gia Long, the country was reunited and in 1802, Gia Long constructed a new feudal capital in the city of Hue in Central Vietnam. During the reign of the Nguyen Emperors, French influence in Vietnam grew under the pretext of religious reform and evangelicalism. Eventually, the French established control over the whole of Vietnam, adding the central and northern regions to the rest of their conquests (neighbouring Laos and Cambodia). The last Nguyen emperor, Bao Dai, formally abdicated his throne.',
+                    'Places to discover:',
+                    'Imperial City (Hue) - Explore the legacy of the Nguyen Dynasty with a walk around the Hue Citadel and Imperial City, one of Vietnam’s top historical attractions.',
+                    'Royal Tombs (Hue) - Make time to visit the grandiose tombs of the Nguyen Emperors, each one different from the others, and designed by the Nguyen emperors before their deaths.',
+
+
+                ],
+                srcimg: history4,
+            },
+            {
+                id: 4,
+                title: 'French Colonisation (late 19th to early 20th century)',
+                description: [
+                    'During the French colonisation of Vietnam, the country was divided into three protectorates: Tonkin, Annam and Cochinchine. Throughout French rule, resistance brewed among the Vietnamese. At the turn of the century many notable Vietnamese writers published works calling for solidarity and freedom from colonial rule. These ideas were temporarily silenced but not forgotten. Despite mass arrests by the French, many Vietnamese nationalists used imprisonment to spread their cause and mobilize for the future.',
+                    'Places to discover:',
+                    'Con Dao Prison Complex (Con Dao Island) - While enjoying the beaches of Con Dao Island, visit the prison complex to unearth stories about its tragic past.',
+                    'Hoa Lo Prison (Hanoi) - This urban prison, a short walk from Hoan Kiem lake, was dubbed the ‘fiery furnace’ by locals.',
+                    'French Quarter (Hanoi) - Take a stroll around Hoan Kiem District to encounter many well-preserved French villas, as well as other architectural relics from the French colonisation, including Long Bien Bridge and the Metropole Hotel.',
+
+
+                ],
+                srcimg: history5,
+            },
+            {
+                id: 5,
+                title: 'Invasion to Independence (early to mid-20th century)',
+                description: [
+                    'When France was occupied by Germany, Japan seized the opportunity to invade Vietnam. This strategic move resulted in Japanese forces taking control of Hanoi in 1940. A year later they moved further south, along the way awakening remaining elements of the Vietnamese resistance and spurring communists and nationalists to band together to form the Viet Minh under Ho Chi Minh. The Viet Minh destabilized the Japanese, and by 1945, Japan surrendered to Allied forces on the same day Ho Chi Minh declared Vietnam an independent nation in Hanoi’s Ba Dinh Square.',
+                    'Places to discover:',
+                    'Cannon Fort (Cat Ba) - This hilltop fort was built by the Japanese after their invasion of Cat Ba. Discover more about this event and enjoy the views of the port and jungle below.',
+                    'Ba Dinh Square (Hanoi) - Visit this iconic square in front of the Ho Chi Minh Mausoleum, before checking out the Presidential Palace and Ho Chi Minh’s stilt house.',
+
+
+                ],
+                srcimg: history6,
+            },
+            {
+                id: 6,
+                title: 'The Indochina Wars & Reunification (mid-20th century)',
+                description: [
+                    'Resistance to French colonial rule came to a head when the First Indochina War began in 1946. The war lasted until a stark defeat at the Battle of Dien Bien Phu. After a ceasefire was signed, Vietnam was divided at the 17th parallel, setting the stage for a war that would capture worldwide attention. American involvement in South Vietnam had begun well beforehand, and as the United States committed more and more forces to the war effort, so did North Vietnam. The Tet Offensive marked a turning point for north, and ultimately American forces retreated from Saigon as the city was taken by North Vietnamese troops on April 30, 1975.',
+                    'Places to discover:',
+                    'War Remnants Museum (Ho Chi Minh City) - This museum showcases the harsh reality of the war through the lenses of renowned  photographers on both sides of the conflict.',
+                    'Reunification Palace (Ho Chi Minh City) - Take a stroll around this former seat of power for the Republic of Vietnam. The day the Viet Cong tanks crashed through the gates of the palace marked the end of the war.',
+                    'Cu Chi Tunnels - These underground tunnels outside Ho Chi Minh City reveal how the Viet Cong guerrilla forces survived and waged war under remarkable conditions.',
+                ],
+                srcimg: history7,
+            },
+            {
+                id: 7,
+                title: 'Doi Moi & Vietnam Now (late 20th century to the present)',
+                description: [
+                    'After the Second Indochina War, the country went through a period of adjustment and reunification. In 1986, the Vietnamese government introduced its ‘Doi Moi’ (renewal) policy nationwide. These reforms resulted in gradual economic growth, as more and more Vietnamese began to open businesses. Recently, Vietnam has seen a boom in development, and is one of the region’s fastest-growing economies. The country offers is a fascinating mix of old and new, with compelling historical attractions and a deeply rooted sense of appreciation for its past.',
+
+
+                ],
+                srcimg: history8,
+            },
+
+
+        ]
+    },
+    {
+        id: 6,
+        route: 'AIRPORTS',
+        name: `A traveller's guide to Vietnam's airports`,
+        img: aripot1,
+        intro: 'Airports are often the first point of entry for travellers to Vietnam. Whether you are aiming for a smooth arrival in the country or want to prepare for a domestic flight, you can breeze through the process by reading up on this complete guide to Vietnam’s airports.',
+        infor: [
+            {
+                id: 1,
+                title: 'A brief overview of Vietnam’s airports',
+                description: [
+                    'Most international flights come in through one of Vietnam’s three main airports in Hanoi, Da Nang or Ho Chi Minh City. There are also direct international flights to major tourism hubs such as Nha Trang and Phu Quoc. No matter which airport you land in, you will need a visa or be eligible for a visa exemption to enter the country. You can find out more about Vietnam’s visa exemptions and requirements',
+                    'Within Vietnam, flying is usually the most convenient way to reach distant destinations. Flights are normally affordable but you should expect prices to go up around public holidays. Domestic carriers are Vietnam Airlines, Vietjet Air, Bamboo Airways and Jetstar. For more about getting around within Vietnam, read this story.',
+
+                ],
+                srcimg: aripot2,
+            },
+            {
+                id: 2,
+                title: 'Points to note',
+                description: [
+                    'Taxis: Mai Linh and Vinasun are two trusted taxi companies within Vietnam. You can ask or look for their representatives at the airport taxi bays on arrival.',
+                    'Facilities: All international airports in Vietnam have free WiFi, water drinking stations, currency exchange centres, duty-free shops, and smoking lounges for passengers.',
+                    'Dining: Vietnam’s airports tend toward chain restaurants. Burger King, Highlands Coffee, Big Bowl and Star Cafe appear in almost every terminal.',
+                    'ATMs: ATMs can be found just outside the entrances of Vietnam’s airports. Most local ATMs dispense sums of 2,000,000 VND to 5,000,000 VND per transaction.',
+                    'Luggage stubs: Be sure to keep your luggage stubs when taking domestic flights in Vietnam. These will be checked by airport personnel before you leave the terminal.',
+                ],
+                srcimg: '',
+            },
+            {
+                id: 3,
+                title: `Guide to Hanoi's International Airport`,
+                description: [
+                    'Terminals ',
+                    `Hanoi's Noi Bai International Airport (HAN) has two airport terminals: T1 for domestic flights and T2 for international flights. The terminals are 850m apart. A free shuttle bus runs every 10 - 15 mins from 6am to 1am between the 1st floor of T2 on western side, and the 2nd floor of T1 (departures.) The check-in counters at in the domestic terminal are divided into three lobbies: A, B, and E (for Vietjet flights.) All boarding gates are accessible once you’re through the security checkpoint, no matter which lobby you enter from.`,
+                    'The international terminal is a newer construction. There is an ATM within the immigrations area for those who need to pay visa fees in Vietnamese Dong. The terminal also has a left luggage or locker room, and duty-free stalls.',
+                    'Transport',
+                    'Noi Bai Airport is about 27 kilometres from downtown Hanoi. It usually takes about an hour to reach the airport from the city centre.',
+                    'Taxis: Metered taxis to and from the airport cost about 300,000 VND to 400,000 VND. Your driver may request an additional 15,000 VND for the airport toll fee.',
+                    'Ride-hailing apps: Apps such as Grab, Be, and Go Viet are a great option for those who have Vietnamese SIM cards. The ride typically costs about 250,000 VND with GrabCar.',
+                    'Minivans: From 4am to 9pm, VietJet Air and Vietnam Airlines run mini-vans from the airport to downtown Hanoi and vice versa. You’ll see these shuttles when you exit Arrivals. The route ends at 1 Quang Trung in the Old Quarter. Tickets cost 40,000VND.',
+                    'Buses: From 6:30am to 11pm, the bright orange 86 Express Bus runs from the airport through central Hanoi and ends at the train station. Tickets are 30,000 VND.',
+
+
+                ],
+                srcimg: aripot3,
+            },
+            {
+                id: 4,
+                title: `Guide to Da Nang's International Airport`,
+                description: [
+                    'Terminals',
+                    'Da Nang International Airport (DAD) has two terminals: T1 for domestic flights and T2 for international flights. Both terminals are in easy walking distance of each other via a covered walkway. The Da Nang airport is modern and rarely overcrowded. The arrivals hall in the domestic terminal has lounges from major resorts, as well as shops and ATMs just outside the exit. The international arrival visa desk is less busy than those in Hanoi and Ho Chi Minh City, but there is no ATM in the immigration area so be prepared to pay fees with USD or VND.',
+                    'Transport',
+                    'The airport in Da Nang is about five kilometres from the city centre, 29 kilometres from the Hoi An Ancient Town, and 98 kilometres from Hue. Allocate 30 minutes to reach the airport from the beach area in Da Nang.',
+                    'Hired car: If you’re going to Hoi An, your hotel can arrange a car for a fixed price between 250,000 to 350,000 VND. ',
+                    'Taxis: Taxis to downtown Da Nang cost between 70,000 VND to 120,000 VND.  A metered taxi to Hoi An will cost upwards of 450,000 VND.',
+                    'Ride-hailing apps: Grab and Go Viet are available in Da Nang and work well for short distances and motorcycle transfers. You’ll need a Vietnamese SIM card to use these services.',
+                    'Shuttles: Affordable shuttle vans run hourly from 5am to 11pm from the airport to Da Nang City and Hoi An. Look for the Hoi An Express shuttle at gate A4 in the domestic arrivals area.',
+
+                ],
+                srcimg: aripot4,
+            },
+            {
+                id: 5,
+                title: `Guide to Ho Chi Minh City's International Airport`,
+                description: [
+                    'Terminals',
+                    `Ho Chi Minh City's Tan Son Nhat International Airport (SGN) has two terminals (T1 domestic, T2 international) connected by a 500m covered walkway. The domestic terminal has two separate lobbies for boarding, one for Vietjet flights only. The line-up for the security check in Ho Chi Minh City can get clogged, so be sure to set aside enough time to reach your gate. Just outside the domestic terminal you’ll find a retail area with Starbucks and McDonalds. The international airport is a modern building with duty-free shops, airline lounges and restaurants in the departure lobbies.`,
+                    'Transport',
+                    'The airport in Ho Chi Minh City is eight kilometres from the city centre. It can take 50 minutes or more to reach the airport depending on traffic.',
+                    'Hired car: The Song Viet Car desk at the airport can arrange a car on the spot or in advance for a fixed price, from 180,000 VND.',
+                    'Taxis: Vinasun and Mai Linh taxis are available at the taxi bay. Expect to pay 120,000 VND  to 180,000 VND for a ride into town, plus 10,000 VND for the airport toll fee.',
+                    'Ride hailing apps: Grab, Be and Go Viet all work well in HCMC. Be sure to have a Vietnamese SIM card ready if you want to use these apps.',
+                    'Buses: Two bright yellow buses run between the city center and the airport. These have plenty of room for luggage and the staff speak enough English to help travellers. For 20,000VND you can ride one of the two routes into town. Route 109 ends in the backpacker district and Route 49 ends at Ben Thanh Station. The first and last buses run at 5am to 2:30am. Tickets cost between 20,000 VND to 40,000 VND.',
+
+                ],
+                srcimg: aripot5,
+            },
+        ]
+    },
+    {
+        id: 7,
+        route: 'ITINERARIES',
+        name: `Guide to Ho Chi Minh City's International Airport`,
+        img: timels1,
+        intro: '',
+        infor: [
+            {
+                id: 1,
+                title: '',
+                description: [
+                    'Terminals',
+                    `Ho Chi Minh City's Tan Son Nhat International Airport (SGN) has two terminals (T1 domestic, T2 international) connected by a 500m covered walkway. The domestic terminal has two separate lobbies for boarding, one for Vietjet flights only. The line-up for the security check in Ho Chi Minh City can get clogged, so be sure to set aside enough time to reach your gate. Just outside the domestic terminal you’ll find a retail area with Starbucks and McDonalds. The international airport is a modern building with duty-free shops, airline lounges and restaurants in the departure lobbies.`,
+                ],
+                srcimg: efo7_1,
+            },
+            {
+                id: 2,
+                title: '',
+                description: [
+                    'First built during the French Colonial Era and named “Maison Centrale”, it incarcerated Vietnamese revolutionaries and political dissidents, a crucible through which many leaders of the Vietnamese resistance passed. The name Hoa Lo, which translates as “stove,” “fire kiln,” or “fiery furnace” comes from a village name, specializing in making all kinds of casserole, portable earthen stove… later on being occupied by the French to build up the prison and court as being seen today. Now, the remaining structures of the prison have been converted into a museum, and the night tour “Sacred Night - Glorious Vietnamese Spirit” has given new life to its mission of preserving the history of this famous site.',
+                    'Launched in July 2020, the tour runs on Friday, Saturday, and Sunday, starting from 7 PM and lasting 90 minutes. The main focus of both the museum and the night tour is on highlighting the experience of the Vietnamese revolutionaries incarcerated here during the French Colonial Era.',
+                    'At the beginning of the tour, each visitor is given their own pair of headphones, allowing them to hear the guide’s instructions and be immersed in their own personal journey.  After a general briefing on the history of Hoa Lo, visitors enter the gate, where they are shown a model reconstruction of the prison at its height. Past this point, the experience begins in earnest. The tour utilizes a carefully crafted landscape of lights and sounds to bring visitors inside the life of the prison, with dark lighting and ambient sounds creating a brooding, oppressive atmosphere. This gives visitors a small taste of the harsh conditions and suffering endured by the prisoners who would become Vietnamese national heroes, and a chance to marvel at their resilience and strong spirits.',
+
+                ],
+                srcimg: efo7_2,
+            },
+            {
+                id: 3,
+                title: '',
+                description: [
+
+                    'Visitors are brought to the cell block for male prisoners, a single room of bare concrete with a bucket latrine in the corner, where prisoners were shackled in two rows on long slab tables. With only 15 minutes a day provided for them to move around and wash, this room may as well have been the entire world for the revolutionaries who spent their days bound at the ankle and sandwiched between their comrades. The room is filled with life-sized replicas of these prisoners, lit up by the only bright lights to be found, on whose ceramic faces the ravages of starvation and torture are evident.',
+
+
+                ],
+                srcimg: efo7_3,
+            },
+            {
+                id: 4,
+                title: '',
+                description: [
+
+                    `This strength of will is further attested to by a series of escapes from the prison, the most famous of which has a special place in the tour. In 1951, 17 death-row prisoners cut through prison bars to escape through tunnels into the sewer. Upon exiting the sewer, they encountered a patrol of soldiers, and only 5 survived to join the resistance. Visitors on the night tour are given a chance to see the tunnels through which they escaped, complete with a replica of inmate Vo Duc Chinh cutting through the bars.`,
+
+                ],
+                srcimg: efo7_4,
+            },
+            {
+                id: 5,
+                title: '',
+                description: [
+
+                    `Tourgoers will also visit the solitary confinement cells, where the most troublesome of prisoners were punished. In the female cell block, they are given a chance to learn about the life of martyr Nguyen Thi Quang Thai, the first wife of General Vo Nguyen Giap, who was held in prison until her death.`,
+                ],
+                srcimg: efo7_5,
+            },
+            {
+                id: 6,
+                title: '',
+                description: [
+
+                    `It is with a feeling of relief that visitors will emerge from the darkness into the prison courtyard, where they are treated to the performance of a musical piece composed by famed musician and artist Do Nhuan to commemorate the prisoners of Hoa Lo. Other highlights of the tour include a preserved French guillotine used to execute inmates, and a tropical almond tree (Bang) from which prisoners gathered almonds, made medicine, and carved flutes and chopsticks. The final destination of the tour is a memorial space dedicated to the prisoners who sacrificed their lives for Vietnam, where visitors can offer incense and sit for a moment of silent contemplation.`,
+
+                ],
+                srcimg: efo7_6,
+            },
+            {
+                id: 7,
+                title: '',
+                description: [
+
+                    `After the tour, visitors will be offered a cup of tea, a pastry and a jello made from Bang leaves to refresh the emotion.`,
+
+                ],
+                srcimg: efo7_7,
+            },
+
+        ]
+    },
+    {
+        id: 8,
+        route: 'FETIVALS',
+        name: 'Top 10 festivals & holidays in Vietnam',
+        img: fest1,
+        intro: 'Vietnam’s festivals and holidays are colorful experiences, often showcasing national heritage, music and dance performances, and high-energy activities such as dragon boat races and street parades. Take part in the fun and learn about the legends that have shaped Vietnam by joining one of these celebrations during your trip. Here are the top 10 festivals to add to your Vietnam itinerary.',
+        infor: [
+            {
+                id: 1,
+                title: 'Lunar New Year',
+                description: [
+                    'The Lunar New Year, or Tết, is Vietnam’s largest and most important festival. Emphasis is placed on family with many returning to their home town to celebrate. Yet Tết still offers plenty for travellers to enjoy throughout the country. Usually falling in January or February, Tết Eve is the most important day in the lunar calendar and the excitement is palpable! Join the fun by enjoying the outdoor flower displays and toasting midnight fireworks with locals.',
+                    'Tết is always held on the first day of the first month of the lunar calendar.',
+                ],
+                srcimg: fest2,
+            },
+            {
+                id: 2,
+                title: 'Lim Festival',
+                description: [
+                    'A jovial celebration of spring, the Lim Festival commemorates the festival founder while highlighting the unique culture of the Red River Delta. The festival has a remarkable ritual: quan họ. Quan họ folk songs are preformed by traditionally dressed men and women who serenade each other from aboard dragon boats. Sit back and listen to their haunting voices carry across the lake. ',
+                    'The Lim Festival is held on the 12th or 13th day of the first lunar month.',
+                    `"TIP: If you’re in Hanoi around February, you can find the Lim Festival an hour’s drive east in Bac Ninh Province."`,
+                ],
+                srcimg: '',
+            },
+            {
+                id: 3,
+                title: 'Huế Festival & Huế Craft Village Festival',
+                description: [
+                    'The former capital of Vietnam and home of the last Vietnamese dynasty, Huế is rich in cultural heritage. The Huế Festival or Huế Craft Village Festival takes place alternately every year in April. During the Huế Festival, history comes to life in spectacular performances at the Citadel and around the city. The Huế Craft Village Festival features exhibitions of artisanal crafts that have been made in surrounding villages for centuries.',
+                    `Huế's annual festivals are held over a week from late April to early May.`,
+
+                ],
+                srcimg: fest3,
+            },
+            {
+                id: 4,
+                title: 'Hùng Kings Temple Festival',
+                description: [
+                    'The Hùng Kings Temple Festival commemorates the first king of Vietnam. King Vương is legendary and his origin story is celebrated every year in either April or May as a testament of Vietnam’s epic history. To join the festival, travel to the Hùng Temple in Việt Trì City, where you can witness hundreds of lanterns set aloft into the sky on the eve of the festival. The day of the festival, watch as processions of pilgrims make their way up the mountain.',
+                    'Hùng Kings Day is from 8th to 11th day of the third lunar month.',
+
+                ],
+                srcimg: '',
+            },
+            {
+                id: 5,
+                title: 'Xến Xó Phốn Festival',
+                description: [
+                    'The beautiful valley of Mai Châu is the scene of the Xến Xó Phốn festival between April and May each year. The festival belongs to the calendars of the White Thai people, a minority group and is essentially a ritual to call for rain. This is done with a variety of songs and offerings made throughout the village. Local lore states that the bigger the festival, the heavier the rains and the more prosperous the harvest.',
+                    'The Xến Xó Phốn Festival takes plan in the 4th lunar month.',
+
+                ],
+                srcimg: fest4,
+            },
+            {
+                id: 6,
+                title: 'Ghost Festival or Wandering Souls Day',
+                description: [
+                    'The Vietnamese believe that on one day in late August or early September, the spirits of ancestors return to visit their earthly homes. This moment where the spirit realm opens is at time to pay respects to the dead. The night before Wandering Souls Day families will offer prayers, flowers and fruits at the graves of their ancestors. Paper money and clothes are burned for spirits to use in the afterlife. ',
+                    'The Ghost Festival is on the 15th day of the 7th lunar month.',
+                    `"TIP: While practiced throughout the country, Hue’s pagodas are an atmospheric place to witness the ritual of Wandering Souls Day."`,
+
+
+                ],
+                srcimg: '',
+            }, {
+                id: 7,
+                title: 'Independence Day ',
+                description: [
+                    'Sept. 2, 1945 was the day Ho Chi Minh declared the Independence of the Nation of Vietnam from France in Hanoi’s Ba Dinh Square. This annual celebration commemorates that historic moment with patriotic displays and flags adorning alleyways throughout Vietnam. Major cities such as Hanoi and Ho Chi Minh City hold parades during the day and light fireworks at night. Everyone is out in the streets celebrating, and travellers are welcome to enjoy the festivities too.',
+                    'Vietnamese Independence Day is on September 2.',
+
+
+                ],
+                srcimg: fest5,
+            }, {
+                id: 8,
+                title: 'Mid-Autumn Festival',
+                description: [
+                    'Children are the stars of the Mid-autumn Festival as an abundance of toys, paper lanterns and masks are given out as playthings. Celebrated between September and October, this joyful day is known for its lion dances and lantern processions. Many families gather in their gardens with tea and sweets to watch the harvest moon and enjoy performances from passing dance troupes.',
+                    'The Mid-autumn Festival is held on the 15th day of the 8th lunar month.',
+                    `"TIP: Hoi An’s UNESCO-listed Ancient Town is a magical place in Vietnam to mark the Mid-autumn Festival, as boats and lanterns float down the Thu Bon River."`,
+
+                ],
+                srcimg: fest6,
+            }, {
+                id: 9,
+                title: 'Oóc Om Bóc',
+                description: [
+                    'In early December, the Khmer living in the Mekong Delta of Vietnam stage a lively festival known as Oóc Om Bóc. Celebrated in Sóc Trăng province, where Khmer culture is everywhere, this festival offers an incredible glimpse into Vietnam’s diversity. Look out for activities thanking the moon god for the year’s harvest, as well as feasting, singing and dancing. Crowds of thousands gather for the festival’s highlight: A thrilling ‘Ngo’ boat race.',
+                    'Oóc Om Bóc is marked on the night of the 14th day of the 10th lunar month.',
+
+                ],
+                srcimg: '',
+            }, {
+                id: 10,
+                title: 'New Year’s Eve',
+                description: [
+                    'Fortunately, Vietnam celebrates both the Lunar New Year and the Gregorian New Year, raising the chances for double the fun throughout the country. Despite the cultural importance of Tết, everyone is always thrilled to ring in the first day of a new calendar. For a memorable New Year’s Eve in Vietnam, head to a major city for fireworks, live concerts and streets teeming with locals in a party mood.',
+
+
+                ],
+                srcimg: fest7,
+            },
+        ]
+    },
+    {
+        id: 9,
+        route: 'ETIQETTE',
+        name: 'Vietnamese etiquette for travellers',
+        img: etiq1,
+        intro: `Vietnam is known for its diverse culture and fun-loving people. Divided into three distinct regions, this long strip of country is a goldmine of stories and traditions. If you’re coming to Vietnam for the first time, a basic knowledge of the local customs can help you engage with the people you’ll meet in a friendly, positive way. Here are eight top tips to get you started.`,
+        infor: [
+            {
+                id: 1,
+                title: 'Practice the art of saving face',
+                description: [
+                    'The idea of “saving face” has long been an important part of life in Vietnam. Most Vietnamese will avoid public displays that could compromise their reputation. As a general rule, keep your cool and avoid loud arguments, making a scene, berating others for mistakes, or pointing out anything that may cause the locals to feel shamed. ',
+                    `"TIP: Vietnamese dislike public displays of affection, and men and women often do not touch in front of others. Try to respect the local sentiment by keeping public displays of affection to a minimum."`,
+
+                ],
+                srcimg: etiq2,
+            },
+            {
+                id: 2,
+                title: 'Take care when visiting temples or homes',
+                description: [
+                    'When you enter someone’s house, take your shoes off just outside the door. Vietnamese families keep altars in their shops and homes, including some at ground level: Don’t step over these ground altars or walk around directly in front of them.',
+                    `When visiting temples, wear modest clothing and always remove your shoes and hat. You can carry shoes with you, but just don't wear them on your feet.`,
+                    `"TIP: When visiting a family home, bring a box of biscuits or cake, fruit, flowers or soft drinks as a gift -- never bring anything black. Greet the older members of a family first, shake hands with your right hand and offer plenty of smiles to everyone!"`,
+
+                ],
+                srcimg: etiq3,
+            },
+            {
+                id: 3,
+                title: 'Ask before taking photographs',
+                description: [
+                    'There are so many beautiful photo opportunities in Vietnam and most people will be fine with you taking their photo, but respect their privacy and always ask before you lift up your camera. Taking photos this way offers the same level of respect to your subjects as you would apply to yourself, and it can be a unique and fascinating opportunity to learn a bit about someone’s life.',
+
+                ],
+                srcimg: etiq4,
+            },
+            {
+                id: 4,
+                title: 'Dress as the Vietnamese do',
+                description: [
+                    'In Vietnamese cities, there’s an appreciation of modern fashion and contemporary clothes are worn by many young people. Outside the urban centres, most Vietnamese are quite traditional and modest. Visible undergarments, sheer fabrics and skimpy attire will not endear you to your Vietnamese hosts and acquaintances.',
+                    'Observing the locals where you are staying will give you a good idea of what is acceptable in terms of clothing and coverage. Foreigners should note that men should not be seen shirtless in public, and swimwear is welcome only on the beach or in your resort. You can show respect for Vietnamese customs by wearing clothing that does not offend the locals.',
+
+
+                ],
+                srcimg: etiq5,
+            },
+            {
+                id: 5,
+                title: '',
+                description: [
+                    ''
+                ],
+                srcimg: etiq6,
+            },
+            {
+                id: 6,
+                title: 'Eat with good manners',
+                description: [
+                    'Mealtimes in Vietnam are all about sharing. Most meals are laid out as an assortment of shared dishes, with small rice bowls and chopsticks for each diner. Pass dishes at the table with both hands or your right hand (not the left) and hold your spoon in your left hand if you’re eating soup.',
+                    'It is considered good hospitality for a host to offer you food, refill your glass and put the best bits of a dish into your bowl. If you want to stop eating, simply repeat politely that you’re very full. In most social gatherings the person who made the invitation is the one who pays the bill. Otherwise, the most senior person is the one who pays. ',
+                    `"TIP: Tipping in Vietnam is more common among tour guides and in spas, but less so in restaurants. If you feel the service warrants a tip, feel free, but you are under no obligation to tip in Vietnam."`,
+
+                ],
+                srcimg: etiq7,
+            },
+            {
+                id: 7,
+                title: 'Learn the correct salutations',
+                description: [
+                    'In Vietnam, people rarely say the words “excuse me”. Instead, they say “hey you!” but use different versions of “you” to indicate respect. ',
+                    `Use the following variations depending on who you're talking to:`,
+                    'For a male or female younger than you - Em ơi (em oi). Em means “younger sibling."',
+                    'For a woman a bit older than you - Chị ơi (chi oi). Chị means “older sister."',
+                    'For a man a bit older than you - Anh ơi (An oi). Anh means “older brother.”',
+                    'For a woman old enough to be your aunt - Cô ơi (goh oi). ',
+                    'For a man old enough to be your uncle - Chú ơi (choo oi). ',
+                    'For a woman old enough to be your grandmother - Bà ơi (ba oi).',
+                    'For a man who is old enough to be your grandfather - Ông ơi (om oi). ',
+                    'This can all get a little complex, so if in doubt, say “bạn ơi!” (bang oi) which simply means, “hey friend!”',
+
+                ],
+                srcimg: etiq8,
+            },
+            {
+                id: 8,
+                title: 'Use your hands wisely',
+                description: [
+                    'While the middle finger is not traditionally an offensive digit in Vietnam, the typical “fingers crossed” gesture that many people from the West make to indicate that they are hoping for the best is highly impolite. If you hope for good luck, keep your fingers out of it!',
+                    'It’s also a good idea to avoid pointing at people or patting people on the back or head, particularly if they are older than you. When you pass something along, use your right hand or both of your hands, rather than just one hand or your left hand. ',
+
+                ],
+                srcimg: etiq9,
+            },
+            {
+                id: 9,
+                title: 'Smile and be friendly',
+                description: [
+                    'Vietnamese are fun-loving people, however they are also very proud of their deep-rooted traditions and hardworking ethics. Some Vietnamese can be wary of foreigners, who may overstep without realising the complicated cultural undercurrents behind a situation. A smile can go a long way in Vietnam, especially when language fails. A simple hello (xin chào) or thank you (cảm ơn) communicates your goodwill and will usually earn a smile from the Vietnamese. ',
+                    `"TIP: When drinking, most Vietnamese will raise their glasses and “cheers” every time they drink, sipping together as a group rather than individually. Vietnamese use the word “do” (yo in the south, zo in the north) to say 'cheers'. One of the most common things you'll hear around Vietnamese nightlife is “một, hai, ba, dô!” (one, two, three, drink.)"`,
+
+                ],
+                srcimg: etiq10,
+            },
+        ]
+    },
+    {
+        id: 10,
+        route: `PAYMENTS`,
+        name: `Currency and payments in Vietnam`,
+        img: pay1,
+        intro: [
+            'With a wealth of affordable cuisine, hotels, and things to do, Vietnam is an excellent destination if you’re looking for value for money. Prepare for your first time in Vietnam by getting to know the local currency and payment systems, so you can enjoy your holiday here even more. Here’s a quick guide to money matters for travellers in Vietnam. ',
+
+        ],
+        infor: [
+            {
+                id: 1,
+                title: 'Vietnamese currency',
+                description: [
+                    'The official currency in Vietnam is the Vietnam đồng, symbolised by ₫ or VND. Vietnamese notes are a mix of small paper bills (no coins are used), and larger polymer bills, in values from 10,000 VND to 500,000 VND. If you’re confused by all the zeros, mentally remove three zeros to get a simpler number. To quickly convert from VND to USD, just remove three zeros and divide by 23. ',
+                    '"TIP: The 20,000 VND bill and the 500,000 VND bill come in similar shades of blue -- double check before you pay. "',
+
+                ],
+                srcimg: pay2,
+            },
+            {
+                id: 2,
+                title: 'Cash withdrawal and exchange',
+                description: [
+                    'Upon arriving in Vietnam, you’ll want to have some cash in the local currency. You can find ATMs accepting international cards just outside the arrival gates at all major airports. ATMs are a common sight in Vietnamese cities, and you should have no trouble locating one in most destinations. International cards such as Visa are accepted at more than 20,000 ATMs nationwide. If you need help finding the nearest ATM, just ask your hotel. Withdrawal limits per transaction range between 2 million VND (just under 100 dollars) and 3 million VND with local bank ATMs; and between 5 million VND to 10 million VND with international bank ATMs.',
+                    'You can also find currency exchange vendors inside Vietnam’s international airports just before the exit gates. Once you’re in your destination, you can usually exchange currency at your hotel, in tourist hotspots and at local banks. ',
+                    '"TIP: It’s a good idea to withdraw some extra cash before travelling to remote destinations in Vietnam, especially if you want to buy crafts or textiles directly from local artisans."'
+                ],
+                srcimg: pay3,
+            },
+            {
+                id: 3,
+                title: 'Card payments in Vietnam',
+                description: [
+                    'While cash is used for small purchases and street vendors in Vietnam, most establishments accept payments from major credit card providers such as Visa. Hotels, tour operators, boutiques, restaurants, grocery stores, and spas all generally accept international debit and credit cards. Conversion rates and swiping fees will be set by your card provider. With few exceptions, your larger travel expenses in Vietnam can be covered by card, on the spot or online in advance, reducing the need to carry and convert large sums of cash on the road.',
+
+                ],
+                srcimg: pay4,
+            },
+            {
+                id: 4,
+                title: 'Local prices',
+                description: [
+                    'Wondering how much money to prepare for your trip in Vietnam? If you’re on a budget, eating street food and staying in homestays is a great way to go, and will still give you an enriching experience of Vietnam. If you’ve got a little more to spend, Vietnam’s mid-range hotels and local restaurants offer wonderful value and heartfelt service. And if you’re here to indulge, our five-star properties and private tours offer superb quality and unforgettable moments. See the list below for some average prices:',
+                    'Sidewalk coffee - 25,000 VND (1 USD)',
+                    'Street food meal with ice tea - 45,000 VND (2 USD)',
+                    'Cappuccino in a cafe - 55,000 VND (2.50 USD)',
+                    'Three-course restaurant meal - 450,000 (20 USD)/person',
+                    'Inner city taxi - 35,000 to 100,000 VND (1.50 to 4 USD)',
+                    '60-minute foot massage at local spa - 350,000 VND (15 USD)',
+                    'Budget hostel - 300,000 VND (13 USD)/night ',
+                    'Mid-range hotel - 700,000 VND (30 USD)/night ',
+                    'Half-day group tour - 1 million VND (43 USD)',
+                    'Luxury hotel - 3.5 million VND (150 USD)/night',
+
+                ],
+                srcimg: pay5,
+            },
+            {
+                id: 5,
+                title: 'Safety and security',
+                description: [
+                    'Vietnam is generally very safe for travellers, but use common sense to keep an eye on your money and avoid drawing attention to valuables while out in public. Use the hotel safe in your room to store cash, cards and valuable items when going out. Keep wallets and purses close to your person and take extra care when in crowded places. Cards with safety technology such as Visa’s 3D security system can help protect against loss or fraud, and lessen worries around the safety of your money. ',
+                    '"TIP: Many businesses and taxi services in Vietnam now accept Visa contactless payments, done by tapping your card directly on a terminal. These payments add peace of mind and reduce health risks, as your card never leaves your hand."',
+
+                ],
+                srcimg: pay6,
+            },
+            {
+                id: 6,
+                title: 'Tipping etiquette',
+                description: [
+                    'There’s no set rule about tipping in Vietnam as it’s not a normal part of Vietnamese culture. However tipping is increasingly common in some situations, such as in beauty salons and for private tour guides. Tipping in restaurants and cafes is not expected but always appreciated. When deciding how much to tip, considering that the cost for a local meal here is about 30,000 VND to 40,000 VND can help you decide the value of your tip to its recipient. ',
+                    'In casual shopping hubs and markets, bargaining is a common practice. If you’re shopping in an area that receives many tourists, you can usually get a price reduction through some gentle negotiation. Browse and inquire with a few shops or vendors to get a general idea of the price before you settle.',
+
+                ],
+                srcimg: pay7,
             },
 
         ]

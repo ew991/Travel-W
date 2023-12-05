@@ -1,7 +1,8 @@
 import React from 'react';
-import { ThingtodoElm } from '../data';
+import { PlanYourTripTra } from '../data';
 import { useParams } from 'react-router-dom';
 import styled from 'styled-components';
+
 const TextSpotLight = styled.div`
     position: absolute;
     font-family: 'Dancing Script', cursive;
@@ -25,9 +26,9 @@ const TextSpotLight = styled.div`
     }
 `;
 
-const SingelElm = () => {
+const SingelTra = () => {
     const { id } = useParams();
-    const elm = ThingtodoElm.find(p => {
+    const elm = PlanYourTripTra.find(p => {
         return p.route === id;
     });
     const { img, name, infor, intro } = elm;
@@ -39,7 +40,7 @@ const SingelElm = () => {
                 <img className=' img-showup ' src={img} />
             </section>
 
-            <TextSpotLight>{name} </TextSpotLight>
+            <TextSpotLight >{name} </TextSpotLight>
 
             <section className="section">
                 <div className="section-center">
@@ -70,4 +71,4 @@ const SingelElm = () => {
         </>
     );
 };
-export default SingelElm;
+export default SingelTra;
