@@ -3,6 +3,7 @@ import { Outlet } from 'react-router-dom';
 import Navbar from '../components/navbar';
 import Footer from '../components/Footer';
 import ScrollToTopButton from '../components/ScrollToTopBtn';
+import ReadMore from '../components/ReadMore';
 const SharedLayout = () => {
     return (
         <>
@@ -11,6 +12,7 @@ const SharedLayout = () => {
                 <Outlet />
             </main>
             <ScrollToTopButton />
+            <ReadMore />
             {/* <Footer /> */}
         </>
     );

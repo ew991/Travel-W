@@ -1,3 +1,12 @@
+//////videos
+import video1_nature from './assets/videos/pexels-giang-vu-14116761 (1080p).mp4';
+import video2_cities from './assets/videos/pexels-khanhhoangminh-15809400 (1440p).mp4';
+import video3_food from './assets/videos/pexels-khanhhoangminh-15777863 (1080p).mp4';
+import video4_culture from './assets/videos/pexels-khanhhoangminh-15785121 (2160p).mp4';
+import video5_beach from './assets/videos/VideoBoBien.mp4';
+
+
+
 //place
 //1 Cat Ba
 import CatBa1 from './assets/img/PlaceImg/CatBa/Cat-Ba-13-1529492704-VnEx-5594-1560-6971-1652946528.jpg';
@@ -570,6 +579,40 @@ import pay5 from './assets/img/PlanYourTrip/traveltips/payment/vietnam currency-
 import pay6 from './assets/img/PlanYourTrip/traveltips/payment/vietnam currency.jpg';
 import pay7 from './assets/img/PlanYourTrip/traveltips/payment/how much do things cost in Vietnam.jpg';
 
+
+/////////plan-your-trip/itineraries
+import iti1 from './assets/img/PlanYourTrip/itineraries/World heritage sites Vietnam travel_0.jpg';
+import iti2 from './assets/img/PlanYourTrip/itineraries/Adventure itinerary Vietnam.jpg';
+import iti3 from './assets/img/PlanYourTrip/itineraries/Romantic getaway Vietnam.jpg';
+import iti4 from './assets/img/PlanYourTrip/itineraries/Vietnam beach holiday.jpg';
+import iti5 from './assets/img/PlanYourTrip/itineraries/Family holiday in Vietnam.jpg';
+import iti6 from './assets/img/PlanYourTrip/itineraries/Green travel ideas Vietnam.jpg';
+
+import pdf1 from './assets/img/PlanYourTrip/itineraries/Heritage_Sites_Vietnam.pdf';
+import pdf2 from './assets/img/PlanYourTrip/itineraries/Adventure_Trails_Vietnam.pdf';
+import pdf3 from './assets/img/PlanYourTrip/itineraries/Couples_Retreat_Vietnam.pdf';
+import pdf4 from './assets/img/PlanYourTrip/itineraries/Coast_Islands_Vietnam.pdf';
+import pdf5 from './assets/img/PlanYourTrip/itineraries/Family_Itinerary_Vietnam.pdf';
+import pdf6 from './assets/img/PlanYourTrip/itineraries/Green_Getaway_Vietnam.pdf';
+
+
+///////////////////plan-your-trip/itineraries/foodmap
+import foodmap1 from './assets/img/PlanYourTrip/itineraries/Hanoi food street.jpg';
+import foodmap2 from './assets/img/PlanYourTrip/itineraries/Vietnam foodie maps-3.jpg';
+import foodmap3 from './assets/img/PlanYourTrip/itineraries/Nha Trang travel.jpg';
+import foodmap4 from './assets/img/PlanYourTrip/itineraries/Hanoi food tour.png';
+import foodmap5 from './assets/img/PlanYourTrip/itineraries/Vietnam foodie maps-5_0.jpg';
+import foodmap6 from './assets/img/PlanYourTrip/itineraries/Nha Trang street food_0.jpg';
+
+
+export const Pdf = [
+    { id: 1, name: 'Heritage_Sites_Vietnam.pdf', pdfUrl: pdf1 },
+    { id: 2, name: 'Adventure_Trails_Vietnam.pd', pdfUrl: pdf2 },
+    { id: 3, name: 'Couples_Retreat_Vietnam.pdf', pdfUrl: pdf3 },
+    { id: 4, name: 'Coast_Islands_Vietnam.pdf', pdfUrl: pdf4 },
+    { id: 5, name: 'Family_Itinerary_Vietnam.pd', pdfUrl: pdf5 },
+    { id: 6, name: 'Green_Getaway_Vietnam.pdf', pdfUrl: pdf6 },
+]
 
 export const placesToGo = [
     {
@@ -2974,6 +3017,23 @@ export const inforgrapics = [
         images: tip6,
     },
 ];
+export const inforfood = [
+    {
+        id: 1,
+        imagesSrc: foodmap1,
+        images: foodmap4,
+    },
+    {
+        id: 2,
+        imagesSrc: foodmap2,
+        images: foodmap5,
+    },
+    {
+        id: 3,
+        imagesSrc: foodmap3,
+        images: foodmap6,
+    },
+];
 //////////////////// planyourtrip/warpthumb
 export const warpthumb = [
     { id: 1, srcImg: anhw1, name: 'Item 1', description: [`What are the Vietnamese like?`,] },
@@ -2984,17 +3044,87 @@ export const warpthumb = [
 ];
 ////////////////////thingtodo/innspried
 export const innspried = [
-    { id: 1, srcImg: imgInsp1, name: 'FOOD', description: [`FOOD`,] },
-    { id: 2, srcImg: imgInsp2, name: 'NATURE', description: ['NATURE',] },
-    { id: 3, srcImg: imgInsp3, name: 'CULTURE', description: ['CULTURE',] },
-    { id: 4, srcImg: imgInsp4, name: 'CITIES', description: [`CITIES`,] },
-    { id: 5, srcImg: imgInsp5, name: 'BEACHES', description: [`BEACHES`,] },
-    { id: 6, srcImg: imgInsp6, name: 'ADVENTURE', description: [`ADVENTURE`,] },
-    { id: 7, srcImg: imgInsp7, name: 'WELLNESS', description: [`WELLNESS`,] },
-    { id: 8, srcImg: imgInsp8, name: 'FAMILY', description: [`FAMILY`,] },
-    { id: 9, srcImg: imgInsp9, name: 'LUXURY', description: [`LUXURY`,] },
-    { id: 10, srcImg: imgInsp10, name: 'GOLF', description: [`GOLF`,] },
+    { id: 1, srcImg: imgInsp1, name: 'FOOD', route: [`Food`,] },
+    { id: 2, srcImg: imgInsp2, name: 'NATURE', route: ['Nature',] },
+    { id: 3, srcImg: imgInsp3, name: 'CULTURE', route: ['Culture',] },
+    { id: 4, srcImg: imgInsp4, name: 'CITIES', route: [`Cities`,] },
+    { id: 5, srcImg: imgInsp5, name: 'BEACHES', route: [`Beaches`,] },
+    // { id: 6, srcImg: imgInsp6, name: 'ADVENTURE', description: [`ADVENTURE`,] },
+    // { id: 7, srcImg: imgInsp7, name: 'WELLNESS', description: [`WELLNESS`,] },
+    // { id: 8, srcImg: imgInsp8, name: 'FAMILY', description: [`FAMILY`,] },
+    // { id: 9, srcImg: imgInsp9, name: 'LUXURY', description: [`LUXURY`,] },
+    // { id: 10, srcImg: imgInsp10, name: 'GOLF', description: [`GOLF`,] },
 ];
+
+export const Itinerariess = [
+    {
+        id: 1,
+        name: 'BEST HERITAGE SITES',
+        imageSrc: iti1,
+        description: [
+            `Explore Vietnam's most impressive UNESCO-listed attractions`,
+
+        ],
+
+
+    },
+    {
+        id: 2,
+        name: 'ADVENTURE TRAILS ',
+        imageSrc: iti2,
+        description: [
+            `Check out compelling locations with exciting outdoor experiences`,
+
+        ],
+
+
+    },
+    {
+        id: 3,
+        name: 'COUPLES’ RETREAT',
+        imageSrc: iti3,
+        description: [
+            ` Escape with romantic, timeless travel in beautiful destinations`,
+
+        ],
+
+    },
+    {
+        id: 4,
+        name: 'COAST AND ISLANDS',
+        imageSrc: iti4,
+        description: [
+            `Soak up the sun at these breezy, beachy cities and shorelines`,
+
+        ],
+
+
+    },
+    {
+        id: 5,
+        name: 'FAMILY VACATION',
+        imageSrc: iti5,
+        description: [
+            `See the best nature and culture in Vietnam for travellers of all ages`,
+
+        ],
+
+
+    },
+    {
+        id: 6,
+        name: 'GREEN GETAWAY',
+        imageSrc: iti6,
+        description: [
+            `Discover pristine, natural settings for sustainable travellers`,
+
+        ],
+
+    },
+
+
+];
+
 ///////////////////////thingtodo element
 export const thingtodoP = [
     {
@@ -3005,6 +3135,9 @@ export const thingtodoP = [
             `If there’s one characteristic that unites Vietnamese food, it’s freshness. Pass by any Vietnamese market, you'll be amazed by the abundance of the sea and soil: feathery herbs, plump vegetables and flapping-fresh proteins. Freshness is where the fun begins. Vietnamese cooks enhance beautiful ingredients with aromatic herbs and contrasting textures for maximum delight. Simply put, it's one of the world’s healthiest and most delicious cuisines.`,
 
         ],
+        namein: 'Food',
+        description2: `Travel around Vietnam, and you'll find that tastes and dishes vary from North to South. In the capital, locals may lunch on bún chả with slices of pork belly, while the Saigonese wolf down bánh xèo (crispy pancakes) rolled with greens and dipped in sweet-and-sour fish sauce. In the former Imperial City, meaty bún bò Huế is a breakfast favourite, while in Hội An, you can’t beat a bowl of toothsome cao lầu noodles for a quick snack. From simple home cooking to addictive street eats to modern Vietnamese dining, it would take a lifetime to eat your way through all this delicious diversity.`,
+        video: video3_food,
         elements: [
             {
                 id: 1,
@@ -3035,6 +3168,9 @@ export const thingtodoP = [
             `Vietnam is chock-full of forested peaks, thundering waterfalls, and breezy coastline, so it’s no wonder the country is luring more and more outdoor enthusiasts. With so many options at your fingertips, you may need a second (or third) trip to take it all in. And while there are plenty of pulse-pounding activities, Vietnam also presents more leisurely ways to enjoy its vast natural attractions.`,
 
         ],
+        namein: 'Nature',
+        description2: `One thing is for sure, Vietnam is a country of diversity. If you love nature, you’ll have countless appealing destinations to choose from. Long-distance cycling and motorbike trips are ideal for soaking up views of gaping mountain passes and sun-drenched rice fields. Vietnam offers water babies excellent scuba-diving in Nha Trang, kite-surfing in Mui Ne, and sparkling beaches in Phu Quoc and Con Dao. Cruise and kayak through majestic Halong Bay, or test your legs in the epic cave systems of Phong Nha-Ke Bang National Park. For a romantic stay, plan a riverside retreat in the Mekong Delta or head to the forests of Dalat. When it comes to enjoying nature in Vietnam, the list is truly exciting, and possibly endless.`,
+        video: video1_nature,
         elements: [
             {
                 id: 1,
@@ -3063,6 +3199,10 @@ export const thingtodoP = [
         description: [
             `In a country like Vietnam, the word ‘culture’ has a thousand meanings. It might mean the red and gold gilded doors of the Hue Citadel, or the tin-filter drip coffee served on every street corner. It might mean the sensitive watercolours hanging in a contemporary gallery, or the throaty cry of Ca Trù sung poetry. It could even encompass the embroidered costumes of the Flower Hmong, or the subtle lines of the áo dài. Past and present, hand-in-hand, are what makes Vietnamese culture so compelling.`,
         ],
+        namein: 'Culture',
+        description2: `Vietnam inherited its cultural wealth from thousands of years of history, sprinkled with a handful of outside influences. Through it all, the Vietnamese have a strong sense of pride in their traditions and way of life. The central cities of Hue and Hoi An are treasure troves for culture lovers, as is Hanoi, the country’s graceful capital. Outside the cities, many elements of Vietnamese culture trace back to cycles of wet rice cultivation, from harvest festivals to table manners. There are countless ways to immerse yourself in the fabric of Vietnamese life, including cooking classes, craft workshops, temple tours, musical performances, museums visits and more.`,
+        video: video4_culture,
+
         elements: [
             {
                 id: 1,
@@ -3092,6 +3232,10 @@ export const thingtodoP = [
             `Spend a few days in its urban centres, and you'll see why so many travellers are taken with Vietnam's captivating energy. In the streets and you'll encounter chaotic markets and colonial-era cafes, sparkling malls, hip rooftop lounges, and tidy boutiques. At least once in your stay, do as the locals do and enjoy an evening of barbecue and beer on the sidewalk, or chat over a cup of tea in the shade of a city park.`,
 
         ],
+        namein: 'Cities',
+        description2: `While Vietnam’s countryside casts a serene spell, its cities have an appeal all their own. Get a taste of urban Vietnamese culture by spending a few days in Hanoi or Ho Chi Minh City. Here you’ll have world-class dining alongside cheap-as-chips street food, ancient pagodas next to five-star hotels, and glittering shopping malls around the corner from bustling markets. Hanoi is a city of lakes, and its historical and cultural treasures will charm those with a penchant for the past. Ho Chi Minh City has an irresistible energy, and is home to uber-cool rooftop bars, trendy coworking spaces, and colonial-chic cafes. Don’t forget to hop on a scooter at least once in your visit to truly feel the pulse of urban Vietnam.`,
+        video: video2_cities,
+
         elements: [
             {
                 id: 1,
@@ -3121,6 +3265,10 @@ export const thingtodoP = [
             `Vietnam is a country with a long, curving coastline. Scattered offshore are dozens of beautiful islets, teeming with sea life and blessed with pristine shores. Vietnam’s coastal cities are packed with activities and on-the-water adventures, while its fishing villages still hold their simple, seaside charms. Wherever you choose, chilled coconuts, basket boats, and seafood dinners are guaranteed.`,
 
         ],
+        namein: 'Beaches',
+        description2: `The pure joy of getting sand on your toes, sun on your skin and saltwater in your hair is never far away when you’re in Vietnam. There are countless beaches to choose from – some well-known, others completely hidden. Vietnam’s islands of Con Dao and Phu Quoc are famous for having the most inviting water and pristine shores. If you enjoy a bit of activity and nightlife mixed into your beach holidays, the coastal towns of Da Nang and Nha Trang offer just that. Need an escape from the world? Humble Quy Nhon is a well-kept secret. Even more remote? Set your sights on Cham Islands or Tam Ky in Central Vietnam. See the stories below for more beach-y inspiration.`,
+        video: video5_beach,
+
         elements: [
             {
                 id: 1,

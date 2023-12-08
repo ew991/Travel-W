@@ -2,10 +2,10 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Insp = ({ insp }) => {
-    const { srcImg, name } = insp;
+    const { srcImg, route, name } = insp;
     return (
         <Link
-            to={`inspired/${name}`}
+            to={`inspired/${route}`}
             className={` group  `}
         >
             <img alt={name} src={srcImg} />

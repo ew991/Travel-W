@@ -64,7 +64,9 @@ const PlanYourTrip = () => {
                                 myElementRefs.current[id] = elementRef;
                                 return (
                                     <div ref={elementRef} onClick={() => openPopup(id)} className='w-[265px] h-[290px] bg-slate-300 p-2' key={id}>
-                                        <img className='effect-tranf' src={imageSrc}></img>
+                                        <div className='overflow-hidden'>
+                                            <img className='effect-tranf object-cover' src={imageSrc}></img>
+                                        </div>
                                         <h1 className='text-[15px] font-bold'>{name}</h1>
                                         <p className='text-[14px] mt-[10px]'>{description}</p>
 

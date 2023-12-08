@@ -22,7 +22,7 @@ const InforGrapic = () => {
         }
     };
     return (
-        <div className=' mt-20'>
+        <div className=''>
             <h1 className='center-h '>EXPERIENCES</h1>
             <p className=' center-p'>See outstanding travel products from our partners</p>
             <div className='flex justify-center items-center '>
@@ -48,7 +48,7 @@ const InforGrapic = () => {
 
 
                 <div
-                    className="fixed top-0 left-0 w-full h-full overflow-y-auto bg-gray-800 bg-opacity-50 flex justify-center "
+                    className="fixed z-50 top-0 left-0 w-full h-full overflow-y-auto bg-gray-800 bg-opacity-50 flex justify-center "
                     onClick={handleContainerClick}
                 >
                     <div className=" mt-[50px] rounded-lg">

@@ -1,7 +1,10 @@
 import React from 'react';
-import { innspried } from '../data';
+import { thingtodoP } from '../data';
 import { useParams } from 'react-router-dom';
 import styled from 'styled-components';
+import Elm2 from '../components/Elm2';
+import bgimg from '../assets/img/bg-red-pattern.png';
+
 const TextSpotLight = styled.div`
     position: absolute;
     font-family: 'Dancing Script', cursive;
@@ -27,10 +30,10 @@ const TextSpotLight = styled.div`
 
 const SingelInspired = () => {
     const { id } = useParams();
-    const insp = innspried.find(p => {
-        return p.name === id;
+    const insp = thingtodoP.find(p => {
+        return p.namein === id;
     });
-    const { name, srcImg, description } = insp;
+    const { namein, srcImg, description2, elements, video } = insp;
 
 
     return (
@@ -39,19 +42,43 @@ const SingelInspired = () => {
                 <img className=' img-showup ' src={srcImg} />
             </section>
 
-            <TextSpotLight>{name} </TextSpotLight>
+            <TextSpotLight>{namein} </TextSpotLight>
 
             <section className="section">
                 <div className="section-center">
                     <article className="article-container">
-                        <h2 className="text-center text-3xl sm:text-4xl italic font-bold">
-                            {name}
-                        </h2>
-                        <p>{description}</p>
+                        <p>{description2}</p>
+                        <div content='' className='' style={{ backgroundImage: `url(${bgimg})` }}>
+
+                            <h2 className=" mt-20 text-center text-3xl sm:text-4xl italic font-bold text-white" >
+                                {namein}
+                            </h2>
+                        </div>
+                        <div className=' flex flex-col lg:flex-row gap-8 justify-center p-28'>
+                            {elements.map((elm) => (
+                                <Elm2
+                                    key={elm.id}
+                                    elm={elm}
+
+                                />
+                            ))}
+                        </div>
+
 
                     </article>
                 </div>
             </section>
+            <video
+                controls=""
+                muted
+                autoPlay={'autoplay'}
+                loop
+                className=" w-full h-full object-cover  z-30 "
+            >
+                <source src={video} type="video/mp4" />
+                Your browser does not support the video tag. I suggest you upgrade your
+                browser.
+            </video>
 
         </>
     );
