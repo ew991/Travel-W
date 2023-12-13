@@ -6,34 +6,18 @@ export const GlobalClass = css`
         letter-spacing: 1.6px;
         background: #8AAAE5;
     }
-    a{
+    /* a{
       color: #252525;
     }
     
     p{
       color: #000000;
-    }
+    } */
     h1{
       color: #1C315E;
     }
 
-    button{
-        height: 58px;
-        background-color: #227C70;
-        border-radius: 17px;
-        width: 200px;
-        font-weight: 600;
-        font-size: 16px;
-        letter-spacing: 1.6px;
-        border: none;
-        color: #FFFFFF;
-        cursor: pointer;
-        &:hover{
-            background-color: #FFFFFF;
-            color: #227C70;
-           
-        }
-    }
+   
     img{
       cursor: pointer;
     }

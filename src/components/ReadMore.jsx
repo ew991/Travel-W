@@ -37,35 +37,45 @@ const ReadMore = () => {
         }
     };
 
-    const getRandomCategoryWithElements = () => {
+    const getRandomCategoryWithElements = (excludedElements) => {
         // Lấy ngẫu nhiên một danh mục từ thingtodoP
         const randomCategory = getRandomElement(thingtodoP);
-        // Lấy ngẫu nhiên một phần tử từ danh mục đã chọn
-        const randomElement = getRandomElement(randomCategory?.elements);
+
+        // Lấy ngẫu nhiên một phần tử từ danh mục đã chọn, tránh phần tử đã xuất hiện trước đó
+        const filteredElements = randomCategory?.elements.filter(element => !excludedElements.includes(element));
+        const randomElement = getRandomElement(filteredElements);
 
         return { category: randomCategory, element: randomElement };
     };
 
-    // Lặp lại quy trình để lấy 3 cặp danh mục và phần tử ngẫu nhiên
-    const randomElements = Array.from({ length: 3 }, () => getRandomCategoryWithElements());
-
+    const excludedElements = [];
+    const randomElements = Array.from({ length: 3 }, () => {
+        const { category, element } = getRandomCategoryWithElements(excludedElements);
+        if (element) {
+            excludedElements.push(element);
+        }
+        return { category, element };
+    });
     return (
         <>
-            <div className=' mt-14  ' style={{ backgroundImage: `url(${bgimg})` }}>
-                <TextSpotLight >Read More</TextSpotLight>
+            <section className="section" id="readmore">
 
-                <div className=' -z-20 flex flex-col lg:flex-row gap-8 justify-center p-28'>
-                    {randomElements.map(({ category, element }) => (
-                        element && (
-                            <Elm2
-                                key={element.id}
-                                elm={element}
-                                categoryName={category?.name}
-                            />
-                        )
-                    ))}
+                <div className=' mt-14  ' style={{ backgroundImage: `url(${bgimg})` }}>
+                    <TextSpotLight >Read More</TextSpotLight>
+
+                    <div className=' -z-20 flex flex-col items-center lg:flex-row gap-8 justify-center p-28'>
+                        {randomElements.map(({ category, element }) => (
+                            element && (
+                                <Elm2
+                                    key={element.id}
+                                    elm={element}
+                                    categoryName={category?.name}
+                                />
+                            )
+                        ))}
+                    </div>
                 </div>
-            </div>
+            </section>
         </>
     );
 };

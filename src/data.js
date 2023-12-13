@@ -331,6 +331,14 @@ import anhw3 from "./assets/img/PlanYourTrip/galley/responsible travel vietnam-5
 import anhw4 from "./assets/img/PlanYourTrip/galley/Vietnam local culture guide-10.jpg";
 import anhw5 from "./assets/img/PlanYourTrip/galley/Vietnam Tourism - plan your trip.jpg";
 
+///// wapthum2
+import anhw_2_1 from "./assets/img/Hm/pexels-dương-nhân-1102398.jpg";
+import anhw_2_2 from "./assets/img/Hm/pexels-hugo-heimendinger-2977432.jpg";
+import anhw_2_3 from "./assets/img/Hm/pexels-min-an-906152.jpg";
+import anhw_2_4 from "./assets/img/Hm/pexels-pixabay-33545.jpg";
+import anhw_2_5 from "./assets/img/Hm/pexels-q-hưng-phạm-2965773.jpg";
+import anhw_2_6 from "./assets/img/Hm/pexels-quang-nguyen-vinh-2582757.jpg";
+
 
 //////////////planYourTrip/traveltip
 import iconT1 from './assets/img/PlanYourTrip/traveltips/icons8-airport-100.png';
@@ -604,6 +612,15 @@ import foodmap4 from './assets/img/PlanYourTrip/itineraries/Hanoi food tour.png'
 import foodmap5 from './assets/img/PlanYourTrip/itineraries/Vietnam foodie maps-5_0.jpg';
 import foodmap6 from './assets/img/PlanYourTrip/itineraries/Nha Trang street food_0.jpg';
 
+import offer1 from './assets/img/Offer/vietnam travel offers 2020-7.jpg';
+import offer2 from './assets/img/Offer/vietnam travel offers december 2019-21.jpg';
+import offer3 from './assets/img/Offer/Vietnam Travel Promos Spring 2020-14.jpg';
+import offer4 from './assets/img/Offer/halongbay-junkboat-edit.jpg';
+import offer5 from './assets/img/Offer/Ảnh-Travel-offers-edit.jpg';
+import offer6 from './assets/img/Offer/vietnam tourism travel offers 2021-10.jpg';
+import offer7 from './assets/img/Offer/vietnam travel promos-6.jpg';
+import offer8 from './assets/img/Offer/vietnam travel promos 2020-8.jpg';
+import offer9 from './assets/img/Offer/vietnam travel offers march 2020-4.jpg';
 
 export const Pdf = [
     { id: 1, name: 'Heritage_Sites_Vietnam.pdf', pdfUrl: pdf1 },
@@ -613,6 +630,17 @@ export const Pdf = [
     { id: 5, name: 'Family_Itinerary_Vietnam.pd', pdfUrl: pdf5 },
     { id: 6, name: 'Green_Getaway_Vietnam.pdf', pdfUrl: pdf6 },
 ]
+
+export const leftLinks = [
+    { href: '/PlaceToGo', title: 'Places to go' },
+    { href: '/ThingToDo', title: 'Things to do' },
+
+];
+export const rightLinks = [
+    { href: '/PlanYourTrip', title: 'Plan your trip' },
+    { href: '/TravellOffers', title: 'Travell offers' },
+
+];
 
 export const placesToGo = [
     {
@@ -3042,6 +3070,14 @@ export const warpthumb = [
     { id: 4, srcImg: anhw4, name: 'Item 4', description: [`Beginner's guide To Vietnam Now`,] },
     { id: 5, srcImg: anhw5, name: 'Item 5', description: [`5 reasons to try as homestay in Vietnam`,] },
 ];
+export const warpthumb2 = [
+    { id: 1, srcImg: anhw_2_1, name: 'Item 1', },
+    { id: 2, srcImg: anhw_2_2, name: 'Item 2', },
+    { id: 3, srcImg: anhw_2_3, name: 'Item 3', },
+    { id: 4, srcImg: anhw_2_4, name: 'Item 4', },
+    { id: 5, srcImg: anhw_2_5, name: 'Item 5', },
+    { id: 5, srcImg: anhw_2_6, name: 'Item 6', },
+];
 ////////////////////thingtodo/innspried
 export const innspried = [
     { id: 1, srcImg: imgInsp1, name: 'FOOD', route: [`Food`,] },
@@ -5253,3 +5289,103 @@ export const PlanYourTripTra = [
         ]
     },
 ]
+export const offer_stay = [
+    {
+        id: 1,
+        imageSrc: offer4,
+        title: `CRUISE TOUR BY HALONG BAY JUNKBOAT`,
+        description:
+            `Anyone looking for a total relaxation experience, don’t wait a second to take a peek at this special deal for a cruising trip.
+            Halong Bay JunkBoat offers up to 40% OFF for each package. Enjoy stunning natural landscapes, scrumptious seafood, and unique conveniences on the boat.`,
+        url: 'https://www.halongbayjunkboat.com/',
+        source: 'Cruise tour by Halong Bay JunkBoat',
+    },
+    {
+        id: 2,
+        imageSrc: offer5,
+        title: 'HALONG CRUISES DEAL - BESTPRICE TRAVEL',
+        description:
+            `High-quality service, top-notch facilities, mouth-watering seafood, and breathtaking views of Halong Bay - let’s enjoy the Halong Bay Cruise for a blissful holiday.
+            BestPrice offers up to 40% OFF for a cruise and a free bus with the routine from Hanoi to Halong Bay and back.`,
+        url: `https://www.bestpricetravel.com/halong-bay-cruises`,
+        source: 'Halong Bay Cruises on BestPrice Travel',
+
+    },
+
+    {
+        id: 3,
+        imageSrc: offer6,
+        title: 'VISA CASHBACK ON BOOKING.COM',
+        description:
+            'Visa cardholders will receive cashback for accommodation bookings made throughout this year on Booking.com. Get up to 10% cashback on your hotel stays in Vietnam with the latest promotion from Visa.',
+        url: 'https://www.visa.com.vn/en_vn/visa-offers-and-perks/bookingcom/146341',
+        source: 'Visa',
+    },
+    {
+        id: 4,
+        imageSrc: offer7,
+        title: `HA LONG COMBO WITH SYRENA CRUISE`,
+        description:
+            `Cruise Hạ Long Bay in style on a new three-day package promotion from Syrena Cruise and Halong Plaza Hotel.  
+            Spend a day at Halong Plaza Hotel exploring the city before hopping aboard the Syrena Cruise and venturing to the bay’s most beautiful corners. This inviting deal offers travellers one night at Halong Plaza Hotel with buffet breakfasts, 10% off services at Four Seasons`,
+        url: 'https://www.syrenacruises.com/',
+        source: 'Syrena Cruises',
+    },
+    {
+        id: 5,
+        imageSrc: offer8,
+        title: 'EARLY BIRD SAVINGS AT VICTORIA CHAU DOC HOTEL',
+        description:
+            `Enjoy a 20% discount for your stay in the Mekong Delta when booking seven days in advance at Victoria Châu Đốc. 
+            Located at the Three River Crossing, the hotel preserves a piece of Vietnamese history in its colonial design. `,
+        url: `https://www.victoriahotels.asia/en/`,
+        source: 'Victoria Chau Doc Hotel',
+
+    },
+
+    {
+        id: 6,
+        imageSrc: offer9,
+        title: 'VIETNAM AIRLINES & VINPEARL PACKAGE',
+        description:
+            'Vinpearl Resort has teamed up with Vietnam Airlines for an exclusive holiday package with accommodations, entertainment, and flight tickets from Ho Chi Minh City to Phu Quoc, Nha Trang, or Da Nang. ',
+        url: 'https://vinpearl.com/en',
+        source: 'Vinpearl ',
+    },
+
+
+];
+
+export const offer_do = [
+    {
+        id: 1,
+        imageSrc: offer1,
+        title: `PRIVATE TOURS WITH SENS ASIA`,
+        description:
+            `Get the scoop on Vietnam's culture, heritage, cuisine, and more with Sens Asia's private tours at 5% off.`,
+        url: 'https://www.sensasia.com/asia-travel/vietnam/tours/',
+        source: 'Sens Asia ',
+    },
+    {
+        id: 2,
+        imageSrc: offer2,
+        title: 'THREE DAYS WITH SYRENA CRUISES',
+        description:
+            `Enjoy a 15% discount when you book this two-night cruise with Syrena Cruises a week prior to departure. The ship explores several bays in the Gulf of Tonkin, including fantastic caves and fishing villages. All meals are included in the package, plus activities such as morning tai chi, cooking classes, and kayaking. `,
+        url: `https://www.syrenacruises.com/`,
+        source: 'Syrena Cruises ',
+
+    },
+
+    {
+        id: 3,
+        imageSrc: offer3,
+        title: 'HAI AU AVIATION CHARTER FLIGHTS ',
+        description:
+            'The flight routes on offer extend to 17 cities and provinces, including top destinations such as Hanoi, Hạ Long Bay, Huế, Đà Nẵng, Côn Đảo Islands, and Ho Chi Minh City. You and your family or travel pals can have the whole seaplane for yourself, with a maximum capacity of ten people plus luggage. Return flights within the same day will be awarded a 50% discount',
+        url: 'https://www.seaplanes.vn/en/',
+        source: 'Hai Au Aviation ',
+    },
+
+
+];

@@ -30,7 +30,7 @@ const HomeVid = () => {
                 </p>
 
                 <a
-                    href="#featured"
+                    href="#places"
                     className={`text-xs bg-[#227C70] text-gray-800 py-2.5 px-7 mt-2.5 uppercase tracking-wider hover:tracking-widest transition duration-200 ease-in-out rounded-[5px]`}
                 >
                     Explore

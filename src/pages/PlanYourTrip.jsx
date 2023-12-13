@@ -3,8 +3,8 @@ import img from '../assets/img/he-thong-duong-sat-viet-nam.jpg'
 import { practicalities } from '../data';
 import InforGrapic from '../components/InforGrapics';
 import WarpThumb from '../components/WarpThumb';
-import { traveltipicon } from '../data';
-import Tra from '../components/trvtip';
+import { warpthumb } from '../data';
+import Tips from '../components/Tips';
 const PlanYourTrip = () => {
 
     const [openPopupId, setOpenPopupId] = useState(null);
@@ -33,24 +33,7 @@ const PlanYourTrip = () => {
             </section>
             <div className=' flex flex-col gap-20'>
 
-                <div className=' mt-20'>
-
-                    <h1 className='center-h '>TRAVEL TIPS</h1>
-                    <p className=' center-p'>Read up before you go</p>
-                    <div className=' flex justify-center items-center'>
-
-                        <div className=' grid grid-cols-1 lg:grid-cols-5 lg:grid-rows-2 md:grid-cols-2 gap-8 mt-10'>
-                            {traveltipicon.map((tra) => (
-                                <Tra
-                                    key={tra.id}
-                                    tra={tra}
-
-                                />
-                            ))}
-                        </div>
-
-                    </div>
-                </div>
+                <Tips />
                 <div className=' '>
 
                     <h1 className='center-h '>PRACTICALITIES</h1>
@@ -111,7 +94,7 @@ const PlanYourTrip = () => {
                     )}
                 </div>
                 <InforGrapic />
-                <WarpThumb />
+                <WarpThumb warpthumb={warpthumb} />
             </div>
 
         </>

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 // import styled from 'styled-components';
-import { warpthumb } from '../data';
+
 // const TextSpotLight = styled.div`
 //     position: absolute;
 //     font-family: 'Dancing Script', cursive;
@@ -25,7 +25,7 @@ import { warpthumb } from '../data';
 // `;
 
 
-const WarpThumb = () => {
+const WarpThumb = ({ warpthumb }) => {
 
     const [currentImage, setCurrentImage] = useState(0);
 
@@ -46,7 +46,7 @@ const WarpThumb = () => {
 
     return (
 
-        <div className=" w-full h-full overflow-hidden mt-10 ">
+        <div className=" w-full h-full overflow-hidden mt-20 ">
             <div className='  '>
                 <img
                     src={warpthumb[currentImage].srcImg}

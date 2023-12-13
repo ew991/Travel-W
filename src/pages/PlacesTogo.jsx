@@ -9,7 +9,7 @@ const PlacesToGo = () => {
         <>
             <section className="section" id="places">
                 <SectionTitle title="places to go" />
-                <div className="section-center ">
+                <div className="section-center  ">
                     {/* Places-to-go introduction */}
                     <SectionIntro
                         title="Explore the best places in Vietnam"

@@ -34,11 +34,11 @@ code {
   }
 
   .nav-links-container {
-    @apply items-center hidden space-x-6 lg:flex uppercase text-xl;
+    @apply items-center hidden space-x-6 lg:flex text-xl;
   }
 
   .nav-link {
-    @apply tracking-wide font-extrabold transition-colors duration-200 hover:text-green-500 hover:underline hover:underline-offset-4 sm:hover:underline-offset-8;
+    @apply tracking-wide text-[#ffffff] font-semibold transition-colors duration-200 hover:text-green-500 hover:underline hover:underline-offset-4 sm:hover:underline-offset-8;
   }
 
   .company-name {
