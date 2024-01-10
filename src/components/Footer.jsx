@@ -22,7 +22,7 @@ const Footer = () => {
                                 className="block text-2xl sm:text-3xl hover:opacity-75"
                                 href="/"
                             >
-                                +84 374 797 326
+                                +84 374 797 623
                             </a>
                         </p>
 
@@ -129,37 +129,37 @@ const Footer = () => {
                             <p className="font-medium text-[white]">Info</p>
 
                             <nav className="flex flex-col mt-4 space-y-2 text-sm text-white">
-                                <a className="hover:opacity-75" href="/#featured">
-                                    Tours
+                                <a className="hover:opacity-75" href="/#places">
+                                    Place
                                 </a>
-                                <a className="hover:opacity-75" href="/#new">
-                                    New Tours
+                                <a className="hover:opacity-75" href="/ThingToDo">
+                                    Thing To Do
                                 </a>
-                                <a className="hover:opacity-75" href="/#about">
-                                    About Us
+                                <a className="hover:opacity-75" href="/PlanYourTrip">
+                                    Plan Your trip
                                 </a>
-                                <a className="hover:opacity-75" href="/#services">
-                                    Our Services
+                                <a className="hover:opacity-75" href="/#tips">
+                                    Tips
                                 </a>
                             </nav>
                         </div>
 
                         <div>
-                            <p className="font-medium text-[#fffff]">News</p>
+                            <p className="font-medium text-[#fffff]">Useful</p>
 
                             <nav className="flex flex-col mt-4 space-y-2 text-sm text-white">
-                                <a className="hover:opacity-75" href="/#blogs">
-                                    Blogs
+                                <a className="hover:opacity-75" href="/">
+                                    Home
                                 </a>
-                                <a className="hover:opacity-75" href="/#places">
-                                    Discover Vietnam
+                                <a className="hover:opacity-75" href="/TravellOffers">
+                                    Travel Offer
                                 </a>
-                                <a className="hover:opacity-75" href="/#tips">
-                                    Travel Tips
+                                {/* <a className="hover:opacity-75" href="/#tips">
+                                    t
                                 </a>
                                 <a className="hover:opacity-75" href="/#reviews">
-                                    Customer Reviews
-                                </a>
+                                    Customer 
+                                </a> */}
                             </nav>
                         </div>
                     </div>

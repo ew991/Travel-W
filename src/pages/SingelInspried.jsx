@@ -54,7 +54,7 @@ const SingelInspired = () => {
                                 {namein}
                             </h2>
                         </div>
-                        <div className=' flex flex-col lg:flex-row gap-8 justify-center p-28'>
+                        <div className='flex flex-col lg:flex-row gap-8 items-center justify-center p-0 md:p-12 lg:p-28'>
                             {elements.map((elm) => (
                                 <Elm2
                                     key={elm.id}

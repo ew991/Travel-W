@@ -36,7 +36,7 @@ const App = () => {
               {/* <Route path="/PlanYourTrip/TravelTip/:id" element={<SingelTra />}></Route> */}
               <Route path="/TravelTip/:id" element={<SingelTra />}></Route>
               <Route path="/PlanYourTrip/TravelTip/itineraries/pdf/:id" element={<PdfViewer />}></Route>
-              <Route path="TravellOffers" element={<TrvOffer />}></Route>
+              <Route path="/TravellOffers" element={<TrvOffer />}></Route>
 
 
             </Route>

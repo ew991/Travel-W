@@ -16,17 +16,17 @@ const Inspried = () => {
                     </p>
                 </div>
                 <div className=' flex justify-center items-center'>
-                    <div className=''>
-                        <div className=' grid grid-cols-1 lg:grid-cols-5   gap-8 mt-10'>
-                            {innspried.map((insp) => (
-                                <Insp
-                                    key={insp.id}
-                                    insp={insp}
 
-                                />
-                            ))}
-                        </div>
+                    <div className=' grid grid-cols-1 lg:grid-cols-5   gap-8 mt-10'>
+                        {innspried.map((insp) => (
+                            <Insp
+                                key={insp.id}
+                                insp={insp}
+
+                            />
+                        ))}
                     </div>
+
                 </div>
 
             </div>

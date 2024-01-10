@@ -3,6 +3,7 @@ import { placesToGo } from '../data';
 import { useParams } from 'react-router-dom';
 import TourGallery from './TourGallery';
 import styled from 'styled-components';
+import ShareButtons from './Share';
 const TextSpotLight = styled.div`
     position: absolute;
     font-family: 'Dancing Script', cursive;
@@ -40,7 +41,7 @@ const BestPlaceTG = () => {
             </section>
 
             <TextSpotLight>{name} </TextSpotLight>
-
+            <ShareButtons></ShareButtons>
             <section className="section">
                 <div className="section-center">
                     <article className="article-container">

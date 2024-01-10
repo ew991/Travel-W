@@ -22,7 +22,7 @@ const ThingToDo = () => {
                                 <h1 className='center-h mt-10'>{name}</h1>
                                 <p className=' text-2xl font-normal mt-2 '>{description}</p>
                             </div>
-                            <div className=' flex flex-col lg:flex-row gap-8 justify-center p-7 md:p-12 lg:p-28'>
+                            <div className=' flex flex-col lg:flex-row gap-8 items-center justify-center p-0 md:p-12 lg:p-28'>
                                 {elements.map((elm) => (
                                     <Elm
                                         key={elm.id}
