@@ -154,12 +154,10 @@ const Footer = () => {
                                 <a className="hover:opacity-75" href="/TravellOffers">
                                     Travel Offer
                                 </a>
-                                {/* <a className="hover:opacity-75" href="/#tips">
-                                    t
+                                <a className="hover:opacity-75" href="/SiteMap">
+                                    Site Map
                                 </a>
-                                <a className="hover:opacity-75" href="/#reviews">
-                                    Customer 
-                                </a> */}
+
                             </nav>
                         </div>
                     </div>

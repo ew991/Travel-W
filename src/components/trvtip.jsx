@@ -5,7 +5,7 @@ const Tra = ({ tra }) => {
     const { srcImg, name } = tra;
     return (
         <Link
-            to={`/TravelTip/${name}`}
+            to={`/PlanYourTrip/TravelTip/${name}`}
             className={` group  `}
         >
             <div className=' flex flex-col items-center'>

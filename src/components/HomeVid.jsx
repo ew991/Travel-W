@@ -1,6 +1,6 @@
 import React from 'react';
 import HeroVid from '../assets/videos/hero.mp4'
-
+import SearchIf from './Search';
 const HomeVid = () => {
     return (
         <section className="relative w-full min-h-screen p-10 flex justify-center items-center bg-[#1C315E]">
@@ -35,6 +35,7 @@ const HomeVid = () => {
                 >
                     Explore
                 </a>
+                <SearchIf />
             </div>
         </section>
     );

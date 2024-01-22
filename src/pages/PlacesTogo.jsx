@@ -4,6 +4,7 @@ import { placesToGo } from '../data';
 import PlaceToGo from '../components/PlaceTG';
 import SectionIntro from '../components/SectionIntro';
 
+
 const PlacesToGo = () => {
     return (
         <>
@@ -43,6 +44,8 @@ const PlacesToGo = () => {
                             ))}
                         </div>
                     </div>
+
+
                 </div>
             </section>
         </>

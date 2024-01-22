@@ -14,6 +14,8 @@ import SingelTra from './pages/SingelTra';
 import Itineraries from './pages/ItineraariesPage';
 import PdfViewer from './components/PdfRoute';
 import TrvOffer from './pages/TravellOffers';
+import SiteMap from './pages/SiteMap';
+import ResultPage from './components/SearchResult';
 const App = () => {
   return (
     <>
@@ -24,19 +26,22 @@ const App = () => {
             <Route path='/' element={<SharedLayout />}>
               <Route index element={<HomePage />}></Route>
               <Route path='/ThingToDo' element={<ThingToDo />}></Route>
-              <Route path="/inspired/:id" element={<SingelInspired />}></Route>
-              <Route path="/ThingToDo/Elm/:id" element={<SingelElm />}></Route>
+              <Route path="/ThingToDo/:id" element={<SingelInspired />}></Route>
               <Route path="/ReadMore/:id" element={<SingelElm />}></Route>
               <Route path='/PlaceToGo' element={<PlacesToGo />}></Route>
-              {/* <Route path="/PlaceToGo/places/:id" element={<BestPlaceTG />}></Route> */}
-              <Route path="/places/:id" element={<BestPlaceTG />}></Route>
+              <Route path="/PlaceToGo/:id" element={<BestPlaceTG />}></Route>
               <Route path='/PlanYourTrip' element={<PlanYourTrip />}></Route>
-              {/* <Route path='/PlanYourTrip/TravelTip/ITINERARIES' element={<Itineraries />}></Route> */}
-              <Route path='/TravelTip/ITINERARIES' element={<Itineraries />}></Route>
-              {/* <Route path="/PlanYourTrip/TravelTip/:id" element={<SingelTra />}></Route> */}
-              <Route path="/TravelTip/:id" element={<SingelTra />}></Route>
+              <Route path='/PlanYourTrip/TravelTip/ITINERARIES' element={<Itineraries />}></Route>
+              <Route path="/PlanYourTrip/TravelTip/:id" element={<SingelTra />}></Route>
               <Route path="/PlanYourTrip/TravelTip/itineraries/pdf/:id" element={<PdfViewer />}></Route>
               <Route path="/TravellOffers" element={<TrvOffer />}></Route>
+              <Route path="/SiteMap" element={<SiteMap />}></Route>
+              <Route path="/result" element={<ResultPage />} />
+
+              {/* <Route path="/ThingToDo/Elm/:id" element={<SingelElm />}></Route> */}
+              {/* <Route path="/PlaceToGo/places/:id" element={<BestPlaceTG />}></Route> */}
+              {/* <Route path='/PlanYourTrip/TravelTip/ITINERARIES' element={<Itineraries />}></Route> */}
+              {/* <Route path="/PlanYourTrip/TravelTip/:id" element={<SingelTra />}></Route> */}
 
 
             </Route>

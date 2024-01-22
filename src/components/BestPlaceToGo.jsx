@@ -41,10 +41,10 @@ const BestPlaceTG = () => {
             </section>
 
             <TextSpotLight>{name} </TextSpotLight>
-            <ShareButtons></ShareButtons>
             <section className="section">
                 <div className="section-center">
                     <article className="article-container">
+                        <ShareButtons></ShareButtons>
                         <h2 className="text-center text-3xl sm:text-4xl italic font-bold">
                             {name}
                         </h2>

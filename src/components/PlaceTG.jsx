@@ -5,7 +5,7 @@ const PlaceToGo = ({ place, half }) => {
     const { imageSrc, name } = place;
     return (
         <Link
-            to={`/places/${name}`}
+            to={`/PlaceToGo/${name}`}
             className={`${half ? 'place-link-half' : ''} group place-link `}
         >
             <img alt={name} className="place-img" src={imageSrc} />

@@ -5,7 +5,7 @@ const Insp = ({ insp }) => {
     const { srcImg, route, name } = insp;
     return (
         <Link
-            to={`/inspired/${route}`}
+            to={`/ThingToDo/${route}`}
             className={` group  `}
         >
             <img alt={name} src={srcImg} />
